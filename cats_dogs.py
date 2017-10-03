@@ -37,7 +37,7 @@ bicho_misterioso3 = [0, 0, 1]
 
 teste = [bicho_misterioso1, bicho_misterioso2, bicho_misterioso3]
 
-marcacoes_teste = [-1, 1, 1]
+marcacoes_teste = [1, -1, 1]
 
 ######################## 4 OBSERVANDO RESULTADOS   ################################################ 
 resultado = modelo.predict(teste)
