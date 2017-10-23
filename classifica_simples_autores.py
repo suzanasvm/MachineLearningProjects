@@ -9,11 +9,11 @@ classificacoes = pd.read_csv('dataset.csv')
 #apenas as frases
 textosPuros = classificacoes['frase']
 #quebrar os textos e transforma tudo em minusculo
-textosQuebrados = textosPuros.str.lower().str.split(' ')
+textosMinusculo = textosPuros.str.lower().str.split(' ')
 
 #Cria um dicionario que ignora as palavras repetidas
 dicionario = set()
-for lista in textosQuebrados:
+for lista in textosMinusculo:
 	dicionario.update(lista)
 #Exibe todo o dicionario	
 print "Dicionario: "
@@ -40,12 +40,12 @@ def vetorizar_texto(texto, tradutor):
 	return vetor
 
 #Vincula os textos quebrados a posicao no vetor
-vetoresDeTexto = [vetorizar_texto(texto, tradutor) for texto in textosQuebrados]
+vetoresDeTexto = [vetorizar_texto(texto, tradutor) for texto in textosMinusculo]
 marcas = classificacoes['classificacao']
 
 #Exibe todas as frases do dataset
 print "Todas as frases do dataset: "
-print textosQuebrados
+print textosMinusculo
 
 #Define o conjunto de dados X
 X = np.array(vetoresDeTexto)
@@ -67,6 +67,7 @@ print tamanho_do_treino
 print "Frase para validacao: "
 print tamanho_de_validacao
 
+
 #Separa os dados de treino
 treino_dados = X[0:tamanho_do_treino]
 #Separa as marcacoes de treino
@@ -77,7 +78,7 @@ validacao_dados = X[tamanho_do_treino:]
 validacao_marcacoes = Y[tamanho_do_treino:]
 
 print "Textos usados na validacao: "
-print textosQuebrados[tamanho_do_treino:]
+print textosMinusculo[tamanho_do_treino:]
 print "Validacao Marcacoes: "
 print validacao_marcacoes
 
