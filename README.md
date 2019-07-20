@@ -4,6 +4,6 @@
 
     Leia o passo a passo do projeto em: https://medium.com/@suzana.svm/machine-learning-classificando-gatos-e-cachorros-d45f1fddbff
     
-2. Classificando Autores:
+2. Classificando textos - Beatles x Rolling Stones:
 
    Leia o passo a passo do projeto em:
