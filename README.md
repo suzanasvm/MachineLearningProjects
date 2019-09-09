@@ -6,4 +6,4 @@
     
 2. Classificando textos - Beatles x Rolling Stones:
 
-   Leia o passo a passo do projeto em:
+   Leia o passo a passo do projeto em:https://medium.com/@suzana.svm/https-medium-com-brasil-ai-classificando-textos-com-machine-learning-bb6a2abccefc
