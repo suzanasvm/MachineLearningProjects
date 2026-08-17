@@ -1,0 +1,4001 @@
+estado,idade,racacor,estacao,sint_tosse,sint_febre,sint_dor_cabeca,sint_dor_garganta,sint_coriza,sint_dispneia,sint_anosmia_ageusia,cond_respiratoria,target
+RJ,50,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,24,Parda,outono,0,1,0,1,1,0,0,0,0
+SP,6,Branca,outono,1,1,0,0,1,0,0,0,0
+SP,6,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Outra,primavera,0,1,1,0,0,0,0,0,0
+SP,37,Parda,outono,1,0,0,1,1,0,0,0,1
+RJ,37,Outra,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,outono,0,1,0,0,0,0,0,0,0
+MG,15,Branca,outono,0,1,1,0,0,0,0,0,1
+SP,24,Nao informado,outono,1,1,0,1,1,0,0,0,1
+SP,37,Parda,verao,0,0,0,0,0,0,0,1,0
+SP,24,Branca,outono,1,1,0,1,0,0,0,0,1
+SP,37,Branca,primavera,1,0,0,1,1,0,0,0,1
+SP,37,Branca,outono,1,1,1,1,0,0,0,0,1
+MG,24,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,primavera,1,0,1,0,0,0,0,0,1
+RJ,37,Branca,outono,0,0,0,0,0,0,0,0,1
+RJ,50,Branca,outono,0,0,0,0,0,0,0,0,0
+MG,37,Parda,verao,1,1,0,1,1,0,1,0,1
+SP,50,Branca,verao,1,1,0,1,0,0,0,0,1
+RJ,6,Nao informado,outono,0,1,0,0,0,1,0,0,1
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Parda,outono,1,0,1,1,1,0,0,0,1
+SP,24,Branca,inverno,0,0,1,0,0,0,0,0,0
+SP,37,Branca,verao,1,1,0,1,0,0,0,0,1
+MG,24,Branca,inverno,0,0,1,1,1,0,0,0,0
+RJ,24,Outra,verao,0,0,0,0,0,0,0,1,0
+MG,24,Nao informado,inverno,0,0,0,1,1,0,0,0,1
+SP,50,Branca,outono,1,1,1,1,0,0,0,0,1
+SP,50,Branca,verao,1,0,1,1,0,0,0,0,1
+MG,37,Nao informado,verao,1,0,0,0,1,1,0,0,1
+SP,37,Branca,primavera,0,0,1,0,1,0,0,0,0
+SP,24,Branca,inverno,1,1,1,1,0,0,0,0,0
+SP,50,Parda,outono,1,0,1,1,1,0,0,0,0
+SP,24,Parda,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,24,Parda,verao,1,1,0,0,1,0,0,0,0
+MG,6,Parda,outono,1,1,1,1,1,0,0,0,0
+SP,50,Branca,outono,0,0,0,0,1,0,0,0,1
+SP,6,Parda,outono,0,1,0,0,0,0,0,0,1
+MG,37,Parda,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Outra,verao,0,0,0,0,0,0,0,0,1
+SP,6,Branca,inverno,1,0,0,1,1,0,0,0,1
+MG,37,Nao informado,primavera,1,0,1,0,0,1,0,0,1
+SP,37,Outra,outono,1,0,0,1,1,0,0,0,1
+RJ,15,Nao informado,primavera,1,0,1,0,1,1,0,0,1
+RJ,37,Outra,primavera,0,0,1,1,1,0,0,0,0
+SP,15,Branca,inverno,1,0,0,0,0,1,0,0,0
+SP,50,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,24,Parda,verao,1,0,1,0,1,0,0,0,0
+SP,37,Nao informado,verao,1,1,1,0,0,0,0,1,0
+SP,24,Nao informado,verao,0,0,1,1,1,0,1,0,1
+SP,37,Branca,outono,1,1,0,1,0,0,0,0,1
+MG,24,Parda,verao,1,0,1,0,1,0,0,0,1
+SP,24,Branca,primavera,1,1,0,1,0,1,0,0,0
+RJ,50,Nao informado,outono,1,1,1,1,1,1,1,0,1
+SP,24,Outra,outono,1,0,1,0,1,0,0,0,0
+SP,24,Parda,verao,1,0,0,0,1,0,0,0,1
+MG,37,Branca,primavera,1,0,0,1,0,1,0,0,0
+RJ,6,Nao informado,outono,1,1,1,0,0,0,0,0,0
+SP,50,Branca,verao,1,1,1,1,1,0,0,0,1
+RJ,15,Nao informado,inverno,1,0,0,0,1,0,0,0,1
+SP,15,Branca,outono,1,0,0,0,1,1,0,0,1
+SP,24,Branca,verao,0,0,0,1,0,0,0,0,1
+MG,37,Nao informado,outono,0,1,0,0,0,0,0,0,0
+SP,50,Branca,inverno,0,0,1,1,1,0,0,0,0
+RJ,24,Nao informado,primavera,0,1,0,1,0,0,0,0,0
+SP,24,Branca,verao,1,1,0,0,1,0,0,0,1
+SP,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,50,Branca,inverno,1,0,1,0,1,0,0,0,1
+RJ,37,Branca,verao,1,1,0,1,0,0,1,0,0
+SP,37,Branca,verao,0,0,1,1,1,0,0,0,0
+MG,24,Outra,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,verao,0,0,1,0,1,0,0,0,0
+MG,37,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,outono,0,0,1,0,1,0,0,0,0
+SP,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,50,Parda,outono,0,1,1,0,0,0,0,0,1
+SP,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Nao informado,verao,0,1,1,0,0,0,0,0,1
+RJ,24,Outra,outono,1,1,1,1,1,0,1,0,0
+RJ,50,Outra,outono,1,0,1,1,1,0,0,0,0
+RJ,37,Branca,primavera,1,0,0,1,0,0,1,0,1
+SP,24,Branca,verao,1,0,0,1,1,0,0,0,0
+SP,37,Nao informado,verao,1,1,1,0,1,0,0,0,1
+SP,24,Branca,verao,1,0,1,0,1,0,0,0,1
+SP,24,Branca,verao,1,0,0,0,1,0,0,0,1
+SP,50,Branca,verao,1,1,1,1,1,0,1,0,1
+SP,6,Branca,verao,0,1,0,0,0,0,0,0,1
+SP,15,Branca,outono,1,0,0,1,0,0,0,0,0
+SP,6,Branca,inverno,0,1,0,0,1,0,0,0,0
+SP,37,Outra,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Outra,outono,0,0,0,0,1,0,0,0,0
+SP,6,Parda,inverno,0,1,1,0,0,0,0,0,1
+SP,37,Branca,inverno,1,0,1,1,1,0,0,0,1
+SP,24,Branca,verao,0,0,1,0,0,0,0,0,0
+RJ,37,Outra,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,0,0,1,0,0,0,0,0
+SP,24,Branca,primavera,1,1,0,1,0,1,0,0,1
+SP,6,Branca,primavera,0,0,0,0,0,0,0,0,1
+SP,24,Parda,primavera,0,0,1,1,0,0,0,0,1
+RJ,37,Parda,primavera,0,0,0,0,1,0,0,0,1
+SP,24,Branca,primavera,0,1,1,1,0,0,0,0,0
+SP,6,Branca,verao,0,1,0,0,1,0,0,0,0
+RJ,50,Nao informado,verao,0,1,1,0,0,0,0,0,1
+SP,24,Branca,verao,1,1,1,1,1,0,0,1,0
+SP,24,Outra,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Branca,outono,1,0,1,0,1,0,0,0,1
+MG,15,Outra,primavera,1,0,1,0,1,0,0,0,0
+SP,37,Branca,outono,0,0,1,1,0,0,0,0,0
+RJ,6,Parda,inverno,1,0,1,0,1,0,0,0,0
+MG,50,Outra,verao,0,0,1,1,1,0,0,0,0
+MG,24,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,37,Branca,verao,1,0,1,1,1,0,0,0,0
+RJ,50,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Outra,outono,1,0,1,0,1,0,0,0,0
+SP,37,Branca,outono,1,0,0,1,1,0,1,0,1
+SP,37,Branca,primavera,0,0,0,1,1,0,1,0,0
+SP,24,Parda,outono,0,1,0,0,0,0,0,0,1
+MG,37,Parda,verao,0,1,0,1,1,0,0,0,1
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,1
+MG,24,Outra,outono,0,0,0,0,0,0,0,0,0
+MG,24,Outra,primavera,1,0,1,1,1,0,0,0,0
+SP,37,Branca,inverno,0,1,1,0,1,0,0,0,1
+SP,37,Branca,inverno,1,1,0,1,1,1,0,0,1
+SP,37,Parda,outono,0,0,0,0,0,1,0,0,1
+MG,24,Parda,primavera,0,0,0,1,1,0,0,0,1
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,6,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,outono,1,0,0,0,0,0,1,0,0
+MG,15,Parda,verao,1,0,1,1,0,0,0,0,1
+SP,50,Nao informado,outono,1,1,1,1,0,0,0,0,1
+SP,24,Branca,primavera,1,0,1,0,1,0,0,0,1
+MG,24,Parda,outono,1,1,0,0,1,0,0,0,0
+SP,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,0,1,1,1,0,0,0,1
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Outra,inverno,1,0,0,0,1,0,0,0,0
+SP,37,Branca,inverno,0,0,0,1,1,0,0,0,1
+RJ,24,Nao informado,inverno,0,0,0,1,0,0,1,0,0
+RJ,50,Branca,primavera,1,0,1,1,1,0,1,0,0
+SP,37,Parda,inverno,1,0,0,0,1,1,0,0,0
+RJ,50,Parda,outono,1,1,0,0,1,0,0,0,0
+RJ,37,Outra,primavera,1,0,0,1,0,1,0,0,0
+SP,50,Branca,verao,1,0,0,1,0,0,0,0,1
+SP,37,Parda,primavera,0,1,1,1,0,0,0,0,1
+MG,37,Nao informado,verao,1,1,0,0,1,0,0,0,1
+RJ,24,Nao informado,outono,0,0,0,0,1,0,0,0,0
+SP,50,Branca,primavera,0,0,1,0,0,0,0,0,0
+MG,37,Outra,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Parda,verao,1,0,1,1,0,0,0,0,1
+SP,24,Branca,outono,1,1,1,0,1,0,0,0,0
+SP,37,Branca,verao,1,0,1,1,0,1,1,0,1
+SP,37,Branca,outono,1,1,1,0,0,0,0,0,1
+MG,37,Outra,primavera,1,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+SP,50,Branca,verao,1,0,0,1,0,0,0,0,1
+SP,24,Outra,verao,1,0,0,0,0,0,0,0,0
+SP,37,Parda,primavera,1,1,1,0,1,1,0,0,1
+SP,50,Branca,primavera,1,1,1,1,1,0,0,0,0
+SP,6,Nao informado,inverno,0,0,1,0,1,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,37,Outra,primavera,0,0,1,0,0,0,0,0,0
+SP,24,Parda,verao,1,0,0,0,1,0,0,0,1
+RJ,50,Outra,outono,1,1,0,0,1,0,0,1,0
+RJ,50,Nao informado,verao,0,0,1,0,0,0,0,0,0
+SP,24,Branca,inverno,1,1,0,1,0,0,0,0,1
+SP,24,Nao informado,verao,0,0,1,0,0,0,0,0,0
+SP,6,Parda,outono,1,1,1,0,1,0,0,0,1
+SP,6,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,inverno,0,0,0,0,1,0,0,0,1
+MG,37,Parda,primavera,1,1,0,0,0,0,0,0,0
+SP,15,Branca,outono,0,1,1,1,1,0,0,0,1
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,1,0,0,1,0,0,0,0,1
+MG,37,Outra,outono,1,0,0,0,0,0,0,0,0
+RJ,50,Branca,verao,1,1,1,0,1,0,0,0,1
+RJ,37,Outra,outono,0,0,0,0,0,0,0,0,0
+SP,50,Parda,outono,1,1,0,1,1,0,0,0,1
+RJ,24,Branca,outono,1,1,0,0,1,0,0,0,0
+SP,6,Branca,primavera,1,0,0,0,1,1,0,0,0
+MG,50,Outra,primavera,0,0,0,0,1,0,0,0,0
+SP,50,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+MG,37,Nao informado,verao,1,1,1,0,1,0,0,0,1
+SP,37,Parda,inverno,0,0,0,1,1,0,0,0,1
+MG,50,Nao informado,verao,0,1,0,1,0,0,0,0,0
+SP,50,Branca,verao,1,0,1,0,0,0,0,0,0
+MG,37,Parda,verao,1,0,0,0,0,1,0,0,1
+RJ,50,Outra,verao,1,1,0,1,0,0,0,0,1
+MG,24,Nao informado,verao,1,1,0,1,0,0,0,0,1
+SP,24,Branca,outono,1,0,0,0,0,0,0,0,1
+MG,24,Parda,verao,1,0,1,0,0,0,0,0,0
+MG,15,Parda,outono,1,1,1,0,0,0,0,0,0
+SP,24,Branca,verao,1,1,0,0,0,0,0,0,1
+RJ,24,Parda,verao,1,1,0,1,1,0,0,0,0
+MG,6,Parda,inverno,1,1,0,0,1,1,0,0,0
+RJ,37,Nao informado,outono,1,1,0,0,1,0,0,0,1
+SP,50,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,1,1,0,0,0,0,0,0,1
+SP,37,Branca,inverno,0,0,0,0,0,0,0,1,0
+MG,24,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,24,Outra,verao,1,0,1,1,1,0,1,0,1
+SP,37,Branca,outono,1,0,0,0,0,1,0,0,0
+SP,24,Parda,inverno,1,0,0,1,0,1,0,0,1
+SP,50,Branca,verao,1,0,0,1,0,0,0,0,1
+SP,37,Branca,verao,1,0,0,0,0,0,0,0,1
+MG,37,Parda,verao,0,1,1,0,0,0,1,0,0
+RJ,24,Parda,inverno,0,0,1,1,0,0,0,0,1
+MG,50,Nao informado,outono,0,0,1,1,1,0,0,0,1
+RJ,24,Nao informado,primavera,0,0,0,1,1,0,0,0,0
+SP,6,Branca,outono,1,0,0,1,0,0,0,0,0
+MG,37,Branca,verao,1,0,0,0,0,1,0,0,0
+SP,37,Branca,outono,0,0,0,1,1,0,0,0,1
+SP,24,Branca,outono,0,0,0,0,1,0,0,0,1
+MG,37,Nao informado,verao,1,0,0,0,1,0,0,0,1
+SP,37,Branca,outono,0,0,0,0,0,0,0,0,0
+MG,37,Outra,outono,0,0,1,1,1,0,0,0,0
+SP,24,Nao informado,inverno,0,0,0,1,1,0,0,0,0
+SP,6,Nao informado,verao,1,0,0,1,1,0,0,0,0
+MG,6,Outra,verao,0,1,0,1,0,0,0,0,0
+SP,37,Branca,primavera,0,0,0,0,0,0,0,0,1
+MG,37,Branca,primavera,1,0,0,0,0,0,0,0,1
+SP,24,Outra,primavera,1,0,1,0,1,0,0,0,0
+MG,6,Branca,outono,1,0,0,0,0,0,0,0,1
+SP,37,Nao informado,outono,1,1,1,0,1,0,0,0,1
+RJ,37,Parda,verao,1,1,1,0,0,0,0,0,1
+RJ,37,Parda,primavera,1,1,0,0,0,0,0,0,0
+MG,6,Branca,outono,1,1,1,0,1,0,0,0,0
+MG,37,Parda,primavera,1,1,0,0,0,1,0,0,0
+SP,15,Nao informado,primavera,0,0,0,1,1,0,0,0,1
+MG,50,Branca,verao,1,0,1,1,1,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Outra,primavera,0,0,0,0,0,0,0,1,0
+SP,37,Branca,inverno,1,0,1,1,1,0,0,0,1
+RJ,50,Parda,verao,1,0,1,0,1,0,0,0,1
+SP,50,Branca,outono,1,0,0,1,1,0,0,0,1
+SP,50,Branca,verao,0,1,0,1,1,0,0,0,1
+MG,37,Nao informado,outono,0,0,1,0,1,0,0,0,1
+SP,15,Branca,outono,1,1,1,1,1,0,0,0,0
+RJ,15,Parda,outono,0,1,1,1,0,0,1,0,0
+SP,50,Parda,verao,1,0,0,1,1,0,0,0,1
+SP,24,Parda,outono,1,1,0,0,1,0,0,0,0
+SP,24,Branca,primavera,1,0,0,0,1,0,0,0,0
+SP,50,Nao informado,verao,1,0,1,0,1,0,0,0,0
+SP,24,Nao informado,inverno,1,1,1,1,1,0,0,1,0
+SP,6,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,37,Parda,outono,0,1,0,0,0,0,0,0,0
+MG,24,Nao informado,verao,0,1,1,1,1,1,1,0,1
+SP,24,Branca,verao,0,0,1,1,1,0,0,0,1
+SP,15,Branca,verao,1,0,0,1,1,0,0,0,1
+SP,24,Branca,inverno,0,1,0,0,1,0,0,0,1
+SP,50,Parda,outono,1,1,0,0,0,0,0,0,1
+MG,50,Outra,primavera,1,1,1,0,0,0,1,0,1
+SP,24,Branca,outono,1,0,0,1,1,0,0,0,1
+RJ,37,Nao informado,verao,1,0,0,0,0,0,0,0,1
+SP,24,Branca,inverno,1,0,0,0,0,0,0,0,0
+SP,24,Branca,inverno,1,0,1,0,1,0,0,0,0
+SP,50,Branca,outono,1,0,1,0,0,0,0,0,1
+SP,24,Branca,outono,1,0,1,1,1,1,1,0,0
+SP,37,Branca,primavera,1,0,0,0,0,0,0,0,0
+MG,24,Nao informado,outono,1,1,0,1,0,0,0,0,0
+RJ,37,Parda,primavera,0,0,1,1,1,0,0,0,0
+SP,24,Branca,verao,1,0,0,0,0,0,0,0,1
+MG,37,Branca,inverno,1,0,0,0,0,1,0,0,0
+RJ,24,Outra,outono,0,0,0,0,1,0,0,0,0
+MG,24,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,6,Parda,primavera,1,0,0,0,1,0,0,0,0
+RJ,37,Branca,verao,0,0,0,0,1,0,0,0,0
+SP,6,Branca,primavera,1,1,0,0,1,0,0,0,1
+SP,24,Branca,primavera,1,0,1,0,1,0,0,0,1
+RJ,24,Nao informado,verao,1,0,0,0,0,0,0,0,1
+SP,37,Branca,primavera,1,0,0,0,1,0,0,0,0
+SP,24,Branca,verao,0,0,0,0,1,0,0,0,0
+SP,6,Parda,primavera,1,0,1,0,1,0,0,0,0
+MG,24,Branca,verao,1,0,1,0,1,0,0,0,1
+MG,50,Branca,primavera,1,1,1,1,0,0,0,0,1
+SP,15,Branca,verao,0,0,0,1,0,0,0,0,1
+MG,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,50,Branca,outono,1,1,1,0,1,1,0,0,1
+SP,15,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,0,1,1,1,1,0,0,0,1
+SP,37,Branca,primavera,0,0,1,0,0,0,0,0,1
+RJ,37,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,37,Outra,verao,1,0,1,1,1,0,0,0,1
+SP,50,Outra,inverno,1,0,0,1,0,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,15,Parda,verao,0,0,1,0,0,1,0,1,1
+MG,50,Branca,primavera,1,0,0,0,0,0,1,0,1
+SP,37,Branca,primavera,0,0,1,0,0,0,1,0,0
+SP,37,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,24,Parda,primavera,0,0,0,0,0,0,0,0,1
+RJ,50,Outra,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Branca,inverno,1,0,0,0,0,0,0,0,0
+RJ,50,Branca,verao,1,1,0,1,1,0,0,0,0
+MG,24,Parda,verao,0,0,0,1,0,0,0,0,1
+SP,6,Nao informado,outono,1,1,0,0,0,0,0,0,0
+SP,50,Branca,verao,1,1,1,0,0,0,0,0,1
+SP,24,Parda,outono,1,0,0,0,0,0,0,1,1
+MG,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,37,Branca,outono,1,0,0,0,1,0,0,0,1
+SP,24,Branca,outono,0,0,1,1,1,0,0,0,0
+SP,37,Nao informado,inverno,1,0,1,0,1,0,0,0,0
+RJ,24,Nao informado,primavera,0,0,1,1,0,0,0,0,1
+SP,37,Parda,primavera,1,0,0,0,1,0,0,0,0
+SP,24,Branca,verao,1,0,0,0,1,0,0,1,1
+MG,24,Parda,primavera,1,1,1,0,1,0,0,0,0
+SP,37,Branca,primavera,1,1,0,1,1,0,0,0,0
+MG,37,Nao informado,inverno,1,1,1,1,0,0,0,0,1
+SP,37,Outra,outono,1,1,1,1,1,0,1,0,1
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,1
+MG,37,Branca,verao,1,0,1,0,1,0,0,0,0
+RJ,50,Branca,primavera,1,1,0,0,0,0,0,0,1
+MG,24,Branca,verao,1,0,0,1,0,0,0,0,0
+SP,24,Branca,inverno,1,0,1,1,1,0,1,0,1
+SP,6,Branca,outono,0,1,0,0,0,0,0,0,0
+SP,15,Branca,outono,0,1,0,1,1,0,0,0,0
+SP,24,Outra,inverno,0,0,1,0,0,0,0,0,1
+SP,50,Parda,inverno,1,1,1,1,1,0,0,0,0
+MG,37,Branca,verao,1,1,1,0,0,0,0,0,0
+RJ,6,Parda,verao,1,1,0,1,1,0,0,0,0
+MG,37,Parda,outono,0,0,1,0,0,0,0,0,1
+SP,50,Nao informado,primavera,1,1,0,1,1,0,1,0,1
+MG,50,Branca,inverno,1,1,1,1,0,0,0,0,1
+MG,37,Nao informado,verao,1,1,0,0,1,0,0,0,0
+MG,37,Outra,verao,1,1,1,1,1,0,0,0,1
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,0,0,0,0,1,0,0,0
+SP,37,Branca,verao,0,0,0,1,0,1,0,0,1
+SP,15,Nao informado,primavera,1,1,1,1,1,1,0,0,0
+RJ,24,Branca,primavera,0,1,1,1,0,0,1,0,1
+MG,15,Nao informado,outono,0,0,1,0,1,0,0,0,1
+SP,37,Branca,verao,1,0,1,1,0,0,0,0,1
+RJ,24,Nao informado,inverno,1,1,1,0,1,0,0,0,1
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Branca,primavera,1,0,0,0,0,1,0,0,0
+MG,15,Parda,primavera,1,0,0,0,1,0,0,0,0
+SP,50,Branca,outono,1,0,1,1,1,0,0,0,0
+MG,6,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Outra,primavera,1,1,1,1,0,0,0,0,0
+RJ,37,Parda,verao,1,0,1,0,1,0,0,0,1
+SP,24,Outra,outono,0,0,0,0,0,0,0,0,0
+SP,37,Parda,primavera,1,1,0,0,1,0,0,0,0
+RJ,37,Nao informado,primavera,0,1,1,0,1,0,0,0,0
+SP,6,Branca,verao,1,0,0,1,1,0,0,0,0
+RJ,15,Branca,primavera,1,0,1,0,1,0,0,0,0
+SP,24,Nao informado,inverno,0,0,0,1,1,0,0,0,1
+RJ,24,Nao informado,outono,1,1,1,1,0,1,1,0,1
+SP,24,Branca,verao,1,1,1,1,1,0,0,0,1
+RJ,37,Outra,verao,0,0,0,0,0,0,0,0,1
+SP,24,Branca,outono,1,0,0,1,1,0,0,0,0
+MG,37,Branca,verao,1,1,1,1,0,0,0,0,1
+RJ,24,Outra,primavera,1,1,0,0,1,0,0,0,1
+SP,50,Outra,outono,1,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,1,1,1,0,0,0,0
+RJ,37,Nao informado,verao,1,1,1,1,0,0,0,0,1
+MG,15,Parda,verao,1,1,1,0,0,0,0,0,0
+RJ,50,Nao informado,verao,1,1,1,1,1,1,0,0,1
+SP,50,Branca,verao,1,1,1,0,0,1,0,0,1
+SP,24,Branca,verao,0,0,0,1,0,0,0,0,1
+MG,37,Branca,inverno,1,0,1,0,1,0,0,0,1
+RJ,37,Branca,outono,1,1,0,1,1,0,0,0,0
+SP,6,Nao informado,outono,1,0,0,0,1,0,0,0,0
+RJ,37,Parda,outono,0,0,0,0,0,0,0,0,1
+SP,24,Branca,primavera,1,1,1,1,1,1,0,0,1
+MG,37,Nao informado,inverno,1,0,1,0,0,0,0,0,1
+SP,24,Outra,verao,1,0,1,0,1,0,0,0,1
+MG,15,Parda,verao,1,1,0,0,0,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,37,Parda,verao,0,1,0,1,0,0,0,0,0
+SP,24,Nao informado,outono,0,0,0,0,0,0,0,0,0
+RJ,24,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,37,Nao informado,primavera,1,0,0,0,0,0,0,0,0
+RJ,37,Outra,inverno,0,0,0,1,1,0,0,0,0
+SP,24,Branca,verao,1,0,1,1,0,1,0,0,1
+MG,24,Parda,outono,1,0,0,1,1,0,0,0,0
+RJ,15,Branca,verao,0,1,0,1,0,0,0,0,1
+RJ,50,Parda,verao,1,0,1,1,1,0,0,0,0
+SP,50,Branca,outono,1,0,0,0,1,0,0,0,0
+SP,37,Nao informado,verao,1,0,0,0,1,0,0,0,1
+SP,24,Branca,outono,1,0,0,1,1,0,0,0,0
+MG,24,Nao informado,inverno,0,1,0,0,0,0,0,0,0
+MG,37,Parda,verao,1,0,1,1,0,0,0,0,1
+SP,37,Branca,outono,1,0,0,1,0,0,0,0,0
+SP,37,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,24,Nao informado,primavera,0,0,1,1,0,0,0,0,1
+SP,6,Branca,inverno,1,1,0,0,1,0,0,0,0
+SP,6,Branca,primavera,1,0,1,1,1,0,0,0,0
+MG,24,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,1,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,1
+SP,37,Branca,verao,0,0,1,1,1,0,0,0,0
+SP,37,Branca,verao,1,1,1,1,1,0,1,0,1
+MG,15,Branca,primavera,1,0,0,0,1,0,0,0,0
+SP,6,Branca,inverno,1,0,0,1,1,0,0,0,1
+MG,37,Branca,verao,0,0,0,1,1,0,0,0,0
+RJ,24,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+SP,24,Branca,verao,1,1,1,0,0,0,0,0,1
+MG,50,Parda,verao,1,0,0,0,0,0,0,0,1
+SP,24,Branca,primavera,1,1,0,1,1,0,0,0,0
+SP,37,Branca,outono,1,0,1,1,0,0,0,0,1
+SP,24,Parda,outono,0,0,1,1,1,0,0,0,1
+SP,37,Nao informado,verao,1,0,0,0,1,0,0,0,1
+RJ,50,Branca,primavera,1,0,1,0,0,0,0,0,1
+SP,6,Parda,outono,0,0,0,0,0,0,0,1,0
+MG,37,Outra,primavera,0,0,0,0,0,0,0,0,1
+SP,6,Nao informado,inverno,1,1,1,0,0,0,0,0,0
+MG,50,Parda,verao,0,0,0,0,0,1,0,0,1
+SP,24,Branca,outono,1,0,0,1,0,0,0,0,1
+SP,50,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,50,Parda,primavera,0,0,1,1,0,0,0,0,1
+MG,50,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,outono,1,1,0,1,1,0,0,0,1
+MG,50,Branca,outono,1,1,1,1,1,0,0,0,1
+RJ,50,Parda,primavera,0,0,0,0,0,0,0,0,1
+MG,50,Branca,verao,0,0,0,1,0,0,0,0,1
+RJ,24,Nao informado,verao,1,0,0,1,0,0,1,0,1
+RJ,24,Branca,outono,0,1,1,1,1,0,0,0,0
+RJ,37,Parda,inverno,1,0,0,0,0,0,0,0,0
+RJ,37,Branca,outono,1,1,0,0,0,0,0,0,1
+SP,37,Branca,inverno,1,0,0,1,1,0,0,0,1
+SP,24,Branca,outono,1,1,1,0,1,0,0,0,0
+RJ,37,Parda,outono,1,0,1,0,1,0,0,0,1
+SP,24,Branca,primavera,1,1,0,0,0,0,0,0,0
+SP,15,Parda,outono,1,1,1,0,1,0,0,0,0
+SP,24,Nao informado,outono,1,0,0,1,1,0,0,0,1
+RJ,6,Parda,outono,1,1,1,0,1,0,0,0,0
+SP,37,Branca,verao,0,1,1,1,1,0,0,0,1
+RJ,37,Nao informado,inverno,0,0,0,0,1,0,1,0,0
+RJ,37,Branca,outono,1,0,1,1,1,0,0,0,0
+MG,37,Nao informado,outono,1,0,1,1,1,0,0,0,1
+SP,37,Branca,primavera,1,0,1,0,1,0,0,0,0
+SP,24,Nao informado,verao,0,0,1,1,0,0,0,0,1
+SP,24,Parda,outono,0,0,0,0,0,0,0,0,0
+MG,6,Parda,outono,1,1,1,1,1,0,0,0,0
+SP,15,Branca,outono,1,1,0,0,0,0,0,0,1
+RJ,37,Branca,inverno,1,1,1,1,0,0,0,0,1
+RJ,6,Nao informado,primavera,1,0,1,0,0,0,0,0,1
+SP,50,Branca,outono,0,1,0,0,0,0,0,0,0
+RJ,24,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,verao,0,0,1,0,1,0,1,0,0
+RJ,50,Outra,outono,1,0,0,0,0,1,0,0,0
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,24,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,24,Parda,primavera,1,1,0,0,0,0,0,0,0
+MG,37,Parda,outono,1,1,1,0,1,1,0,0,1
+SP,6,Nao informado,outono,0,0,0,0,0,0,0,0,0
+RJ,24,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,15,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,6,Branca,inverno,1,0,1,0,1,1,0,0,0
+RJ,37,Nao informado,inverno,1,0,1,1,1,0,1,0,1
+SP,15,Parda,outono,0,0,1,1,1,0,0,0,0
+SP,37,Branca,primavera,0,0,0,0,0,0,0,0,1
+SP,6,Nao informado,outono,1,1,1,1,1,0,0,0,0
+SP,37,Branca,outono,1,1,1,0,1,0,0,0,1
+SP,6,Branca,verao,1,0,0,1,0,0,0,0,1
+SP,6,Parda,primavera,1,1,0,1,0,0,0,0,1
+RJ,50,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,0,0,0,1,0,0,0,1
+MG,50,Nao informado,verao,1,1,1,0,1,0,0,0,1
+SP,24,Parda,verao,0,1,0,1,0,0,0,0,1
+RJ,24,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,24,Branca,outono,1,1,1,0,1,0,0,0,1
+SP,15,Branca,inverno,0,0,1,1,0,0,0,0,0
+SP,6,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,37,Parda,verao,0,1,0,1,1,0,0,0,0
+SP,24,Branca,inverno,1,1,0,0,0,0,0,0,0
+RJ,37,Parda,verao,1,0,0,0,1,1,0,0,0
+RJ,6,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,37,Branca,verao,0,0,1,1,1,0,0,0,1
+SP,37,Parda,outono,0,1,0,1,1,0,0,0,1
+SP,37,Branca,outono,1,0,0,1,0,0,0,0,0
+SP,37,Parda,verao,0,1,0,0,0,0,0,0,0
+SP,6,Parda,primavera,1,1,0,0,1,0,0,0,0
+RJ,24,Branca,verao,0,0,0,1,0,0,0,0,0
+RJ,24,Parda,outono,0,0,1,0,0,0,1,0,1
+RJ,24,Branca,outono,0,1,0,1,1,0,0,0,0
+MG,24,Branca,inverno,0,0,1,1,0,0,0,0,0
+SP,37,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,37,Nao informado,outono,1,1,1,0,1,0,0,0,0
+RJ,15,Nao informado,primavera,1,0,0,0,1,0,0,0,1
+MG,37,Branca,primavera,0,1,1,0,0,0,1,0,0
+MG,50,Branca,outono,0,0,0,1,1,0,0,0,0
+SP,37,Branca,primavera,0,1,1,1,0,0,0,0,1
+SP,37,Parda,inverno,1,0,0,0,0,1,0,0,0
+SP,24,Branca,verao,1,1,1,0,0,1,0,0,0
+MG,50,Outra,inverno,1,0,1,0,1,0,0,0,0
+SP,24,Branca,verao,1,1,1,1,1,0,0,0,1
+MG,37,Branca,inverno,0,0,1,0,1,0,0,0,0
+SP,37,Nao informado,outono,0,0,1,1,1,0,0,0,1
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,37,Branca,inverno,0,0,1,1,1,0,0,0,0
+RJ,37,Nao informado,verao,1,0,1,1,1,0,0,0,0
+RJ,24,Outra,verao,1,1,1,1,1,0,0,0,1
+SP,37,Outra,outono,0,1,1,0,1,0,0,0,0
+MG,15,Parda,outono,1,1,0,1,0,0,0,0,0
+SP,37,Parda,outono,1,1,0,1,1,0,0,0,1
+MG,37,Outra,outono,1,0,1,1,1,0,0,0,1
+SP,24,Branca,primavera,1,1,0,0,1,0,1,0,1
+SP,24,Branca,verao,1,1,0,0,1,0,0,0,1
+SP,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,50,Outra,verao,0,1,0,0,1,0,0,0,0
+RJ,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,37,Outra,verao,0,0,1,1,0,0,0,0,0
+SP,15,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Outra,inverno,1,1,1,1,1,0,1,0,1
+SP,24,Parda,outono,0,1,1,0,0,0,0,0,0
+SP,6,Parda,outono,1,1,0,0,1,0,0,0,1
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,15,Branca,outono,1,0,1,0,1,0,0,0,0
+SP,24,Branca,primavera,1,1,0,1,1,0,0,0,0
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,0,1,1,0,0,0,0,1
+SP,37,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,0,1,0,1,0,0,0,0
+SP,37,Nao informado,verao,0,1,0,0,1,0,0,0,0
+SP,15,Branca,outono,0,0,0,0,0,0,0,0,1
+SP,50,Branca,verao,1,0,1,0,1,0,0,0,1
+SP,37,Nao informado,outono,0,0,1,0,0,0,0,0,1
+SP,15,Nao informado,inverno,1,1,1,0,1,1,1,0,1
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,inverno,0,1,1,0,1,0,0,0,0
+SP,24,Branca,inverno,0,1,0,0,1,0,0,0,0
+SP,37,Branca,verao,0,0,1,0,0,0,0,0,1
+SP,15,Branca,verao,1,1,1,1,0,0,0,0,0
+SP,6,Parda,primavera,0,1,0,1,1,0,0,0,0
+SP,37,Branca,primavera,0,0,1,1,1,0,0,0,1
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,24,Outra,verao,1,1,0,0,0,0,0,0,1
+RJ,37,Nao informado,outono,0,0,0,0,0,0,0,0,0
+RJ,15,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Nao informado,verao,1,0,0,1,0,0,0,0,1
+SP,37,Parda,primavera,1,0,0,0,0,0,0,0,0
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,37,Parda,outono,0,0,0,0,0,0,0,0,0
+MG,50,Nao informado,verao,0,1,1,1,0,0,0,0,1
+SP,50,Branca,inverno,1,1,1,0,0,0,0,0,0
+RJ,24,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+MG,15,Parda,verao,1,0,1,1,1,0,0,0,0
+SP,24,Branca,outono,1,0,1,1,0,0,0,0,1
+MG,24,Outra,primavera,0,0,0,0,1,1,1,0,0
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,1,0,0,0,0,0,0,0,0
+SP,15,Parda,verao,0,1,1,0,0,0,1,0,0
+MG,37,Parda,outono,1,0,1,1,1,0,1,0,0
+SP,15,Outra,outono,1,0,0,1,1,0,0,0,0
+RJ,37,Parda,primavera,0,0,1,1,0,0,0,0,0
+SP,37,Branca,verao,0,1,0,1,0,0,0,0,1
+MG,50,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,1
+SP,24,Branca,outono,0,0,0,0,0,0,0,1,1
+SP,50,Parda,primavera,1,0,0,0,1,0,0,0,0
+MG,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,6,Branca,primavera,1,0,0,0,1,0,0,0,1
+SP,24,Nao informado,outono,1,1,1,0,1,0,0,0,0
+RJ,37,Outra,primavera,1,0,1,0,1,0,0,0,0
+MG,37,Parda,outono,1,1,1,0,1,0,0,0,0
+RJ,37,Nao informado,verao,1,1,1,1,0,0,0,0,1
+SP,37,Branca,outono,1,0,0,1,1,0,0,0,1
+MG,37,Parda,verao,0,0,1,0,1,0,0,0,1
+RJ,50,Branca,verao,1,1,0,0,0,0,0,0,0
+SP,6,Branca,verao,1,1,0,1,0,0,0,0,0
+MG,15,Parda,outono,1,0,1,0,1,0,0,0,0
+SP,24,Branca,verao,1,0,1,0,1,0,1,0,0
+RJ,37,Parda,primavera,0,1,0,1,0,0,0,0,0
+MG,15,Parda,outono,1,0,1,1,0,0,1,0,0
+SP,24,Branca,verao,0,0,1,1,0,0,0,1,0
+RJ,50,Branca,primavera,1,0,1,1,1,0,1,0,1
+SP,50,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,50,Branca,primavera,0,1,0,1,1,0,0,0,1
+SP,50,Branca,verao,1,0,1,1,1,0,0,0,1
+MG,15,Parda,verao,0,1,0,0,0,0,0,0,1
+SP,24,Branca,verao,1,0,1,1,1,0,0,0,0
+SP,6,Branca,outono,1,0,0,0,1,0,0,0,0
+RJ,6,Parda,outono,0,1,0,0,0,0,0,0,0
+RJ,50,Branca,primavera,1,0,1,1,1,0,0,0,1
+SP,50,Branca,verao,0,0,0,0,1,0,1,0,0
+MG,24,Nao informado,verao,1,0,0,1,0,0,0,0,0
+MG,50,Branca,verao,1,1,1,1,1,0,0,0,1
+MG,24,Nao informado,verao,1,0,1,0,0,0,1,0,0
+RJ,24,Branca,outono,1,1,0,0,1,0,0,0,0
+RJ,24,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,6,Branca,outono,1,1,0,1,1,0,0,0,1
+MG,50,Branca,outono,1,1,0,1,0,0,0,0,1
+RJ,24,Branca,primavera,1,0,1,1,1,0,0,0,0
+SP,24,Branca,verao,1,0,0,0,0,0,0,0,0
+SP,24,Parda,inverno,1,0,1,1,0,0,0,0,0
+SP,24,Parda,inverno,0,0,0,0,0,0,0,0,1
+SP,37,Branca,outono,1,0,1,1,0,0,0,0,1
+RJ,37,Nao informado,inverno,1,0,1,1,0,0,0,0,1
+RJ,24,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,1,1,0,0,1,0,0,0,0
+SP,37,Branca,primavera,1,0,0,0,1,1,0,0,0
+SP,6,Branca,outono,0,1,1,0,0,0,0,0,0
+SP,37,Parda,primavera,1,0,1,0,1,1,0,0,1
+SP,37,Branca,inverno,0,1,0,0,1,0,0,0,0
+RJ,50,Parda,verao,1,0,1,0,0,0,0,0,0
+SP,15,Nao informado,outono,1,0,0,0,1,0,0,0,0
+RJ,6,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,verao,1,0,0,1,1,0,0,0,1
+SP,15,Nao informado,outono,0,1,0,1,0,0,1,0,0
+SP,37,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,6,Nao informado,inverno,1,1,0,0,0,0,0,0,1
+SP,6,Parda,verao,1,1,0,0,0,0,0,0,0
+RJ,50,Branca,inverno,0,0,0,0,0,0,0,0,1
+SP,6,Branca,outono,1,1,0,0,0,0,0,0,1
+SP,50,Nao informado,inverno,1,0,0,0,0,0,0,0,0
+RJ,24,Outra,verao,1,0,0,0,1,0,0,0,1
+MG,50,Branca,inverno,0,0,1,0,0,0,0,0,1
+SP,6,Nao informado,outono,0,1,0,0,0,0,0,0,1
+SP,37,Outra,verao,0,1,1,0,0,0,0,0,1
+MG,6,Parda,outono,1,1,0,1,0,0,0,0,0
+SP,24,Branca,primavera,0,0,0,0,0,0,0,0,1
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,50,Nao informado,verao,1,1,0,1,0,0,0,0,1
+RJ,37,Nao informado,verao,0,0,1,0,0,0,0,0,0
+SP,50,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,24,Parda,verao,1,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,1
+SP,24,Parda,primavera,1,0,1,1,1,1,1,0,1
+SP,50,Parda,inverno,1,1,1,1,0,1,0,0,1
+SP,15,Branca,verao,0,1,0,1,1,0,0,0,1
+RJ,24,Nao informado,verao,1,1,0,0,0,1,0,0,0
+SP,50,Branca,outono,1,1,1,1,0,0,0,0,0
+RJ,15,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Parda,inverno,1,0,1,1,1,0,0,0,1
+SP,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Branca,inverno,0,0,1,0,1,0,0,0,0
+SP,37,Branca,verao,0,0,0,1,0,0,0,0,0
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Outra,primavera,1,1,1,1,1,0,0,0,1
+RJ,50,Branca,outono,1,0,0,0,1,0,0,0,1
+SP,50,Parda,outono,1,1,1,1,1,0,0,0,1
+SP,24,Branca,outono,0,0,0,0,1,0,0,0,0
+MG,50,Branca,primavera,0,0,0,1,0,0,0,0,0
+RJ,15,Parda,inverno,0,0,0,0,0,0,0,0,1
+SP,15,Branca,inverno,1,1,1,1,1,1,1,0,1
+MG,24,Branca,outono,0,0,1,0,1,0,0,0,1
+MG,37,Parda,primavera,0,0,0,0,0,0,0,0,1
+RJ,24,Parda,primavera,0,0,1,1,0,0,0,0,0
+SP,24,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,37,Nao informado,outono,1,0,0,1,0,0,1,0,1
+SP,24,Nao informado,verao,0,1,1,0,0,1,0,0,0
+SP,50,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Outra,primavera,0,1,1,0,1,0,1,0,0
+SP,37,Parda,verao,1,1,1,0,0,0,0,1,1
+SP,37,Parda,primavera,1,0,1,1,0,0,0,0,1
+SP,50,Nao informado,outono,1,1,1,1,1,0,0,0,1
+SP,37,Branca,verao,1,1,1,0,0,0,0,0,1
+RJ,6,Parda,primavera,1,0,0,0,0,0,0,0,1
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Outra,outono,1,0,0,0,0,1,1,0,0
+SP,37,Nao informado,primavera,0,0,1,1,1,0,0,0,1
+SP,24,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,primavera,0,0,0,1,0,0,0,0,0
+SP,24,Nao informado,inverno,1,0,0,1,0,0,0,0,0
+MG,6,Branca,outono,0,1,1,0,0,0,0,0,0
+SP,6,Branca,verao,1,1,0,0,0,0,0,0,0
+MG,37,Branca,primavera,0,1,1,1,1,0,1,0,0
+SP,37,Branca,verao,1,1,1,1,0,0,0,0,1
+SP,24,Branca,primavera,1,0,0,0,0,0,0,0,0
+SP,6,Nao informado,inverno,1,1,0,1,0,0,0,0,0
+SP,50,Nao informado,inverno,1,0,1,1,1,0,0,0,1
+SP,6,Branca,inverno,0,1,0,0,0,0,0,0,1
+SP,50,Outra,verao,0,1,0,1,0,0,0,0,1
+SP,24,Branca,outono,1,1,0,0,1,0,0,0,0
+RJ,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,primavera,0,1,0,0,0,0,0,0,0
+SP,37,Outra,verao,0,0,0,0,1,0,0,0,1
+MG,24,Nao informado,inverno,1,0,0,0,0,0,0,0,1
+SP,24,Branca,verao,0,0,1,1,1,0,0,0,0
+RJ,24,Outra,outono,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,primavera,0,0,0,0,0,0,0,0,1
+SP,50,Nao informado,outono,0,1,1,0,0,0,0,0,0
+RJ,24,Outra,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,15,Branca,primavera,0,0,1,0,0,1,0,1,0
+MG,24,Outra,inverno,0,0,1,0,1,0,0,0,1
+MG,24,Parda,verao,1,0,0,0,1,0,0,0,0
+SP,15,Outra,primavera,1,0,1,1,0,0,0,0,1
+SP,50,Branca,outono,1,1,0,1,0,0,0,0,1
+MG,6,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Outra,verao,0,0,1,0,1,0,0,0,1
+MG,24,Parda,primavera,1,1,0,0,1,0,0,0,0
+SP,24,Branca,outono,0,0,0,1,0,0,0,0,0
+SP,37,Branca,verao,0,0,1,0,0,0,0,0,0
+SP,50,Branca,inverno,1,1,0,0,1,1,0,0,0
+MG,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,6,Nao informado,outono,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,inverno,0,1,1,1,0,0,0,0,1
+SP,24,Branca,primavera,1,0,0,1,1,0,0,0,0
+SP,24,Branca,outono,1,0,1,0,1,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,6,Nao informado,primavera,0,1,0,1,1,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,outono,0,0,0,0,0,0,0,0,0
+MG,37,Parda,inverno,0,0,1,0,0,0,1,0,1
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,24,Parda,primavera,1,1,1,1,1,0,0,0,0
+SP,37,Branca,verao,1,0,0,1,0,0,0,0,1
+SP,24,Parda,outono,0,1,0,0,0,0,0,0,0
+RJ,50,Outra,primavera,0,0,1,1,1,0,0,0,0
+SP,37,Parda,verao,1,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,0,1,0,0,0,0,0,0,0
+RJ,6,Parda,verao,0,1,1,0,1,0,0,0,0
+SP,37,Branca,inverno,1,1,1,0,0,0,0,0,1
+RJ,37,Nao informado,verao,0,1,1,0,0,0,0,0,1
+SP,50,Branca,outono,1,0,1,1,1,0,0,0,1
+MG,50,Parda,verao,0,0,1,0,1,0,0,0,1
+SP,50,Parda,verao,1,0,1,0,0,0,0,0,1
+SP,37,Outra,verao,0,1,1,0,0,0,0,0,1
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+SP,50,Nao informado,primavera,1,0,0,1,1,0,1,0,1
+SP,37,Branca,primavera,0,0,1,1,0,0,0,0,0
+MG,24,Parda,verao,0,1,1,1,1,0,0,0,1
+RJ,24,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,24,Parda,primavera,0,0,0,0,0,0,0,0,1
+SP,37,Branca,inverno,0,1,0,0,0,0,1,0,0
+SP,50,Branca,verao,0,1,1,1,0,0,0,0,1
+SP,50,Nao informado,outono,1,1,1,1,1,0,0,0,1
+SP,37,Branca,outono,0,0,1,1,1,0,0,0,0
+MG,6,Branca,inverno,1,0,0,0,0,0,1,0,0
+MG,15,Outra,verao,1,0,1,1,1,0,0,0,0
+MG,37,Parda,verao,1,0,0,1,0,0,0,0,1
+SP,37,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,37,Parda,inverno,1,0,1,0,1,0,0,0,0
+MG,24,Branca,outono,0,0,1,1,1,0,0,0,0
+SP,6,Outra,verao,0,1,0,0,0,0,0,0,0
+MG,37,Branca,primavera,0,0,1,1,1,0,0,0,0
+SP,37,Branca,primavera,1,1,0,0,0,0,0,0,0
+SP,50,Nao informado,inverno,1,0,1,1,0,0,0,0,1
+RJ,6,Parda,outono,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,primavera,0,0,1,0,0,0,0,0,0
+SP,37,Parda,verao,0,0,1,0,0,0,0,0,1
+SP,37,Outra,outono,0,1,0,0,1,0,0,0,0
+RJ,24,Outra,inverno,0,0,0,0,0,0,0,0,1
+RJ,15,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,50,Branca,verao,0,0,1,0,0,0,0,0,1
+SP,50,Branca,primavera,1,1,0,0,1,0,0,0,0
+SP,37,Outra,primavera,1,0,0,1,1,0,0,0,1
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,50,Parda,verao,1,1,1,0,1,0,0,0,1
+MG,37,Parda,verao,0,0,0,0,1,0,0,0,0
+SP,37,Branca,verao,1,1,0,1,0,0,0,0,1
+RJ,24,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Branca,primavera,0,1,1,1,1,0,0,0,1
+RJ,50,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,1,1,0,0,0,0,0
+SP,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,verao,1,1,1,0,0,0,0,0,1
+RJ,37,Branca,verao,0,0,0,0,0,0,0,0,1
+RJ,50,Branca,verao,1,1,0,0,0,0,0,0,1
+RJ,37,Nao informado,verao,0,1,0,1,0,0,0,0,1
+RJ,24,Outra,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Parda,outono,1,0,0,0,1,0,0,0,0
+SP,50,Branca,primavera,1,0,1,0,0,0,0,0,1
+SP,37,Outra,verao,1,1,0,0,1,0,0,0,0
+SP,24,Branca,outono,1,0,1,0,1,0,0,0,1
+SP,37,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,6,Branca,outono,1,0,1,0,1,0,0,0,0
+SP,37,Branca,inverno,1,1,0,0,0,0,0,0,1
+SP,37,Branca,primavera,1,0,1,0,1,0,0,0,0
+SP,24,Nao informado,inverno,0,0,0,1,0,0,0,1,0
+SP,24,Branca,outono,1,0,1,1,1,1,1,0,0
+SP,50,Parda,primavera,1,0,0,1,1,0,0,0,0
+SP,6,Parda,outono,1,1,0,0,1,0,0,0,1
+RJ,15,Branca,primavera,1,1,0,0,1,0,0,0,0
+SP,50,Branca,outono,1,1,1,1,1,1,1,0,1
+SP,37,Branca,primavera,1,0,0,0,1,0,0,0,0
+SP,37,Parda,verao,1,1,1,0,1,0,0,0,1
+MG,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,50,Parda,verao,1,0,0,1,1,0,0,0,1
+SP,6,Branca,primavera,1,1,0,0,0,0,0,0,0
+SP,37,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,24,Parda,inverno,0,1,0,0,0,0,0,0,1
+RJ,24,Outra,verao,1,1,0,1,1,0,0,0,1
+MG,24,Branca,verao,0,0,1,0,1,0,0,0,1
+SP,37,Branca,primavera,0,0,0,0,1,0,0,0,1
+SP,24,Nao informado,outono,0,0,0,0,0,0,0,0,1
+MG,37,Parda,verao,1,1,0,0,1,0,0,0,1
+SP,50,Parda,verao,1,0,1,1,1,1,0,1,1
+SP,37,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Outra,verao,1,1,1,0,1,0,0,0,1
+SP,50,Nao informado,verao,0,0,1,1,1,0,1,0,1
+MG,37,Nao informado,verao,0,1,1,1,0,0,0,0,1
+SP,24,Outra,verao,0,1,1,0,1,0,0,0,1
+RJ,24,Branca,verao,0,0,0,0,0,0,0,0,1
+RJ,50,Nao informado,inverno,1,0,0,0,1,0,0,0,0
+RJ,50,Nao informado,verao,1,1,1,0,0,0,0,0,1
+SP,24,Parda,verao,1,0,1,0,1,0,0,0,1
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,verao,0,1,1,0,0,0,0,0,0
+SP,37,Nao informado,primavera,1,0,0,0,1,0,0,0,1
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Parda,inverno,1,1,1,0,1,0,0,0,0
+SP,24,Parda,outono,1,1,0,1,0,1,0,0,0
+MG,6,Branca,primavera,0,1,0,0,0,0,0,0,0
+SP,50,Parda,verao,0,1,0,1,0,0,0,0,1
+MG,24,Parda,primavera,0,1,0,0,0,0,0,0,0
+RJ,37,Parda,primavera,0,0,0,1,0,0,0,0,1
+MG,37,Outra,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,verao,1,1,1,1,1,1,0,0,1
+MG,24,Parda,outono,0,1,0,1,0,0,0,0,1
+RJ,6,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,6,Branca,outono,0,1,1,0,0,0,0,0,0
+MG,50,Nao informado,verao,0,0,0,1,0,0,0,0,1
+SP,24,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,24,Outra,verao,0,0,0,0,0,0,0,0,0
+SP,15,Parda,outono,1,0,1,0,1,0,0,0,0
+RJ,37,Outra,primavera,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,verao,1,0,0,0,0,0,0,0,1
+MG,50,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,37,Outra,verao,1,0,0,0,1,0,0,0,1
+SP,15,Branca,primavera,0,0,0,0,0,0,0,0,0
+MG,37,Parda,verao,1,1,1,0,0,0,0,0,1
+SP,37,Parda,verao,1,0,0,0,0,0,0,0,1
+SP,24,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,37,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,50,Outra,verao,1,1,0,0,0,0,0,0,1
+SP,50,Parda,inverno,0,1,1,0,0,1,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,1,0,0,1
+SP,15,Branca,primavera,1,0,1,1,1,0,0,0,0
+SP,15,Parda,outono,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,primavera,0,0,0,0,0,0,0,0,0
+MG,37,Nao informado,verao,1,1,1,0,0,0,0,0,1
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,1,1,1,1,0,0,0,1
+MG,24,Outra,outono,1,1,1,1,1,0,0,0,1
+RJ,24,Nao informado,verao,1,0,1,1,1,0,0,0,1
+RJ,6,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,6,Parda,primavera,1,0,0,0,0,0,0,0,1
+SP,24,Branca,outono,1,1,1,1,1,0,0,0,0
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,inverno,1,1,0,1,1,0,0,0,1
+MG,37,Parda,verao,1,1,1,0,0,0,0,0,1
+MG,37,Branca,outono,1,1,0,0,0,0,0,0,0
+SP,24,Nao informado,inverno,1,1,1,1,1,0,0,0,0
+SP,6,Branca,outono,0,0,0,1,0,0,0,0,0
+RJ,37,Parda,inverno,1,1,1,0,1,1,0,0,1
+SP,50,Parda,verao,0,0,1,1,1,0,0,0,1
+SP,24,Branca,outono,1,0,1,1,0,1,0,0,0
+MG,6,Nao informado,outono,1,0,0,0,1,0,0,0,0
+MG,37,Parda,primavera,1,1,0,1,1,0,0,0,1
+SP,37,Branca,primavera,1,0,1,0,1,0,0,0,1
+SP,50,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,37,Parda,verao,1,1,0,1,1,0,0,0,0
+RJ,24,Outra,inverno,0,0,0,0,0,0,0,0,0
+SP,6,Branca,verao,1,1,0,1,1,0,0,0,1
+RJ,24,Branca,verao,1,0,0,0,1,0,1,0,0
+SP,37,Nao informado,primavera,1,0,0,1,0,0,0,0,1
+MG,50,Parda,outono,1,0,1,1,1,1,0,0,0
+MG,24,Branca,outono,0,0,0,1,0,0,0,0,1
+SP,37,Branca,inverno,1,0,0,1,1,0,0,0,1
+SP,50,Branca,verao,0,1,1,0,1,0,0,1,1
+RJ,37,Outra,outono,1,1,1,0,1,0,0,0,1
+SP,6,Outra,outono,1,0,0,1,1,0,0,0,1
+SP,15,Nao informado,inverno,0,1,1,0,0,1,1,0,1
+MG,24,Branca,primavera,1,0,1,1,1,0,0,0,1
+MG,50,Nao informado,primavera,0,0,1,0,0,0,0,0,1
+SP,50,Nao informado,inverno,0,1,0,1,0,0,1,0,1
+RJ,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,15,Branca,outono,1,0,1,1,1,0,0,0,1
+MG,6,Nao informado,primavera,1,1,0,0,0,0,0,0,0
+MG,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,6,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,1,0,0,1,1,0,1,0,1
+RJ,37,Outra,outono,1,0,0,0,1,1,0,0,0
+RJ,6,Nao informado,verao,1,0,0,0,0,0,0,0,1
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,1
+RJ,37,Parda,verao,1,0,0,0,0,1,0,0,1
+MG,15,Branca,verao,0,0,0,0,0,1,0,0,1
+MG,24,Parda,verao,1,1,1,1,1,1,1,0,0
+MG,15,Parda,primavera,1,1,0,1,0,0,0,0,0
+RJ,37,Outra,inverno,1,1,0,0,0,0,0,0,1
+SP,24,Parda,inverno,1,1,0,0,0,1,0,0,0
+SP,50,Parda,verao,0,0,1,1,1,0,0,0,1
+MG,37,Branca,outono,0,0,1,1,1,0,0,0,1
+SP,15,Branca,outono,0,0,1,1,1,0,0,0,0
+SP,15,Branca,outono,1,1,1,0,1,0,0,0,1
+SP,24,Nao informado,inverno,1,1,1,1,1,0,1,0,1
+MG,50,Nao informado,verao,1,0,1,0,0,0,0,0,1
+RJ,24,Parda,outono,1,0,0,0,0,1,0,0,1
+SP,24,Branca,primavera,0,0,0,0,0,0,0,1,0
+SP,24,Branca,verao,0,0,1,1,1,0,0,0,1
+RJ,50,Branca,inverno,1,1,1,0,0,0,0,0,1
+SP,37,Branca,primavera,1,1,1,1,0,0,0,0,1
+MG,37,Branca,outono,0,0,0,0,0,0,0,0,0
+MG,37,Parda,outono,1,0,0,0,1,0,0,0,0
+MG,37,Outra,outono,0,0,1,1,0,0,0,0,0
+RJ,15,Nao informado,outono,0,0,1,0,0,0,0,0,0
+RJ,37,Parda,outono,1,0,1,0,0,1,0,0,1
+SP,24,Branca,outono,0,1,0,1,0,0,0,0,0
+MG,24,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,0,0,1,0,0,0,1
+SP,15,Nao informado,primavera,1,1,1,0,0,0,1,0,0
+RJ,37,Branca,verao,1,1,0,1,1,0,0,0,1
+RJ,37,Parda,primavera,1,1,1,1,1,0,0,0,1
+MG,37,Parda,verao,1,1,0,1,0,0,0,0,1
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,0
+RJ,37,Branca,primavera,1,0,0,1,0,0,0,0,0
+MG,15,Parda,verao,0,0,1,1,0,0,0,0,0
+SP,24,Nao informado,inverno,1,1,1,0,0,0,0,0,0
+SP,37,Outra,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,0,1,0,0,0,0,1
+SP,37,Branca,inverno,1,1,1,1,1,0,0,0,1
+MG,6,Branca,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Branca,inverno,1,1,0,0,1,1,0,0,0
+MG,50,Branca,primavera,0,0,0,0,0,0,0,0,0
+MG,37,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,primavera,1,0,0,0,1,0,0,0,1
+MG,50,Branca,outono,0,0,0,1,0,0,0,0,1
+RJ,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,50,Nao informado,verao,1,0,0,1,0,0,0,0,0
+RJ,50,Parda,primavera,0,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,0,1,0,1,0,0,0,0,0
+SP,50,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,6,Branca,primavera,1,1,0,0,1,0,0,0,0
+SP,6,Parda,outono,1,0,0,0,1,0,0,0,1
+SP,50,Branca,outono,1,0,0,0,1,0,0,0,1
+SP,24,Branca,primavera,0,1,1,0,0,0,0,0,1
+SP,24,Branca,primavera,0,0,0,0,0,0,0,0,0
+MG,37,Nao informado,outono,1,1,1,0,0,0,0,0,0
+RJ,37,Branca,primavera,1,1,0,1,1,0,0,0,0
+RJ,6,Branca,outono,1,0,0,0,1,0,0,0,0
+RJ,24,Outra,primavera,0,1,1,1,1,0,0,0,0
+SP,37,Parda,verao,1,1,0,0,1,0,0,0,0
+SP,50,Nao informado,inverno,1,0,1,0,0,0,0,0,0
+MG,37,Branca,primavera,1,1,0,0,0,0,0,0,0
+SP,50,Branca,verao,0,0,1,1,1,0,0,0,0
+MG,37,Parda,verao,1,1,0,0,0,0,0,0,0
+SP,24,Outra,verao,0,0,0,0,0,0,0,0,1
+MG,50,Parda,primavera,0,1,0,1,1,0,0,0,0
+SP,24,Parda,verao,1,0,0,1,1,0,0,0,1
+SP,37,Branca,primavera,1,0,1,1,1,0,0,0,1
+MG,24,Parda,outono,0,0,1,0,1,1,0,0,0
+SP,37,Nao informado,outono,1,0,1,1,1,0,0,0,1
+SP,6,Parda,outono,1,1,0,0,1,0,0,0,1
+RJ,15,Parda,outono,0,0,0,0,0,0,0,0,1
+SP,37,Branca,primavera,0,0,0,1,1,0,0,0,1
+SP,6,Parda,primavera,0,0,0,0,0,0,0,0,1
+RJ,37,Branca,verao,0,0,1,0,1,0,0,0,1
+SP,24,Nao informado,primavera,1,0,1,0,0,0,0,0,1
+SP,37,Nao informado,verao,1,1,1,0,0,1,1,0,1
+SP,24,Branca,primavera,1,1,1,1,1,0,0,0,1
+SP,50,Branca,outono,0,0,0,0,1,0,0,0,1
+SP,37,Parda,verao,0,1,0,0,0,0,0,0,1
+SP,24,Parda,outono,1,1,1,1,1,1,1,0,0
+SP,6,Branca,outono,1,1,0,0,1,0,0,0,0
+RJ,37,Outra,verao,0,0,1,0,0,0,0,0,1
+SP,15,Parda,verao,0,0,0,1,1,0,0,0,0
+RJ,6,Parda,verao,0,1,0,1,0,0,0,0,0
+SP,37,Parda,outono,1,1,1,1,1,1,1,0,0
+RJ,50,Branca,outono,0,1,1,1,0,0,0,0,1
+SP,24,Branca,verao,0,1,1,0,0,0,0,0,1
+SP,6,Branca,outono,0,1,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,6,Branca,primavera,0,1,0,0,0,0,0,0,0
+SP,50,Outra,outono,1,1,0,0,0,0,0,1,0
+MG,24,Parda,verao,1,0,1,1,1,0,0,0,0
+SP,24,Branca,inverno,1,1,0,0,0,0,0,0,1
+SP,6,Branca,verao,1,1,0,0,1,0,0,0,1
+MG,24,Nao informado,primavera,1,1,1,1,1,0,0,0,0
+SP,6,Parda,outono,0,0,0,0,0,0,0,1,0
+RJ,50,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,1,1,0,0,0,0,0
+SP,24,Parda,verao,0,1,0,1,1,0,0,0,1
+SP,6,Nao informado,verao,0,0,0,0,1,0,0,0,1
+SP,50,Parda,primavera,1,1,1,1,1,0,0,0,0
+SP,50,Branca,outono,0,1,0,1,0,0,0,0,1
+SP,37,Branca,primavera,1,1,0,1,0,0,0,0,0
+SP,6,Branca,outono,1,1,0,0,1,0,0,0,0
+MG,24,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,24,Branca,outono,1,0,1,1,0,0,0,0,1
+RJ,50,Parda,primavera,1,0,1,1,0,1,0,0,1
+SP,6,Parda,verao,0,0,0,0,0,0,0,0,1
+MG,50,Parda,primavera,1,0,1,1,1,0,0,0,1
+SP,15,Nao informado,primavera,1,1,1,0,0,0,0,0,0
+MG,37,Branca,outono,0,0,0,0,1,0,0,0,0
+RJ,24,Nao informado,verao,0,1,0,1,0,0,1,0,1
+MG,50,Outra,verao,1,0,1,0,0,0,0,0,1
+SP,24,Branca,primavera,1,1,1,0,0,0,0,0,0
+RJ,24,Nao informado,verao,1,0,0,1,0,0,0,0,1
+SP,24,Nao informado,inverno,1,0,0,0,1,1,0,0,0
+SP,37,Branca,outono,1,0,1,1,1,0,1,0,1
+MG,37,Outra,verao,0,1,0,0,1,0,0,0,0
+RJ,50,Nao informado,primavera,1,1,0,1,1,0,1,0,1
+SP,50,Branca,inverno,0,0,0,0,1,0,0,0,0
+RJ,37,Branca,verao,1,1,1,1,1,1,1,0,0
+RJ,37,Parda,outono,1,1,0,0,1,0,1,0,0
+SP,6,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,50,Branca,outono,1,0,1,1,1,0,0,0,1
+SP,50,Branca,primavera,1,0,1,1,1,1,0,0,0
+SP,24,Branca,verao,0,0,1,1,1,0,0,0,0
+RJ,50,Parda,verao,1,1,1,0,0,0,0,0,1
+SP,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,outono,0,1,1,0,1,0,0,0,0
+MG,6,Parda,verao,1,1,0,0,1,0,0,0,0
+MG,24,Branca,verao,1,1,1,0,0,0,0,0,1
+SP,24,Branca,verao,1,1,1,1,1,0,1,0,0
+SP,6,Branca,primavera,0,0,1,0,1,0,0,0,0
+SP,37,Parda,primavera,0,0,0,0,0,0,0,0,0
+MG,37,Branca,outono,1,0,1,0,1,0,0,0,1
+SP,37,Branca,outono,1,0,1,0,1,0,0,0,1
+SP,15,Branca,outono,0,1,0,0,1,0,0,0,0
+SP,37,Branca,outono,1,0,1,0,1,0,0,0,1
+MG,24,Branca,outono,1,1,0,1,1,1,0,0,1
+SP,6,Nao informado,outono,1,1,0,1,1,0,0,0,0
+SP,50,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,primavera,0,0,0,1,1,0,0,0,1
+SP,50,Branca,inverno,1,0,1,1,1,0,1,0,1
+SP,37,Branca,inverno,1,0,0,0,1,0,0,0,1
+SP,50,Branca,primavera,1,0,1,1,0,0,0,0,1
+RJ,50,Branca,outono,1,1,1,0,0,1,0,0,0
+MG,50,Branca,inverno,1,0,1,0,0,0,0,0,1
+RJ,6,Parda,verao,1,1,0,0,1,0,0,0,1
+SP,37,Branca,primavera,0,1,0,1,0,0,0,0,0
+RJ,37,Parda,verao,1,1,0,0,1,0,0,0,1
+SP,24,Branca,outono,0,1,0,0,0,0,1,0,0
+RJ,37,Nao informado,verao,1,1,1,1,1,0,0,0,1
+SP,37,Parda,outono,1,1,1,0,0,0,0,0,0
+MG,6,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,37,Parda,verao,0,0,1,1,0,0,0,0,1
+MG,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,50,Nao informado,primavera,0,0,1,1,0,0,0,0,0
+RJ,24,Nao informado,outono,0,1,1,0,1,0,0,0,0
+SP,37,Nao informado,primavera,0,1,0,0,0,0,0,0,0
+MG,6,Branca,outono,1,0,0,1,0,0,0,0,0
+RJ,50,Nao informado,outono,0,0,1,1,1,0,0,0,1
+MG,24,Branca,inverno,1,0,1,0,0,0,0,0,1
+SP,37,Nao informado,outono,0,1,0,1,0,1,0,0,1
+SP,24,Outra,outono,0,1,1,0,1,0,0,0,0
+SP,50,Nao informado,inverno,0,0,0,1,0,0,0,0,1
+SP,37,Branca,outono,1,0,1,1,1,0,1,0,0
+MG,15,Nao informado,outono,0,0,1,1,0,0,0,0,0
+MG,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,24,Branca,primavera,0,1,0,0,1,0,0,0,1
+SP,24,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,37,Parda,inverno,1,1,1,1,1,0,0,0,1
+RJ,50,Branca,verao,1,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,0,1,0,0,1,0,0,0,1
+RJ,6,Parda,inverno,0,0,0,0,0,0,0,0,1
+MG,37,Parda,inverno,1,0,1,0,1,0,0,0,1
+SP,50,Branca,verao,1,1,1,1,1,0,0,0,1
+MG,6,Branca,outono,0,1,0,0,0,0,0,0,0
+MG,50,Branca,outono,0,0,0,0,1,0,0,0,0
+RJ,24,Nao informado,outono,1,1,0,0,0,0,0,0,1
+SP,15,Branca,outono,0,0,1,0,1,0,0,0,0
+SP,50,Outra,inverno,0,0,0,0,0,0,0,0,1
+MG,37,Branca,primavera,1,1,1,0,1,0,0,0,0
+SP,24,Branca,inverno,1,1,0,0,1,1,0,0,0
+RJ,24,Parda,primavera,1,1,1,1,0,0,0,1,1
+SP,50,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,37,Outra,verao,1,1,0,1,1,0,0,0,1
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,verao,1,1,1,1,0,0,0,0,0
+SP,50,Branca,outono,0,0,1,0,1,0,0,0,1
+SP,15,Outra,inverno,1,1,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,1,1,0,1,0,0,0,0
+SP,50,Nao informado,inverno,0,0,0,0,1,0,0,0,1
+MG,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,50,Branca,outono,0,1,1,1,0,1,0,0,0
+SP,37,Branca,inverno,1,1,1,1,1,0,0,0,1
+RJ,50,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,6,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,24,Branca,outono,1,0,1,0,1,0,0,0,1
+MG,50,Parda,outono,1,0,1,0,1,0,0,0,1
+RJ,15,Nao informado,outono,1,0,1,0,1,0,0,0,0
+RJ,37,Branca,primavera,1,1,1,1,0,0,0,0,0
+SP,24,Outra,primavera,1,1,1,0,0,0,1,0,0
+SP,24,Branca,verao,1,1,0,1,0,0,0,0,1
+RJ,24,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,50,Outra,inverno,0,0,0,0,0,0,0,0,0
+RJ,15,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,verao,0,0,1,1,0,0,0,0,1
+RJ,37,Branca,primavera,1,1,1,0,1,0,1,0,0
+SP,37,Nao informado,outono,1,0,0,0,1,0,0,0,1
+MG,50,Branca,verao,1,0,1,1,1,0,0,0,1
+RJ,50,Outra,outono,1,0,1,1,1,0,0,0,0
+SP,50,Branca,outono,0,1,0,0,1,0,0,0,1
+SP,37,Branca,verao,1,0,0,0,1,0,0,0,1
+MG,6,Nao informado,primavera,1,1,0,0,0,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,outono,0,1,1,0,0,0,0,0,1
+SP,6,Outra,primavera,0,1,0,0,1,0,0,0,1
+MG,15,Branca,primavera,1,1,0,0,1,0,0,0,1
+SP,24,Branca,verao,0,0,1,1,0,0,0,0,1
+RJ,37,Outra,inverno,0,1,1,0,0,0,1,0,1
+RJ,6,Nao informado,outono,0,1,0,0,0,0,0,0,0
+SP,37,Parda,outono,1,1,0,1,0,0,0,0,0
+SP,6,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Outra,verao,1,1,1,0,0,0,0,0,0
+RJ,6,Parda,primavera,1,0,0,0,1,0,0,0,0
+SP,50,Nao informado,outono,1,0,1,0,1,1,0,0,1
+SP,50,Parda,verao,1,0,1,1,0,0,0,0,0
+SP,24,Parda,verao,0,1,1,0,1,0,0,0,0
+SP,15,Branca,outono,1,0,0,0,1,0,0,0,0
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,15,Parda,primavera,1,0,1,0,0,1,0,0,1
+RJ,6,Outra,outono,0,0,0,0,0,0,0,0,1
+SP,37,Parda,primavera,1,0,0,0,1,0,0,0,1
+RJ,6,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Parda,primavera,0,0,0,0,0,0,0,0,1
+SP,50,Branca,primavera,1,1,1,0,1,1,1,0,1
+SP,37,Branca,outono,0,1,1,1,0,0,0,0,0
+SP,37,Branca,verao,1,1,1,1,1,0,0,0,0
+SP,15,Branca,outono,1,0,1,0,1,1,0,0,1
+SP,24,Branca,outono,1,0,1,1,0,0,0,0,1
+MG,24,Parda,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Parda,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,outono,0,0,0,1,1,0,0,0,0
+MG,50,Branca,verao,1,0,0,1,0,0,0,0,0
+RJ,37,Nao informado,verao,1,1,0,0,0,0,0,0,0
+MG,15,Nao informado,verao,1,1,0,1,1,0,0,0,0
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,0,0,1,1,1,0,0,0,1
+RJ,37,Parda,verao,0,0,0,0,0,0,0,0,1
+MG,24,Branca,verao,1,0,0,0,1,0,0,0,1
+SP,6,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,6,Nao informado,outono,0,0,0,0,0,0,0,0,0
+MG,50,Branca,outono,1,0,1,1,0,0,0,0,1
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,primavera,0,0,0,0,1,0,0,0,1
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,1
+SP,37,Branca,outono,0,0,1,1,1,0,0,0,1
+SP,37,Branca,verao,0,1,0,1,1,0,0,0,0
+SP,50,Nao informado,verao,1,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,1,0,0,0,0,0,0,0
+SP,37,Parda,primavera,0,0,1,1,1,0,0,0,0
+SP,37,Branca,verao,1,0,0,0,1,0,0,0,0
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,15,Branca,verao,1,1,1,1,1,0,1,0,1
+SP,37,Outra,verao,1,0,1,0,0,1,0,0,1
+SP,37,Branca,outono,1,1,1,1,0,1,0,0,0
+RJ,6,Parda,outono,1,1,0,0,1,0,0,0,0
+RJ,50,Parda,outono,1,1,0,0,0,0,0,0,1
+SP,37,Branca,primavera,1,1,0,0,0,0,1,0,1
+RJ,24,Nao informado,outono,1,0,1,0,1,0,0,0,0
+SP,24,Branca,verao,0,1,1,1,0,0,0,0,0
+SP,37,Parda,verao,1,0,1,1,1,0,0,0,0
+SP,50,Parda,verao,1,1,1,1,0,0,0,0,1
+RJ,24,Branca,primavera,0,0,0,1,1,0,0,0,0
+SP,37,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,24,Parda,primavera,1,1,0,0,1,0,0,0,0
+SP,50,Nao informado,primavera,1,0,0,0,0,1,0,0,0
+MG,24,Branca,verao,1,0,1,0,0,0,0,0,1
+RJ,6,Nao informado,outono,1,1,0,0,0,0,0,0,1
+MG,50,Branca,inverno,1,1,1,1,1,0,0,0,0
+SP,37,Branca,verao,1,0,0,0,1,0,0,0,1
+SP,37,Branca,inverno,1,1,0,1,0,0,0,0,1
+MG,24,Nao informado,verao,0,1,1,0,1,0,0,0,0
+SP,37,Nao informado,verao,0,1,0,0,1,0,0,0,0
+MG,15,Parda,inverno,1,0,1,0,1,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,50,Parda,outono,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,1,0
+MG,37,Nao informado,primavera,0,1,1,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,0,0,1,0,0,0,0
+SP,24,Parda,outono,1,1,0,1,0,0,0,0,0
+SP,24,Nao informado,verao,1,1,0,0,1,0,0,0,1
+SP,37,Branca,verao,0,1,1,0,1,0,0,0,1
+SP,24,Branca,outono,0,1,0,0,1,0,0,0,1
+SP,37,Branca,verao,0,0,0,0,1,1,0,0,0
+MG,15,Parda,verao,1,1,0,1,0,0,0,0,1
+RJ,50,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Parda,outono,0,0,0,0,0,0,0,0,1
+SP,24,Branca,outono,0,1,0,0,1,0,0,0,1
+SP,24,Branca,verao,1,0,1,1,0,1,1,0,0
+RJ,6,Parda,verao,0,0,0,0,0,0,0,0,1
+RJ,15,Nao informado,primavera,0,0,1,0,1,0,0,0,0
+MG,37,Nao informado,outono,1,0,1,1,1,0,0,0,1
+SP,6,Parda,outono,0,1,0,0,0,0,0,0,1
+RJ,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,0,0,1,1,0,0,0,0,1
+SP,50,Branca,verao,1,1,1,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,1,1,1,0,0,0,1
+SP,6,Branca,primavera,1,0,1,0,0,0,0,0,0
+SP,50,Parda,inverno,1,1,0,0,1,0,0,0,1
+SP,15,Parda,verao,1,1,0,0,1,0,0,0,0
+SP,50,Branca,outono,0,0,0,1,1,1,0,0,0
+SP,6,Branca,inverno,1,1,0,0,1,1,0,0,0
+MG,37,Parda,outono,1,1,1,0,1,0,0,0,0
+SP,6,Parda,outono,1,0,1,0,0,0,0,0,0
+SP,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,1,0,0,1,0,1,0,0,1
+SP,15,Nao informado,verao,1,0,0,0,1,0,0,0,1
+SP,15,Branca,verao,1,0,1,1,0,0,0,0,1
+SP,37,Parda,verao,1,1,0,1,0,1,0,0,0
+MG,37,Nao informado,outono,1,1,0,0,0,0,0,0,1
+SP,37,Parda,inverno,0,1,0,1,0,0,0,0,0
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,primavera,1,1,1,1,1,0,0,0,1
+MG,6,Parda,verao,1,1,0,1,1,0,1,0,1
+RJ,37,Parda,verao,1,0,0,0,0,0,0,0,0
+SP,6,Branca,outono,1,0,0,0,0,0,0,0,1
+SP,24,Parda,outono,0,0,1,1,0,0,0,0,1
+RJ,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,1,1,1,1,0,0,0,0
+MG,6,Branca,verao,1,1,0,1,1,0,0,0,1
+SP,37,Branca,outono,1,0,0,1,0,0,0,0,0
+RJ,6,Nao informado,verao,1,1,0,0,0,1,0,0,0
+SP,15,Outra,outono,1,1,1,0,1,0,0,0,0
+MG,37,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,0,0,1,0,1,0,0,0,1
+RJ,50,Outra,verao,0,1,0,1,0,0,0,0,1
+SP,37,Branca,outono,1,1,1,0,0,1,0,0,1
+SP,15,Branca,outono,0,1,0,1,0,0,0,0,0
+RJ,24,Parda,inverno,0,0,0,0,0,0,0,0,1
+SP,24,Parda,verao,0,0,0,1,0,0,0,0,1
+RJ,37,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,verao,1,0,0,0,1,0,0,0,1
+RJ,37,Outra,primavera,1,1,1,0,1,0,0,0,1
+MG,6,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Parda,verao,0,1,0,0,0,1,0,0,1
+SP,50,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,6,Parda,verao,1,0,1,1,0,0,0,0,1
+SP,24,Branca,verao,0,1,1,1,0,0,0,0,1
+RJ,37,Parda,verao,1,0,1,0,0,0,0,0,0
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,primavera,1,0,1,1,0,0,0,0,1
+SP,37,Parda,outono,0,1,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,0,0,1,1,0,0,0,1
+SP,37,Branca,verao,1,1,1,0,1,0,0,0,1
+MG,37,Parda,verao,1,0,0,1,0,0,0,0,0
+SP,6,Branca,primavera,1,0,0,0,1,0,0,0,0
+RJ,37,Branca,verao,1,0,0,0,0,0,1,0,1
+SP,37,Branca,verao,1,0,0,0,0,0,0,0,0
+SP,50,Parda,verao,0,1,1,1,0,0,0,0,1
+SP,24,Branca,outono,1,1,0,0,1,0,0,0,1
+MG,15,Parda,outono,1,0,1,0,0,1,0,0,0
+RJ,37,Branca,inverno,1,1,1,0,0,0,1,0,1
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,verao,0,1,0,0,1,0,0,0,1
+SP,6,Branca,inverno,1,1,0,1,1,0,0,0,1
+MG,50,Parda,verao,1,1,1,1,1,0,0,0,1
+MG,37,Outra,primavera,1,0,1,0,1,0,0,0,0
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,15,Parda,outono,0,0,1,0,1,1,0,0,0
+SP,15,Nao informado,verao,0,1,1,1,1,0,0,0,1
+SP,37,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,6,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,1,0,0,0,0,0,0
+MG,6,Branca,verao,0,0,0,0,0,0,0,0,1
+MG,37,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,50,Branca,verao,1,1,1,0,0,0,0,0,0
+SP,37,Branca,primavera,1,0,1,1,0,0,0,0,0
+MG,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,37,Outra,verao,0,1,1,1,0,0,1,0,1
+SP,24,Parda,inverno,1,0,0,0,0,1,0,0,1
+SP,24,Branca,inverno,0,0,1,1,0,0,0,0,0
+RJ,50,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,primavera,1,0,1,0,1,0,1,0,1
+SP,6,Branca,verao,1,0,0,1,0,0,0,0,0
+SP,24,Branca,inverno,1,1,0,0,1,0,1,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,1,1,1,1,0,1,0,1
+MG,37,Nao informado,inverno,1,0,0,0,0,0,0,0,1
+RJ,37,Parda,verao,0,0,1,0,0,0,1,0,0
+SP,15,Branca,outono,0,0,1,1,0,0,0,0,0
+SP,50,Parda,verao,1,0,1,0,1,0,0,0,0
+SP,37,Nao informado,inverno,1,0,1,0,0,0,0,1,0
+RJ,37,Branca,outono,1,0,1,1,1,0,0,0,1
+MG,37,Branca,verao,0,0,0,1,0,0,0,0,1
+MG,24,Branca,primavera,0,0,1,0,1,0,0,0,0
+MG,24,Branca,primavera,1,0,1,0,1,0,0,0,1
+SP,37,Branca,verao,1,1,1,1,1,0,1,0,1
+SP,24,Parda,primavera,0,1,1,1,0,0,0,0,1
+SP,6,Branca,verao,1,1,0,0,0,0,0,0,1
+SP,24,Nao informado,verao,0,1,0,0,0,0,0,0,0
+RJ,37,Parda,verao,0,1,0,0,0,0,0,0,1
+MG,37,Nao informado,verao,1,0,0,1,0,0,0,0,1
+RJ,50,Branca,primavera,0,0,0,0,0,0,0,0,1
+SP,37,Outra,verao,1,0,1,1,0,0,0,0,1
+SP,37,Outra,outono,1,1,1,0,1,0,0,0,1
+SP,24,Branca,outono,0,0,0,0,0,0,0,0,1
+SP,24,Parda,inverno,1,1,0,1,0,0,0,0,1
+RJ,15,Nao informado,verao,1,1,0,0,1,0,0,0,1
+SP,37,Branca,primavera,1,0,1,0,1,0,0,0,1
+MG,50,Branca,verao,1,1,0,1,1,0,0,0,1
+MG,24,Parda,primavera,1,0,1,0,1,0,0,0,1
+RJ,24,Nao informado,outono,0,0,0,0,0,0,0,0,1
+RJ,37,Branca,outono,0,0,0,0,0,0,0,0,1
+MG,50,Parda,verao,1,0,1,1,1,0,0,0,0
+SP,50,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,15,Outra,primavera,1,0,0,0,0,1,0,0,0
+SP,24,Nao informado,outono,1,1,1,0,1,0,0,0,0
+SP,24,Nao informado,outono,1,0,1,0,0,0,1,0,0
+SP,50,Branca,outono,1,0,0,1,1,0,0,0,0
+SP,6,Branca,outono,1,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,15,Parda,outono,1,1,1,1,1,0,1,0,0
+SP,37,Branca,verao,1,0,0,0,1,0,0,0,0
+SP,50,Branca,primavera,0,1,1,1,1,0,0,0,1
+MG,24,Branca,primavera,1,1,1,1,1,0,0,0,0
+RJ,37,Parda,outono,1,1,1,0,1,0,0,0,0
+MG,37,Parda,verao,1,0,0,1,1,0,0,0,1
+MG,37,Branca,verao,1,1,1,0,0,0,0,0,1
+SP,24,Branca,inverno,0,1,0,0,0,0,0,0,0
+RJ,50,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,1,1,1,1,0,0,0,1
+RJ,24,Nao informado,outono,1,0,0,1,1,0,0,0,0
+RJ,37,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,6,Branca,outono,1,1,0,0,0,0,0,0,0
+RJ,37,Branca,verao,1,0,0,0,0,0,0,0,1
+SP,37,Nao informado,verao,0,0,0,1,0,0,0,0,1
+SP,37,Branca,verao,0,0,0,0,1,0,0,0,1
+SP,6,Branca,outono,0,1,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,1,1,1,1,0,0,0,1
+SP,24,Branca,verao,1,0,0,0,0,0,0,0,1
+RJ,37,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,1,0,0,1,1,0,0,0,1
+RJ,50,Outra,verao,0,0,0,0,0,0,0,0,1
+RJ,50,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,6,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,15,Branca,outono,0,0,1,0,0,0,0,0,1
+SP,50,Branca,primavera,1,0,1,1,0,0,1,0,1
+SP,50,Outra,outono,1,1,1,1,0,0,0,0,0
+MG,37,Outra,verao,0,1,0,0,0,0,0,0,0
+SP,24,Outra,verao,0,0,1,0,0,0,0,0,0
+MG,24,Branca,verao,1,1,1,1,1,1,0,0,1
+RJ,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,0,0,0,1,1,0,0
+RJ,37,Branca,outono,1,1,0,0,0,0,0,0,0
+SP,37,Nao informado,primavera,0,1,0,1,1,0,0,0,1
+MG,15,Branca,outono,0,1,1,0,1,0,0,0,1
+SP,50,Parda,outono,0,0,0,0,0,0,0,0,0
+RJ,6,Parda,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,verao,0,1,1,1,0,0,0,0,1
+MG,24,Branca,verao,1,1,1,0,1,1,1,0,1
+SP,24,Outra,inverno,1,0,1,1,0,0,0,0,0
+SP,6,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,37,Outra,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Branca,outono,1,1,0,0,0,0,0,0,0
+MG,37,Outra,primavera,0,0,0,0,0,0,0,0,0
+RJ,50,Outra,outono,1,0,1,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,0,0,0,0,0,0,1
+SP,50,Branca,verao,1,0,0,0,1,0,0,0,0
+SP,37,Parda,inverno,0,0,1,0,0,1,0,0,0
+SP,15,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,37,Nao informado,inverno,1,1,1,1,1,0,0,0,1
+MG,37,Parda,verao,1,0,1,1,1,0,0,0,1
+SP,50,Branca,outono,1,1,0,1,0,0,0,0,0
+SP,15,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,50,Nao informado,outono,0,0,1,0,1,0,0,0,1
+SP,50,Branca,outono,1,1,1,0,0,0,0,0,0
+SP,6,Branca,outono,1,0,0,0,1,0,0,0,0
+SP,50,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,6,Parda,verao,0,1,0,1,0,0,0,0,1
+RJ,24,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,primavera,0,1,0,0,0,0,0,0,1
+RJ,50,Outra,primavera,1,0,0,1,1,0,1,0,0
+RJ,50,Parda,verao,0,1,1,1,1,0,0,0,1
+RJ,37,Branca,verao,1,1,0,1,1,0,1,1,1
+SP,24,Parda,primavera,1,0,1,1,1,0,0,0,1
+SP,6,Nao informado,inverno,1,1,0,0,0,1,0,0,0
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,1
+RJ,6,Branca,primavera,0,0,0,0,0,0,0,0,1
+SP,24,Branca,outono,1,1,1,1,1,0,0,0,1
+RJ,50,Nao informado,outono,1,0,0,0,0,1,0,0,1
+MG,24,Branca,primavera,1,0,1,0,1,0,0,0,1
+SP,6,Nao informado,verao,0,1,1,0,1,0,0,1,1
+SP,6,Nao informado,primavera,0,0,0,0,0,0,0,1,0
+SP,24,Branca,verao,1,0,1,1,1,0,0,0,0
+SP,24,Branca,primavera,1,1,0,1,0,0,0,0,1
+SP,37,Branca,primavera,1,0,0,0,1,0,0,0,1
+SP,50,Branca,verao,0,1,1,0,1,0,0,0,1
+MG,50,Branca,primavera,1,0,1,1,1,0,0,0,0
+RJ,50,Nao informado,primavera,1,0,1,1,1,0,0,0,0
+SP,6,Branca,outono,1,1,0,0,0,0,0,0,0
+MG,37,Parda,verao,0,0,1,1,1,0,0,0,0
+SP,37,Branca,verao,1,0,1,0,1,0,0,0,1
+SP,37,Parda,primavera,1,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,inverno,1,0,1,0,1,0,0,0,1
+MG,37,Nao informado,verao,1,0,1,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,1,1,0,0,1,0,0,0,0
+SP,50,Outra,inverno,0,0,0,0,0,0,0,0,0
+SP,15,Branca,outono,1,1,1,1,1,0,0,0,1
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,1,1,1,1,0,1
+RJ,15,Nao informado,verao,0,0,1,1,1,0,0,0,1
+SP,37,Branca,verao,1,1,0,1,0,0,0,0,0
+SP,50,Parda,outono,1,0,1,1,0,0,0,0,0
+SP,50,Branca,verao,1,1,1,1,0,0,0,0,1
+SP,37,Branca,verao,0,0,1,0,1,0,0,0,0
+MG,6,Parda,verao,1,0,0,1,1,0,0,0,0
+SP,37,Branca,primavera,1,0,1,0,1,0,0,0,0
+MG,24,Branca,primavera,1,1,0,0,1,0,0,0,1
+MG,24,Branca,primavera,1,1,0,0,1,0,0,0,0
+MG,24,Outra,verao,0,1,1,1,0,0,0,0,0
+MG,24,Outra,verao,1,1,0,1,0,0,0,0,1
+SP,6,Parda,verao,1,1,0,0,1,0,0,0,1
+MG,50,Outra,verao,1,1,1,0,1,0,0,0,1
+SP,37,Parda,outono,0,0,1,0,1,0,0,0,1
+SP,50,Branca,primavera,1,0,0,0,1,1,1,0,1
+SP,24,Outra,inverno,1,0,0,1,1,0,0,0,0
+SP,24,Branca,inverno,0,1,0,0,0,1,0,0,1
+RJ,6,Parda,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Parda,outono,1,1,1,0,1,0,1,0,0
+MG,50,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+SP,24,Parda,inverno,0,0,0,0,0,0,0,0,1
+MG,24,Outra,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Parda,primavera,0,1,0,1,0,1,0,0,0
+MG,37,Outra,verao,0,0,1,1,1,0,0,0,1
+RJ,24,Branca,inverno,1,1,1,1,1,0,0,0,1
+MG,24,Branca,inverno,1,1,1,1,1,0,0,0,0
+SP,37,Outra,inverno,0,0,0,0,0,0,0,0,1
+MG,37,Nao informado,verao,0,0,0,1,1,0,0,0,1
+MG,24,Nao informado,inverno,0,0,0,1,0,0,0,0,0
+RJ,50,Branca,outono,1,0,1,0,1,1,0,0,0
+RJ,37,Outra,outono,0,0,0,0,0,0,0,0,1
+RJ,24,Branca,verao,1,0,0,1,1,0,0,0,0
+RJ,24,Parda,verao,0,0,0,0,1,0,0,0,1
+SP,24,Branca,primavera,0,1,0,1,1,0,0,0,1
+SP,37,Branca,verao,0,1,0,0,0,0,0,1,0
+MG,15,Branca,outono,0,0,0,0,1,0,0,0,0
+SP,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,24,Parda,verao,1,0,1,0,0,0,0,0,1
+MG,37,Parda,primavera,0,0,1,1,0,0,0,0,1
+SP,24,Nao informado,verao,1,1,1,0,0,0,0,0,1
+SP,50,Nao informado,verao,0,1,1,1,1,0,0,0,1
+MG,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,6,Branca,verao,1,0,1,1,1,0,0,0,0
+RJ,37,Parda,verao,1,0,1,0,0,0,0,0,0
+MG,37,Parda,verao,1,1,0,1,0,0,0,0,0
+MG,37,Branca,verao,1,1,1,0,0,0,0,0,1
+MG,15,Parda,primavera,1,0,1,0,1,0,0,0,0
+SP,6,Branca,inverno,1,0,0,0,1,1,0,0,0
+RJ,50,Nao informado,outono,0,0,1,1,0,0,0,0,0
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,0,0,1,0,0,0,0,0,0
+RJ,6,Nao informado,outono,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,primavera,1,1,1,1,0,0,0,0,1
+SP,15,Branca,outono,1,0,0,0,1,0,0,0,0
+SP,6,Nao informado,primavera,1,1,1,1,1,0,0,0,1
+MG,15,Branca,verao,0,1,1,0,0,0,0,0,0
+SP,37,Outra,outono,1,0,1,1,0,0,0,0,1
+SP,6,Branca,verao,1,0,0,0,1,0,0,1,0
+SP,37,Parda,verao,1,1,1,0,0,0,0,0,1
+SP,24,Branca,verao,1,1,0,1,0,0,0,0,1
+SP,24,Branca,verao,0,1,1,0,1,0,0,0,1
+SP,37,Outra,verao,1,0,1,0,1,0,0,0,1
+MG,50,Parda,verao,1,1,1,0,1,0,0,0,1
+RJ,6,Branca,outono,1,1,0,0,0,1,0,0,0
+MG,37,Branca,verao,1,0,0,1,1,0,0,0,1
+MG,37,Outra,outono,1,0,1,1,1,0,0,0,1
+SP,50,Outra,outono,1,0,1,0,0,0,0,0,0
+MG,37,Parda,verao,1,1,1,1,1,0,1,0,1
+SP,37,Parda,inverno,1,0,0,1,0,0,0,0,0
+SP,24,Nao informado,inverno,1,0,0,1,0,0,0,0,0
+SP,15,Parda,outono,1,1,0,1,0,0,0,0,1
+SP,37,Parda,verao,0,0,0,0,1,0,0,0,1
+MG,50,Parda,primavera,0,0,0,0,0,0,0,0,1
+SP,24,Branca,inverno,1,1,0,0,0,1,0,0,0
+SP,15,Outra,primavera,0,1,1,0,1,0,0,0,0
+RJ,24,Parda,inverno,0,1,0,1,0,0,0,0,0
+MG,37,Branca,verao,1,0,1,1,1,0,0,0,1
+RJ,37,Outra,verao,1,1,1,1,1,0,1,0,1
+SP,24,Branca,verao,0,0,0,1,1,0,0,0,1
+SP,6,Parda,verao,0,1,0,1,0,0,0,0,0
+RJ,37,Branca,inverno,1,0,1,0,1,0,0,0,1
+SP,24,Outra,verao,1,0,0,0,1,0,0,0,1
+RJ,24,Branca,outono,0,1,1,0,1,0,0,0,0
+RJ,24,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,50,Outra,inverno,1,1,0,1,1,0,0,0,0
+RJ,37,Branca,outono,1,0,0,0,1,0,0,0,1
+SP,24,Branca,verao,1,1,1,0,1,1,0,0,1
+SP,50,Nao informado,inverno,1,0,0,0,1,0,0,0,1
+MG,50,Branca,inverno,1,0,0,1,0,0,0,0,0
+SP,37,Nao informado,outono,1,1,0,0,0,0,0,0,0
+RJ,6,Parda,primavera,1,0,0,1,0,0,0,0,1
+MG,15,Branca,outono,1,0,0,1,1,0,0,0,0
+SP,24,Branca,verao,1,0,0,0,0,1,0,1,0
+MG,50,Outra,verao,0,1,0,1,1,0,0,0,1
+SP,6,Branca,primavera,1,1,0,0,0,1,0,0,0
+SP,24,Branca,outono,1,0,0,1,1,0,0,0,1
+SP,37,Parda,verao,1,0,0,1,0,0,0,0,0
+MG,24,Parda,verao,0,0,1,0,0,0,0,0,0
+SP,24,Branca,verao,0,1,1,1,1,1,0,0,1
+RJ,50,Branca,outono,0,0,0,0,1,0,1,0,1
+SP,37,Nao informado,verao,1,0,0,0,1,0,0,0,0
+RJ,24,Outra,verao,1,1,1,0,1,0,0,0,1
+MG,50,Parda,verao,1,1,1,0,0,0,0,0,1
+SP,6,Parda,outono,1,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,1,0,0,0,0,0,0
+SP,37,Nao informado,verao,1,0,0,0,1,0,1,0,1
+RJ,37,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,15,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,0,1,0,1,0,0,0,1
+MG,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Nao informado,inverno,1,0,0,0,1,1,0,0,0
+SP,24,Branca,primavera,1,1,1,1,1,0,1,0,0
+SP,24,Parda,inverno,1,0,0,0,0,1,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,1,0
+RJ,37,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,0,1,1,1,1,1,0,0
+RJ,6,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+MG,37,Branca,verao,1,0,1,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,0,0,0,0,0,0,0
+SP,37,Outra,inverno,0,0,1,0,1,0,0,0,1
+MG,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,6,Parda,outono,0,0,1,1,1,0,0,0,0
+MG,37,Outra,verao,1,0,0,0,0,0,0,0,0
+MG,37,Branca,verao,1,0,1,1,1,0,0,0,1
+RJ,15,Parda,primavera,0,1,1,1,0,0,0,0,0
+MG,37,Parda,verao,0,1,1,1,0,0,0,0,1
+SP,50,Branca,verao,1,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,1,0,1,0,0,0,1
+SP,24,Nao informado,outono,1,0,0,1,0,0,0,0,1
+MG,15,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,1,1,1,1,0,0,0
+SP,24,Parda,primavera,0,1,1,0,1,0,0,0,0
+SP,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Branca,verao,0,1,0,1,0,0,0,0,1
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,outono,1,1,1,1,1,0,0,0,1
+SP,37,Branca,verao,1,0,1,1,1,0,0,0,1
+MG,50,Branca,outono,1,0,0,1,1,0,0,0,0
+SP,6,Branca,inverno,1,1,1,0,1,0,0,0,0
+SP,37,Branca,outono,1,0,0,0,0,1,0,0,0
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,6,Parda,primavera,1,1,0,1,1,0,0,0,0
+MG,24,Nao informado,inverno,1,0,0,1,0,0,0,0,1
+MG,50,Outra,verao,1,0,0,1,1,0,0,0,1
+SP,24,Parda,verao,0,1,0,1,0,0,0,0,0
+SP,50,Nao informado,outono,1,1,0,0,0,0,0,0,1
+MG,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,primavera,1,1,1,0,1,1,0,0,0
+SP,24,Branca,outono,1,0,1,0,1,0,0,0,0
+RJ,50,Nao informado,outono,1,0,0,0,0,0,0,0,0
+MG,37,Nao informado,verao,1,1,1,0,1,0,0,0,1
+RJ,37,Outra,outono,0,0,0,0,0,0,1,0,0
+MG,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,37,Outra,primavera,0,0,0,0,0,0,0,0,1
+MG,24,Parda,primavera,0,0,1,1,1,0,0,0,0
+SP,6,Branca,outono,0,1,0,1,0,0,0,0,1
+SP,24,Parda,outono,1,1,0,0,0,0,0,0,1
+SP,15,Branca,primavera,0,0,1,1,0,0,0,0,0
+MG,50,Outra,verao,1,1,1,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,1,1,1,1,1,0,0
+MG,50,Nao informado,primavera,1,0,1,0,1,0,0,0,1
+SP,37,Branca,verao,0,1,1,0,0,0,0,0,1
+MG,24,Branca,outono,1,0,1,0,0,0,0,0,0
+RJ,50,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,1,0,0,0,0,0,1
+SP,37,Outra,verao,0,1,0,0,1,0,0,0,0
+SP,15,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,37,Nao informado,outono,1,0,0,0,1,0,0,0,1
+MG,24,Nao informado,inverno,1,0,0,0,1,1,0,0,0
+SP,15,Nao informado,verao,0,0,0,0,1,0,0,0,1
+MG,50,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,37,Parda,outono,1,0,0,0,1,0,0,0,0
+SP,37,Branca,verao,1,1,1,1,1,0,1,0,0
+RJ,15,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Outra,primavera,1,0,0,0,1,0,0,0,1
+SP,50,Nao informado,inverno,1,1,1,1,1,1,1,0,1
+MG,37,Parda,verao,1,0,1,0,0,0,0,0,1
+RJ,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Parda,outono,1,1,0,0,0,0,0,0,0
+SP,50,Nao informado,inverno,0,0,0,0,1,0,0,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,outono,1,1,1,1,0,0,0,0,0
+SP,37,Nao informado,inverno,1,1,0,0,0,0,0,0,0
+SP,24,Outra,outono,1,0,0,1,0,0,0,0,0
+MG,37,Branca,outono,1,0,0,1,0,0,0,0,1
+MG,50,Branca,verao,1,0,0,1,1,0,1,0,1
+RJ,37,Outra,inverno,0,1,0,1,0,0,0,0,1
+RJ,50,Nao informado,primavera,0,1,0,0,0,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,0,1,0,1,0,0,0,0,0
+MG,50,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+SP,50,Branca,primavera,0,0,1,1,0,0,0,0,1
+MG,37,Parda,primavera,1,1,1,0,1,0,0,0,1
+SP,6,Parda,outono,1,0,0,0,1,0,0,0,0
+RJ,37,Nao informado,inverno,1,0,0,0,1,0,0,0,1
+RJ,24,Outra,primavera,1,1,0,0,0,0,0,0,0
+SP,15,Branca,outono,1,0,0,0,1,0,0,0,0
+SP,6,Branca,verao,1,0,0,0,0,1,0,0,0
+SP,37,Branca,outono,1,0,1,1,1,0,0,0,1
+MG,37,Parda,inverno,1,0,1,0,0,0,1,0,1
+SP,15,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,6,Nao informado,primavera,1,0,0,1,1,0,0,0,1
+RJ,50,Branca,inverno,1,0,1,1,1,0,0,0,0
+SP,15,Branca,outono,1,0,0,1,1,0,0,0,0
+MG,6,Branca,verao,0,1,0,0,1,0,0,0,1
+SP,37,Branca,verao,1,1,1,1,0,0,0,0,1
+RJ,6,Parda,outono,0,0,0,0,0,0,0,0,1
+RJ,24,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,37,Parda,outono,0,1,1,0,0,0,0,0,1
+SP,37,Branca,primavera,0,0,1,0,1,0,0,0,1
+SP,24,Nao informado,inverno,1,0,0,1,0,0,0,0,0
+MG,37,Parda,primavera,1,1,0,0,0,0,0,0,0
+RJ,50,Branca,inverno,0,0,0,0,0,0,1,0,0
+SP,37,Nao informado,outono,0,0,0,0,0,0,0,0,1
+RJ,50,Outra,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Parda,outono,1,1,1,1,0,0,0,0,1
+SP,6,Parda,inverno,1,1,0,0,1,1,0,0,0
+MG,24,Parda,verao,1,0,0,1,1,0,0,0,0
+SP,50,Branca,outono,0,1,0,0,0,0,0,0,1
+SP,24,Branca,inverno,1,1,1,1,1,1,0,0,1
+RJ,37,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,outono,1,1,0,1,1,0,0,0,0
+RJ,50,Outra,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,24,Nao informado,verao,1,0,0,1,1,0,0,0,1
+SP,37,Parda,verao,1,1,1,1,0,0,0,0,0
+MG,37,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Outra,verao,1,1,1,1,1,0,0,0,0
+RJ,37,Branca,outono,1,0,1,0,0,0,0,0,0
+SP,37,Nao informado,verao,0,0,0,1,1,0,1,0,0
+SP,50,Branca,outono,0,0,1,0,1,0,0,0,1
+MG,50,Nao informado,inverno,1,0,1,1,0,0,0,0,1
+SP,37,Branca,primavera,1,0,1,0,0,0,0,0,0
+RJ,24,Nao informado,inverno,1,0,0,0,1,0,0,0,1
+SP,37,Parda,outono,1,1,1,0,1,0,0,0,0
+MG,50,Parda,verao,0,0,1,1,1,0,0,0,0
+RJ,50,Outra,primavera,1,0,1,0,1,0,0,0,1
+SP,6,Parda,outono,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+MG,37,Parda,outono,1,0,0,1,1,0,0,0,0
+RJ,37,Outra,verao,1,0,1,0,0,0,0,0,1
+SP,6,Branca,inverno,1,0,0,1,1,0,0,0,1
+RJ,37,Parda,primavera,1,1,0,1,1,1,0,0,0
+MG,37,Branca,verao,0,1,0,0,1,0,0,0,1
+SP,6,Parda,outono,1,0,0,0,1,0,0,0,0
+SP,50,Nao informado,primavera,1,0,0,1,1,0,0,0,1
+RJ,6,Nao informado,inverno,1,1,0,0,1,0,0,0,1
+SP,24,Parda,outono,1,1,1,0,1,1,0,0,1
+RJ,24,Branca,verao,0,0,0,1,1,0,0,0,0
+RJ,37,Nao informado,verao,0,0,1,1,0,0,0,0,0
+SP,15,Branca,primavera,1,0,0,0,1,0,0,0,0
+SP,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,6,Branca,verao,1,1,0,0,1,0,0,0,1
+SP,50,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,1,0,0,1,0,0,1
+MG,6,Nao informado,outono,0,1,0,0,0,0,0,0,0
+RJ,50,Parda,verao,1,0,1,0,1,1,0,0,0
+MG,6,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,37,Nao informado,verao,1,1,1,1,1,0,0,0,0
+SP,50,Branca,verao,1,0,1,1,1,0,0,0,1
+RJ,37,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,6,Branca,verao,0,1,0,0,0,0,0,0,1
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,15,Outra,verao,0,0,1,1,1,1,0,0,1
+SP,24,Branca,outono,1,1,0,0,1,0,0,0,0
+MG,24,Parda,outono,0,0,0,1,1,0,0,0,0
+MG,6,Parda,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Nao informado,verao,1,0,0,1,0,0,0,0,0
+MG,50,Parda,verao,0,1,0,0,1,0,0,0,1
+MG,37,Outra,verao,1,0,1,0,1,0,0,0,1
+MG,37,Branca,inverno,1,1,0,0,1,0,0,0,0
+SP,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,50,Branca,verao,1,0,1,0,0,0,0,0,0
+RJ,15,Parda,outono,0,0,0,0,0,1,0,0,0
+SP,6,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,37,Nao informado,verao,1,1,1,1,0,0,0,0,0
+SP,6,Branca,inverno,1,0,0,0,1,0,0,0,0
+RJ,37,Parda,inverno,1,1,0,0,0,0,0,0,0
+MG,37,Nao informado,verao,0,1,0,0,1,0,0,0,1
+RJ,37,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,24,Outra,inverno,1,1,0,1,0,0,0,0,0
+RJ,24,Nao informado,verao,0,0,1,0,0,0,0,0,0
+SP,37,Branca,primavera,0,0,0,0,1,0,0,0,1
+SP,24,Parda,verao,0,0,1,1,1,0,0,0,1
+MG,37,Branca,verao,1,1,1,1,0,1,0,0,1
+SP,37,Outra,verao,1,1,1,0,0,0,0,0,0
+SP,6,Branca,verao,0,0,1,0,0,0,1,0,1
+SP,6,Branca,verao,1,1,0,1,0,0,0,0,0
+SP,50,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,50,Branca,primavera,1,0,0,1,0,0,0,0,1
+SP,37,Branca,outono,0,1,1,0,1,0,0,0,1
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,1,0,1,1,0,0,0,0
+MG,15,Parda,inverno,1,1,0,1,0,0,0,0,1
+SP,37,Branca,verao,0,0,1,0,0,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,50,Parda,verao,1,0,1,1,0,0,0,0,0
+RJ,50,Parda,inverno,1,1,1,0,1,0,0,0,0
+MG,50,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,37,Branca,verao,1,0,1,0,1,0,0,0,1
+MG,6,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,50,Branca,primavera,1,0,1,0,1,0,0,0,0
+RJ,24,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,outono,1,1,1,1,0,0,0,0,0
+MG,24,Parda,inverno,0,0,1,0,0,0,0,0,0
+MG,50,Parda,primavera,1,0,0,0,1,1,0,0,0
+MG,37,Nao informado,inverno,1,0,0,0,0,0,0,0,0
+SP,37,Nao informado,outono,1,0,1,1,1,0,0,0,1
+RJ,15,Branca,outono,0,1,1,1,0,0,0,0,0
+SP,24,Branca,primavera,0,0,0,1,0,0,0,0,0
+RJ,37,Branca,primavera,1,1,0,1,1,0,0,0,1
+MG,15,Outra,inverno,0,1,1,1,0,0,0,0,1
+RJ,37,Nao informado,primavera,1,1,0,0,1,0,0,0,1
+SP,50,Branca,verao,1,0,0,0,0,0,0,0,1
+RJ,24,Outra,verao,1,1,1,0,0,0,0,0,1
+RJ,15,Nao informado,inverno,1,0,0,0,1,0,1,0,0
+SP,37,Branca,inverno,1,1,0,1,0,0,0,0,0
+MG,6,Parda,primavera,1,0,0,1,0,0,0,0,0
+SP,24,Parda,primavera,0,0,1,0,0,1,0,0,0
+SP,37,Outra,inverno,1,0,0,0,1,0,0,0,0
+RJ,37,Parda,inverno,0,0,0,0,0,0,0,0,1
+SP,37,Parda,verao,1,1,1,1,1,1,0,0,1
+RJ,37,Parda,verao,0,0,0,0,0,0,0,0,1
+MG,37,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,0,1,0,0,0,0
+SP,37,Parda,verao,1,0,0,0,1,0,1,0,1
+MG,37,Parda,verao,1,1,0,0,0,0,0,0,0
+SP,6,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,6,Parda,primavera,1,1,1,1,1,0,0,0,0
+RJ,24,Branca,verao,0,1,0,0,0,0,0,0,1
+MG,24,Nao informado,inverno,1,1,0,0,0,0,0,0,1
+SP,37,Parda,outono,1,1,1,0,1,0,0,0,0
+MG,6,Parda,outono,1,0,0,0,1,0,0,0,0
+MG,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,1,0,0,0,0,1
+SP,24,Branca,primavera,1,0,1,1,0,0,0,0,1
+SP,6,Parda,verao,1,0,0,0,0,0,0,0,1
+SP,50,Parda,outono,1,0,1,0,1,0,0,0,0
+RJ,50,Parda,primavera,0,1,1,1,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,1,0,1,1,0,1
+SP,37,Nao informado,outono,1,1,1,1,1,0,0,0,0
+SP,6,Branca,inverno,1,0,0,1,0,0,0,0,0
+MG,50,Nao informado,inverno,1,1,0,1,0,0,0,0,1
+RJ,24,Branca,verao,1,1,1,1,1,0,0,0,1
+MG,6,Parda,inverno,1,1,1,0,1,0,0,0,0
+SP,37,Parda,primavera,1,0,0,0,0,1,0,0,0
+RJ,37,Branca,outono,1,1,0,1,0,0,0,0,1
+SP,24,Parda,verao,1,1,1,1,1,0,0,0,1
+SP,37,Parda,verao,0,0,1,0,1,0,0,0,1
+SP,37,Branca,outono,1,1,0,0,0,0,0,0,0
+SP,37,Nao informado,inverno,1,1,1,0,0,0,0,0,0
+SP,37,Branca,primavera,1,1,0,1,0,0,0,0,1
+RJ,24,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,0,1,0,0,0,0,1
+SP,24,Branca,outono,1,0,1,0,1,0,0,0,1
+RJ,50,Branca,verao,1,1,1,1,0,0,0,0,0
+SP,24,Branca,outono,0,1,1,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,0,0,0,0,0,0
+SP,24,Nao informado,verao,1,0,0,1,1,0,0,0,0
+SP,24,Branca,verao,0,0,1,0,0,0,0,0,1
+MG,24,Outra,verao,1,1,0,0,0,0,1,0,1
+RJ,50,Branca,primavera,0,1,1,0,0,0,0,0,1
+MG,24,Parda,verao,1,0,1,1,1,1,0,0,0
+SP,6,Branca,verao,0,1,0,0,1,0,0,0,0
+SP,37,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,inverno,1,1,1,1,1,0,0,0,1
+SP,6,Branca,inverno,0,0,0,0,1,0,0,0,0
+RJ,37,Nao informado,verao,1,0,1,0,1,0,0,0,1
+SP,37,Branca,verao,1,1,1,0,1,0,1,0,0
+RJ,37,Nao informado,primavera,1,0,1,0,0,0,0,0,0
+SP,6,Nao informado,verao,0,1,0,1,1,0,0,0,1
+MG,37,Parda,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,outono,1,0,0,0,1,0,0,0,0
+SP,15,Branca,outono,0,0,0,0,0,0,0,0,1
+MG,50,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,primavera,1,0,1,0,1,1,0,0,0
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,primavera,1,0,1,1,1,0,0,0,0
+SP,37,Nao informado,verao,0,1,1,0,0,0,0,0,1
+SP,37,Branca,verao,0,0,0,1,0,0,0,0,0
+MG,6,Branca,verao,1,1,0,0,0,0,0,0,1
+RJ,37,Nao informado,inverno,1,0,1,1,1,0,0,0,1
+SP,24,Parda,primavera,0,0,0,1,1,0,0,0,1
+MG,24,Outra,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,1
+RJ,37,Outra,primavera,0,0,0,0,0,0,0,0,0
+RJ,6,Parda,outono,1,1,1,1,1,0,0,0,0
+SP,50,Nao informado,inverno,1,0,1,0,0,0,1,0,1
+SP,24,Parda,primavera,1,1,0,1,0,0,0,0,0
+SP,24,Branca,primavera,0,1,0,1,0,0,0,0,1
+RJ,37,Branca,outono,0,0,0,0,1,0,0,0,0
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Outra,verao,0,0,1,1,1,0,0,0,0
+SP,37,Branca,primavera,0,1,1,0,0,0,0,0,1
+MG,6,Nao informado,outono,1,0,0,0,0,0,0,0,0
+SP,6,Parda,primavera,1,1,0,0,0,1,0,0,0
+MG,6,Parda,outono,1,1,0,0,1,0,0,0,0
+SP,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Outra,verao,0,0,1,1,1,0,0,0,1
+RJ,6,Nao informado,verao,1,1,1,1,1,1,0,0,0
+MG,24,Parda,outono,1,0,1,1,1,0,0,0,1
+SP,6,Parda,primavera,1,1,0,1,1,0,1,1,1
+MG,24,Nao informado,verao,1,1,0,0,0,0,0,0,1
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,50,Nao informado,verao,1,1,1,0,0,0,0,0,0
+SP,6,Nao informado,primavera,1,1,0,0,0,1,0,0,0
+MG,37,Branca,primavera,1,1,0,0,0,1,0,0,0
+RJ,24,Nao informado,primavera,1,0,1,1,1,0,0,0,0
+SP,50,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,50,Branca,verao,1,0,1,1,1,0,0,0,1
+MG,50,Nao informado,verao,1,0,0,0,1,0,0,0,0
+SP,37,Parda,verao,1,1,1,1,1,1,0,0,0
+MG,24,Outra,inverno,1,0,1,0,1,0,0,0,0
+MG,37,Branca,inverno,0,1,0,0,0,0,1,0,0
+SP,50,Branca,verao,1,0,1,0,1,0,0,0,1
+SP,50,Branca,outono,1,0,1,1,0,1,1,0,1
+MG,37,Nao informado,verao,0,1,0,1,0,0,0,0,1
+MG,50,Outra,primavera,0,0,0,0,0,0,0,0,1
+SP,24,Branca,verao,1,0,0,1,0,0,1,0,1
+SP,37,Branca,verao,1,1,1,1,0,0,0,0,1
+MG,37,Nao informado,outono,1,1,0,1,1,0,0,0,1
+RJ,24,Nao informado,primavera,1,1,0,0,0,0,0,0,0
+SP,24,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,1,1,0,1,0,1,0,0,0
+RJ,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,15,Branca,outono,1,1,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,1,1,1,1,1,1,0,1
+SP,6,Branca,verao,1,0,0,0,1,0,0,0,1
+RJ,37,Branca,primavera,0,0,1,1,1,0,1,0,1
+SP,37,Branca,outono,0,0,1,1,1,0,0,0,1
+SP,24,Parda,inverno,0,0,1,1,0,0,0,0,0
+SP,24,Branca,verao,1,0,1,1,1,0,0,0,0
+MG,6,Parda,inverno,1,0,1,0,0,0,0,0,0
+MG,37,Branca,verao,1,1,1,0,1,0,1,0,1
+MG,37,Parda,outono,1,1,1,1,0,1,1,0,1
+RJ,37,Nao informado,verao,1,1,1,1,0,0,0,0,1
+SP,6,Branca,verao,1,0,0,0,1,0,0,1,0
+MG,15,Outra,outono,1,0,0,1,1,0,0,0,0
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,1
+RJ,15,Branca,verao,0,0,0,0,0,0,1,0,0
+RJ,24,Nao informado,inverno,1,0,0,0,1,0,1,0,1
+SP,6,Parda,verao,0,1,0,0,1,0,0,0,1
+MG,24,Parda,verao,1,1,1,1,1,0,1,0,1
+SP,37,Branca,outono,0,0,1,0,1,0,0,0,1
+SP,24,Nao informado,verao,1,0,0,0,1,1,0,0,1
+SP,24,Branca,outono,0,0,0,0,0,0,0,0,1
+SP,15,Branca,inverno,1,0,1,0,1,0,0,0,1
+RJ,50,Branca,primavera,1,0,0,0,1,0,0,0,0
+SP,37,Outra,verao,1,0,1,0,1,0,0,0,1
+SP,37,Parda,verao,1,0,1,0,1,1,0,0,0
+SP,24,Branca,verao,1,0,0,0,0,0,0,0,1
+SP,50,Branca,outono,0,0,1,1,1,0,0,0,1
+SP,37,Outra,outono,0,0,1,1,1,0,0,0,1
+MG,15,Branca,verao,0,0,1,1,1,0,0,0,0
+SP,24,Nao informado,inverno,1,0,1,1,0,0,0,0,0
+MG,37,Outra,outono,0,0,0,0,1,0,0,0,1
+SP,37,Nao informado,verao,1,0,0,0,0,0,0,0,1
+RJ,50,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,50,Nao informado,verao,1,1,0,0,1,0,0,0,0
+MG,6,Nao informado,outono,0,1,0,0,0,0,0,0,0
+SP,24,Branca,inverno,1,0,1,0,1,0,0,0,1
+SP,37,Branca,inverno,1,0,0,0,0,0,0,0,0
+SP,15,Branca,outono,1,0,0,0,1,0,0,0,1
+SP,37,Outra,outono,1,0,1,1,0,0,0,0,1
+SP,37,Parda,inverno,0,0,0,0,0,0,0,0,1
+MG,24,Parda,outono,1,1,1,1,1,1,0,0,0
+SP,50,Branca,primavera,0,1,0,0,0,0,1,0,0
+SP,24,Parda,primavera,0,0,0,1,1,0,0,0,1
+MG,37,Nao informado,verao,0,1,0,1,0,0,0,0,1
+RJ,6,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,15,Nao informado,outono,0,1,0,1,1,0,0,0,0
+MG,24,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,24,Outra,verao,0,1,0,1,0,0,0,0,0
+SP,37,Parda,verao,0,0,1,0,0,1,0,1,0
+SP,6,Parda,primavera,1,0,1,0,1,0,0,0,1
+SP,37,Branca,outono,1,0,1,0,1,0,0,0,1
+MG,24,Branca,verao,1,0,1,0,1,0,0,0,1
+SP,50,Parda,outono,0,0,1,1,0,0,0,0,0
+SP,37,Parda,verao,0,0,1,1,1,0,0,0,0
+RJ,37,Parda,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,inverno,1,0,0,0,1,0,1,0,0
+RJ,37,Parda,verao,1,1,1,1,1,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Outra,verao,1,1,1,0,1,0,0,0,1
+SP,24,Branca,outono,1,0,1,1,1,0,0,0,1
+RJ,37,Outra,inverno,0,0,0,0,0,0,0,0,0
+RJ,6,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,50,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Branca,outono,1,1,1,0,0,0,0,0,0
+SP,37,Branca,verao,1,1,1,1,1,1,0,0,1
+SP,50,Parda,outono,1,0,0,0,0,0,0,0,1
+SP,24,Branca,primavera,1,1,1,0,1,0,0,0,1
+RJ,24,Branca,primavera,1,1,0,0,1,0,0,0,0
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,1,0
+MG,24,Parda,outono,1,0,0,0,1,0,0,0,0
+SP,24,Branca,inverno,1,0,1,1,1,0,0,0,0
+RJ,24,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+MG,37,Outra,verao,1,0,1,0,1,1,0,0,1
+SP,50,Branca,outono,0,0,0,0,1,0,0,0,0
+RJ,37,Nao informado,primavera,0,1,1,0,1,0,0,0,1
+MG,50,Outra,verao,1,0,0,0,1,0,0,0,1
+MG,37,Outra,inverno,0,0,1,0,1,0,0,0,0
+SP,37,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,50,Outra,verao,0,0,0,1,0,0,0,0,0
+SP,15,Parda,inverno,1,1,1,1,1,0,0,0,1
+RJ,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+RJ,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,6,Branca,primavera,1,1,0,0,1,0,0,0,1
+SP,24,Branca,outono,0,0,1,0,0,0,0,0,0
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,37,Nao informado,verao,0,1,0,1,1,0,0,0,0
+SP,37,Nao informado,verao,0,0,1,0,0,0,0,0,1
+SP,15,Branca,outono,1,0,1,1,0,0,0,0,0
+MG,37,Branca,verao,0,0,1,0,1,0,0,0,1
+SP,6,Branca,verao,1,1,0,0,1,0,0,0,1
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,primavera,0,1,1,1,0,0,0,0,1
+RJ,37,Outra,verao,0,0,1,1,0,0,0,0,0
+MG,6,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+MG,50,Parda,primavera,0,1,1,0,1,0,0,0,1
+MG,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,50,Parda,primavera,1,0,0,0,1,0,0,0,0
+SP,37,Branca,verao,0,1,0,1,0,0,0,0,1
+MG,24,Parda,verao,1,0,0,0,1,0,0,0,0
+SP,50,Branca,verao,0,0,1,0,1,0,0,0,1
+RJ,50,Nao informado,outono,1,1,1,0,1,0,1,0,1
+SP,37,Nao informado,primavera,1,1,1,0,0,0,0,0,1
+SP,37,Branca,primavera,1,1,1,0,1,0,0,0,1
+RJ,15,Parda,primavera,1,1,0,1,1,0,0,0,0
+MG,50,Branca,verao,1,0,1,1,0,0,0,0,1
+RJ,24,Parda,inverno,0,0,0,0,0,0,0,0,1
+SP,37,Branca,outono,1,0,1,0,1,0,0,0,0
+MG,50,Outra,verao,0,0,1,0,1,0,0,0,0
+SP,6,Parda,outono,0,0,1,0,0,0,0,0,0
+RJ,37,Parda,inverno,1,0,1,1,1,0,0,0,1
+SP,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,6,Outra,outono,0,0,0,0,0,0,0,0,0
+SP,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,0,1,1,0,0,0,0,1
+MG,50,Branca,inverno,1,0,0,1,1,1,0,0,1
+MG,50,Parda,primavera,1,0,1,1,1,1,0,0,1
+SP,37,Branca,outono,0,0,1,1,1,0,0,0,0
+RJ,6,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,24,Parda,outono,0,1,0,0,0,0,0,0,0
+SP,6,Parda,outono,0,1,0,0,0,0,0,0,1
+MG,37,Nao informado,inverno,0,0,1,0,1,0,0,0,0
+RJ,37,Parda,verao,1,1,1,1,1,1,1,0,0
+RJ,24,Nao informado,primavera,0,0,1,0,1,1,1,0,0
+SP,37,Branca,outono,1,0,1,1,0,0,0,0,1
+RJ,37,Outra,verao,1,1,1,1,1,1,0,0,1
+SP,24,Outra,verao,0,0,1,0,1,0,0,0,0
+MG,37,Parda,verao,1,0,0,1,1,0,0,0,1
+SP,24,Nao informado,outono,0,1,1,1,0,0,0,0,1
+MG,6,Parda,verao,1,0,0,0,0,0,0,0,1
+SP,6,Nao informado,inverno,1,0,0,0,0,0,0,0,1
+SP,50,Parda,outono,1,1,0,1,0,0,0,0,1
+SP,24,Outra,verao,1,1,0,0,0,0,0,0,1
+SP,6,Branca,outono,1,0,1,1,0,0,0,0,0
+MG,37,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,37,Nao informado,outono,1,0,1,1,1,0,0,0,1
+SP,37,Branca,primavera,0,1,0,0,0,0,0,0,0
+SP,37,Parda,verao,1,0,1,0,0,0,0,0,0
+SP,37,Branca,verao,0,0,1,0,0,0,0,0,1
+SP,24,Nao informado,verao,0,0,0,1,1,0,0,0,0
+RJ,37,Parda,outono,0,0,1,1,1,0,0,0,1
+SP,37,Parda,inverno,1,0,1,1,0,1,0,0,0
+SP,37,Nao informado,verao,1,0,1,0,0,0,0,0,0
+MG,6,Parda,outono,1,1,0,0,0,0,0,0,0
+SP,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Parda,outono,0,0,0,0,0,0,0,0,0
+MG,37,Branca,primavera,1,1,0,0,1,0,1,0,1
+MG,37,Nao informado,primavera,1,0,0,0,1,0,0,0,1
+MG,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,6,Parda,verao,0,1,0,0,0,0,1,0,1
+RJ,6,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,1,1,1,1,0,1,0,1
+RJ,50,Nao informado,primavera,1,0,0,0,0,0,0,0,0
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,0,0,0,1,0,0,0
+SP,24,Parda,outono,1,1,1,0,0,0,0,0,1
+RJ,24,Branca,verao,0,0,1,0,1,0,0,0,0
+RJ,24,Branca,primavera,0,0,0,0,1,0,0,0,0
+MG,24,Nao informado,inverno,0,0,0,1,0,0,0,0,0
+SP,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Parda,primavera,1,0,0,0,0,1,0,0,0
+RJ,24,Nao informado,inverno,1,0,0,1,1,0,0,0,0
+SP,50,Branca,primavera,0,0,0,1,1,0,0,0,1
+SP,15,Nao informado,outono,1,0,0,0,0,1,0,0,0
+SP,37,Outra,inverno,1,1,1,1,0,0,0,0,0
+SP,24,Parda,outono,0,0,0,0,0,0,0,0,0
+MG,50,Parda,inverno,1,0,0,1,0,1,0,0,1
+MG,37,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,50,Nao informado,primavera,1,0,0,0,1,1,0,1,0
+SP,37,Branca,outono,0,0,0,1,0,0,0,0,0
+SP,6,Branca,inverno,1,1,0,0,1,0,0,0,1
+SP,37,Branca,inverno,1,0,1,0,1,0,0,0,1
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Nao informado,outono,0,0,0,0,0,0,0,0,1
+RJ,37,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,15,Nao informado,inverno,1,0,1,1,0,0,0,0,1
+SP,24,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,24,Branca,outono,0,1,1,0,1,0,0,0,0
+SP,24,Parda,outono,0,0,1,1,1,0,0,0,0
+SP,50,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,6,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,1,1,0,0,0,0,0
+SP,37,Branca,outono,1,0,0,1,1,0,0,0,1
+MG,37,Nao informado,outono,1,0,1,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,1,0,0,0,0,0,1
+SP,15,Branca,outono,1,0,1,1,1,0,0,0,0
+RJ,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,1,0,1,1,1,1,1,0,1
+MG,37,Branca,outono,0,1,1,0,0,0,0,0,0
+SP,24,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,6,Parda,outono,0,1,0,0,1,0,0,0,0
+SP,50,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+MG,50,Branca,outono,0,0,1,0,0,0,0,0,1
+SP,50,Branca,verao,0,0,1,1,1,0,0,0,1
+MG,15,Branca,primavera,1,1,0,0,0,0,0,0,1
+SP,37,Branca,inverno,0,0,1,0,0,0,0,0,0
+SP,50,Branca,inverno,1,1,1,1,1,0,0,0,0
+MG,24,Branca,outono,1,1,0,1,0,0,0,0,0
+SP,37,Branca,verao,1,0,0,1,1,0,0,0,1
+MG,50,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Branca,verao,0,0,0,1,1,0,0,0,1
+SP,37,Parda,primavera,1,1,1,0,0,0,0,0,1
+RJ,37,Outra,verao,1,1,1,0,1,0,0,0,1
+SP,50,Outra,verao,1,1,1,0,1,0,0,0,0
+SP,37,Nao informado,inverno,1,1,1,0,0,0,0,0,0
+SP,50,Branca,primavera,1,0,0,0,1,0,0,0,1
+SP,50,Branca,outono,0,0,1,0,0,0,0,0,0
+SP,37,Outra,primavera,1,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,1,0,1,1,0,0,0,1
+RJ,6,Branca,primavera,0,1,1,0,0,0,0,0,0
+RJ,50,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+RJ,6,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+MG,24,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,24,Outra,verao,0,0,1,0,1,0,0,0,1
+SP,37,Nao informado,inverno,1,0,0,0,0,0,0,0,1
+SP,6,Parda,verao,1,0,0,0,0,0,0,0,0
+SP,50,Parda,outono,1,1,0,0,1,0,0,0,1
+SP,37,Branca,outono,1,1,0,0,0,0,0,0,0
+SP,24,Branca,inverno,1,0,1,0,1,0,0,0,1
+SP,24,Parda,outono,0,0,0,1,0,0,0,0,1
+SP,37,Branca,inverno,1,0,1,1,1,0,0,0,1
+SP,24,Branca,verao,1,1,0,0,0,0,0,0,1
+MG,50,Parda,verao,0,0,1,0,0,0,0,0,1
+SP,6,Branca,outono,0,1,0,0,0,0,0,0,0
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,0,0,0,1,1,0,0,0,1
+RJ,50,Parda,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Branca,primavera,0,1,1,1,1,0,0,0,0
+SP,37,Nao informado,primavera,1,0,0,1,1,0,0,0,1
+SP,24,Branca,outono,0,1,1,1,1,0,0,0,0
+RJ,37,Nao informado,outono,1,1,0,0,1,0,0,0,1
+RJ,37,Parda,primavera,1,1,1,0,1,0,0,0,0
+SP,37,Parda,primavera,0,0,0,0,1,0,0,0,0
+SP,6,Parda,outono,1,1,0,0,0,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,24,Parda,verao,0,0,1,1,1,0,0,0,0
+SP,24,Nao informado,verao,1,0,0,1,0,0,0,0,1
+RJ,37,Nao informado,inverno,1,0,1,0,1,0,0,0,0
+RJ,37,Outra,verao,0,1,0,1,0,1,0,0,1
+SP,37,Branca,verao,1,1,0,0,0,0,0,0,1
+RJ,15,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Parda,outono,0,0,0,1,1,0,0,0,1
+SP,37,Nao informado,inverno,1,0,1,1,1,0,0,0,1
+MG,37,Parda,verao,1,0,0,1,0,0,0,0,1
+SP,37,Branca,verao,1,0,0,1,1,0,0,0,1
+SP,37,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+SP,24,Branca,verao,0,0,1,0,0,1,0,0,0
+SP,24,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,37,Branca,inverno,0,0,0,1,0,0,0,0,1
+SP,50,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,verao,0,0,0,1,1,0,0,0,1
+SP,37,Branca,outono,1,0,1,1,0,0,0,0,1
+SP,15,Parda,outono,1,1,0,0,0,0,0,0,1
+MG,24,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,24,Branca,outono,0,1,1,0,1,0,0,0,0
+SP,37,Branca,verao,1,0,0,0,1,0,1,0,1
+SP,37,Branca,verao,1,1,0,1,1,0,0,0,1
+SP,37,Branca,verao,0,0,1,0,1,0,0,0,1
+SP,6,Branca,verao,0,1,1,0,0,0,0,0,0
+SP,24,Parda,outono,1,1,1,1,0,0,0,0,1
+SP,50,Parda,verao,1,0,1,1,0,0,0,0,1
+MG,37,Outra,primavera,1,1,1,0,1,0,0,0,1
+MG,24,Branca,outono,1,1,1,1,1,0,0,0,1
+RJ,6,Parda,primavera,0,0,0,0,1,0,0,0,1
+SP,50,Branca,verao,1,0,0,1,1,0,1,0,1
+SP,24,Branca,outono,1,0,1,0,1,1,1,0,0
+MG,37,Branca,verao,1,1,0,1,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Parda,verao,0,0,1,0,1,1,0,0,0
+SP,24,Parda,verao,0,1,1,0,0,0,0,0,1
+RJ,50,Branca,outono,1,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,1,1,0,1,0,0,0,1
+SP,50,Outra,inverno,0,1,1,0,0,0,1,0,1
+MG,24,Outra,verao,0,1,1,0,0,0,0,0,1
+SP,50,Branca,outono,0,0,0,0,0,0,0,0,0
+MG,37,Nao informado,inverno,1,1,1,0,0,0,0,0,1
+MG,37,Parda,verao,0,0,1,1,1,0,0,0,1
+MG,37,Branca,inverno,1,1,1,0,1,0,1,0,0
+RJ,50,Nao informado,verao,0,1,1,0,0,0,0,0,0
+SP,15,Branca,outono,1,1,0,1,0,0,0,0,0
+MG,37,Parda,inverno,1,1,1,0,0,0,0,0,0
+SP,37,Parda,verao,1,1,0,0,1,0,0,1,0
+RJ,37,Parda,inverno,1,0,0,1,0,0,0,0,1
+MG,24,Outra,verao,0,0,1,1,1,0,0,0,1
+MG,6,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,24,Outra,verao,0,1,0,0,0,0,0,0,1
+MG,24,Outra,primavera,1,0,0,0,1,0,0,0,1
+SP,24,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,0,0,1,0,0,1
+RJ,24,Nao informado,inverno,1,0,0,0,0,0,0,0,1
+MG,24,Parda,verao,0,0,1,1,1,0,0,0,0
+SP,37,Branca,verao,0,0,1,0,1,0,0,0,1
+RJ,6,Parda,primavera,1,1,0,0,0,1,0,0,0
+SP,24,Branca,inverno,1,1,0,0,0,0,0,0,1
+RJ,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,0,0,0,0,0,0,1,0,1
+SP,37,Branca,verao,0,0,1,0,0,0,1,0,1
+SP,37,Branca,verao,1,1,0,1,1,1,0,0,0
+SP,24,Branca,verao,1,0,0,0,0,0,0,0,1
+MG,50,Branca,outono,1,1,1,1,1,0,1,0,1
+RJ,50,Branca,verao,1,0,1,1,0,0,0,0,1
+SP,50,Branca,outono,0,0,1,1,0,0,0,0,0
+RJ,24,Nao informado,inverno,0,0,1,0,0,0,0,0,0
+RJ,24,Nao informado,outono,0,1,1,0,0,0,0,0,0
+MG,24,Parda,outono,1,1,1,0,1,0,0,0,0
+MG,37,Nao informado,verao,1,0,1,0,1,0,0,0,1
+RJ,37,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Branca,inverno,1,0,1,1,1,0,1,0,0
+SP,24,Parda,verao,1,0,0,0,1,1,0,0,1
+SP,15,Parda,outono,1,1,1,1,0,0,0,0,0
+RJ,37,Parda,primavera,1,0,0,0,1,0,1,0,1
+SP,15,Parda,outono,0,0,1,0,0,0,1,0,0
+SP,6,Branca,outono,1,0,0,0,1,0,0,0,0
+SP,37,Parda,outono,0,1,1,0,1,0,0,0,1
+SP,37,Branca,outono,0,0,0,0,0,1,0,0,0
+RJ,50,Branca,primavera,1,0,0,0,0,0,0,0,0
+MG,24,Branca,primavera,1,0,1,1,1,0,0,0,0
+SP,37,Branca,inverno,0,1,1,0,1,0,0,0,0
+RJ,24,Nao informado,verao,1,1,0,1,1,1,1,0,1
+SP,37,Branca,primavera,1,0,1,1,1,0,0,0,0
+MG,24,Parda,primavera,1,0,0,1,1,0,0,0,0
+MG,24,Parda,verao,1,1,1,0,1,0,0,0,1
+SP,37,Branca,outono,1,0,1,0,1,0,0,0,1
+MG,24,Branca,outono,0,1,1,0,1,0,0,0,1
+RJ,24,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,primavera,1,0,1,0,1,0,0,0,1
+SP,37,Outra,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,primavera,0,1,1,0,1,0,0,0,0
+MG,24,Outra,verao,0,0,0,0,0,0,0,0,0
+SP,6,Nao informado,primavera,1,1,1,0,1,0,0,0,0
+MG,37,Nao informado,verao,1,0,1,1,1,0,0,0,0
+SP,37,Parda,outono,1,1,1,1,1,0,0,0,1
+SP,50,Branca,inverno,1,0,0,1,0,0,0,0,1
+MG,6,Branca,verao,1,1,1,0,1,0,0,0,1
+SP,24,Outra,outono,0,0,0,0,0,0,0,0,1
+MG,24,Nao informado,outono,1,1,0,1,0,0,0,0,0
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+SP,50,Branca,verao,1,0,0,1,0,1,0,0,1
+MG,24,Outra,primavera,1,1,0,0,0,1,0,1,0
+RJ,37,Nao informado,inverno,1,1,0,0,0,1,0,0,0
+MG,6,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,0,0,1,1,0,0,0,0,0
+SP,37,Branca,outono,0,0,1,0,1,0,1,0,1
+SP,50,Branca,verao,1,1,0,0,0,0,0,0,1
+SP,37,Outra,verao,0,0,0,0,0,0,0,0,0
+SP,50,Branca,inverno,1,1,0,0,1,0,0,0,0
+RJ,6,Outra,verao,1,1,1,0,1,0,0,0,0
+MG,37,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,0,1,0,1,0,0,0,1
+RJ,37,Nao informado,verao,0,1,1,0,1,0,0,0,0
+RJ,24,Nao informado,verao,1,1,1,0,1,0,0,0,1
+MG,6,Parda,primavera,1,1,0,0,1,0,0,0,0
+SP,6,Branca,primavera,1,1,0,1,1,0,0,0,0
+SP,24,Nao informado,outono,1,1,0,0,1,0,0,0,0
+RJ,50,Parda,inverno,0,0,0,0,0,0,0,0,1
+RJ,37,Parda,primavera,0,0,0,0,0,0,0,0,1
+MG,24,Branca,primavera,1,1,1,1,0,1,0,0,0
+MG,37,Branca,outono,1,0,1,0,1,0,0,0,1
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+MG,15,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,1,1,1,1,0,0,0,0,1
+SP,24,Branca,outono,1,0,0,0,1,0,0,0,1
+SP,50,Branca,outono,1,1,1,0,1,1,0,0,0
+SP,37,Nao informado,verao,1,1,0,0,1,0,0,0,1
+SP,6,Parda,outono,0,1,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,50,Parda,outono,0,0,0,0,0,0,0,0,0
+MG,37,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+MG,15,Parda,outono,0,0,1,0,1,0,0,0,0
+SP,6,Parda,verao,1,0,1,0,1,0,0,0,0
+MG,24,Branca,verao,0,0,1,0,1,0,0,0,0
+SP,6,Branca,primavera,1,0,0,1,1,0,0,0,0
+SP,37,Branca,verao,1,0,1,0,0,0,0,0,1
+RJ,24,Outra,outono,1,0,1,1,0,0,0,0,1
+RJ,15,Parda,primavera,1,0,0,0,0,0,0,0,0
+MG,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,0,0,1,0,1,0,0,0,1
+SP,37,Nao informado,verao,1,0,0,0,0,0,1,0,1
+SP,50,Branca,primavera,0,0,1,1,1,0,0,0,0
+SP,50,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,1,0,0,1,1,0,0,0,1
+SP,6,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,50,Outra,outono,1,0,0,0,1,0,0,0,1
+SP,50,Outra,primavera,1,0,1,1,0,0,0,0,1
+MG,50,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,37,Parda,primavera,1,0,0,0,1,0,0,0,1
+MG,24,Parda,primavera,1,0,1,1,1,0,1,0,1
+SP,37,Outra,outono,1,0,0,1,0,1,1,0,1
+MG,24,Parda,verao,1,0,1,0,1,0,0,0,1
+SP,15,Nao informado,outono,0,0,0,0,0,0,0,0,1
+MG,37,Parda,outono,1,1,1,0,1,0,0,0,0
+SP,50,Branca,outono,1,0,1,1,1,0,0,0,0
+SP,24,Parda,primavera,1,0,1,0,0,1,0,0,0
+RJ,6,Branca,outono,1,1,0,0,0,0,0,0,0
+SP,6,Parda,outono,1,1,0,0,0,0,0,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,1,1,0,1
+SP,24,Branca,verao,1,0,0,0,0,0,0,0,0
+SP,50,Parda,verao,1,0,1,1,1,0,0,0,1
+MG,37,Parda,outono,0,0,0,0,0,0,0,0,1
+SP,37,Nao informado,inverno,1,1,1,0,1,0,0,0,0
+SP,37,Branca,verao,0,1,1,0,0,0,0,0,0
+SP,37,Branca,primavera,0,1,0,1,1,0,0,0,1
+SP,6,Nao informado,outono,0,1,0,1,0,1,0,0,1
+SP,37,Nao informado,primavera,0,0,1,1,0,0,0,0,0
+SP,15,Branca,outono,0,1,1,0,1,1,1,0,0
+SP,24,Branca,primavera,0,0,1,1,1,0,0,0,1
+SP,24,Parda,inverno,1,1,0,0,0,0,0,0,0
+RJ,6,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,37,Nao informado,outono,1,0,0,0,1,0,1,0,1
+SP,37,Nao informado,outono,1,1,1,0,0,0,0,0,1
+SP,15,Parda,verao,1,0,1,0,1,0,0,0,1
+SP,50,Outra,inverno,0,0,1,0,1,0,0,0,1
+MG,6,Branca,verao,1,1,0,0,1,0,0,0,0
+SP,50,Nao informado,outono,1,0,0,1,1,0,0,0,1
+MG,37,Parda,verao,0,0,1,1,1,0,0,0,0
+MG,37,Branca,outono,0,0,1,1,1,0,0,0,1
+SP,37,Branca,verao,0,0,1,1,0,0,0,0,0
+SP,15,Parda,primavera,0,1,1,1,0,0,0,0,1
+MG,50,Parda,primavera,0,0,0,0,0,0,0,0,0
+RJ,37,Outra,verao,0,0,0,0,0,0,0,0,0
+MG,15,Branca,outono,1,0,1,1,1,0,0,0,0
+MG,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Branca,primavera,1,0,0,1,1,0,0,0,1
+MG,50,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,24,Branca,inverno,1,1,0,0,0,0,0,0,1
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,50,Nao informado,verao,1,1,0,0,0,0,0,0,0
+SP,50,Branca,verao,1,1,0,0,1,0,0,0,1
+MG,50,Outra,verao,0,0,0,1,1,0,0,0,0
+SP,50,Parda,inverno,1,1,1,1,1,1,0,0,0
+RJ,37,Branca,outono,1,1,0,0,0,1,0,0,1
+SP,6,Branca,outono,1,1,0,1,1,1,0,0,0
+RJ,37,Outra,verao,1,1,1,1,1,1,0,0,1
+MG,50,Branca,verao,0,1,0,0,0,0,0,0,0
+MG,50,Branca,outono,1,1,0,0,0,0,0,0,0
+RJ,50,Branca,outono,0,1,1,0,0,0,0,0,0
+MG,37,Nao informado,outono,1,0,1,1,1,0,0,0,1
+MG,50,Branca,primavera,0,1,0,0,1,0,0,0,1
+SP,24,Branca,outono,1,0,1,0,1,0,0,0,0
+MG,6,Branca,outono,0,1,0,1,1,0,0,0,0
+SP,15,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,15,Branca,outono,0,1,0,1,0,0,0,0,1
+MG,15,Nao informado,primavera,1,1,0,1,0,0,0,1,0
+SP,50,Branca,inverno,1,1,1,0,1,0,0,0,1
+SP,24,Branca,primavera,1,0,1,1,1,0,0,0,0
+SP,6,Branca,outono,0,1,0,0,0,0,0,0,1
+RJ,50,Outra,outono,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,inverno,1,0,1,0,0,0,0,0,1
+SP,24,Branca,inverno,1,1,1,1,1,0,0,0,1
+SP,37,Branca,inverno,1,0,1,0,1,0,0,0,1
+SP,50,Branca,verao,0,1,1,1,0,0,0,0,1
+MG,37,Outra,inverno,0,1,0,0,0,0,0,0,1
+RJ,37,Branca,outono,1,1,0,0,1,0,0,0,0
+MG,50,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,37,Branca,outono,0,1,1,0,1,0,0,0,1
+RJ,37,Branca,outono,1,1,1,1,0,0,0,0,0
+SP,37,Parda,primavera,1,1,1,0,0,0,0,0,0
+SP,50,Branca,verao,1,1,0,0,0,0,0,0,1
+RJ,37,Branca,verao,1,1,0,1,0,1,0,0,0
+SP,50,Outra,verao,0,1,0,1,0,1,0,0,1
+RJ,24,Outra,outono,0,1,0,0,0,0,0,0,1
+RJ,24,Branca,verao,0,1,0,1,1,0,0,0,0
+SP,50,Branca,outono,0,1,1,1,0,0,0,0,1
+SP,37,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,15,Nao informado,primavera,0,1,0,0,1,0,0,1,0
+MG,37,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,37,Parda,outono,1,0,1,0,0,0,1,0,1
+SP,37,Nao informado,primavera,1,0,0,0,1,0,0,0,1
+SP,37,Branca,primavera,0,1,0,0,0,1,0,0,1
+SP,37,Nao informado,inverno,1,0,0,0,0,0,0,0,1
+SP,37,Branca,inverno,1,1,1,1,1,0,1,0,1
+MG,24,Parda,primavera,1,0,0,0,1,0,0,0,0
+RJ,15,Branca,outono,0,1,0,1,1,0,0,0,0
+SP,6,Outra,verao,0,1,1,0,0,0,0,0,1
+SP,50,Nao informado,outono,0,1,0,1,0,0,0,0,1
+SP,37,Branca,verao,1,0,0,0,1,0,0,0,0
+SP,37,Branca,primavera,1,0,1,0,1,1,0,0,1
+MG,24,Parda,outono,1,0,1,0,1,0,0,0,1
+SP,37,Branca,primavera,0,1,0,1,0,0,0,0,0
+SP,50,Branca,inverno,1,1,0,1,1,0,0,0,1
+SP,6,Branca,primavera,1,1,0,0,1,0,0,0,0
+MG,37,Parda,outono,0,1,1,0,0,0,0,0,0
+SP,37,Branca,verao,1,1,0,0,1,0,0,0,1
+SP,50,Branca,inverno,1,1,1,1,1,1,1,0,1
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,50,Branca,outono,0,0,1,0,0,0,0,0,0
+MG,24,Parda,verao,1,0,0,1,1,0,0,0,1
+SP,24,Branca,verao,0,0,1,0,1,0,0,0,1
+MG,24,Branca,outono,1,1,1,0,1,1,0,0,0
+MG,37,Parda,verao,1,1,1,0,0,0,0,0,1
+RJ,50,Branca,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Parda,verao,1,0,0,1,0,0,0,0,0
+SP,6,Nao informado,primavera,1,0,0,0,1,0,0,0,1
+RJ,50,Parda,outono,0,0,1,0,0,0,0,0,0
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,1
+RJ,15,Nao informado,verao,0,1,1,1,1,0,0,0,0
+SP,37,Outra,outono,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,1,1,0,0,1,0,0,0,1
+MG,6,Branca,outono,0,1,0,0,0,0,0,0,1
+SP,15,Branca,verao,0,0,1,1,1,0,0,0,0
+SP,37,Branca,primavera,0,1,1,1,1,0,0,0,1
+RJ,24,Branca,verao,1,1,1,1,0,1,0,0,0
+MG,15,Parda,primavera,0,0,0,0,1,0,0,0,1
+SP,37,Outra,outono,0,0,1,0,1,0,0,0,0
+RJ,37,Branca,verao,0,0,0,1,0,0,0,0,0
+SP,37,Branca,verao,0,1,1,0,0,0,0,0,1
+MG,50,Branca,verao,1,1,0,0,0,0,0,0,0
+RJ,37,Parda,verao,0,1,0,1,1,0,0,0,1
+MG,37,Parda,verao,1,0,1,1,0,0,0,0,0
+MG,37,Parda,outono,1,1,1,1,0,0,0,0,0
+MG,37,Branca,primavera,1,1,0,1,1,1,1,0,1
+MG,37,Branca,verao,1,0,0,0,0,0,1,0,0
+SP,6,Branca,inverno,0,1,0,0,1,0,0,0,0
+SP,6,Parda,outono,1,0,1,0,1,0,0,0,0
+SP,50,Nao informado,outono,1,1,1,1,1,0,0,0,1
+SP,37,Branca,outono,1,1,1,1,1,1,0,0,0
+RJ,50,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,50,Outra,primavera,0,0,0,0,0,0,0,0,1
+SP,37,Nao informado,primavera,0,0,0,1,0,0,0,0,0
+MG,24,Nao informado,verao,1,0,0,1,0,0,0,0,1
+SP,15,Parda,verao,1,0,0,0,0,0,0,0,0
+MG,50,Nao informado,inverno,1,0,1,0,1,0,0,0,1
+SP,37,Outra,inverno,1,0,1,1,1,0,0,0,0
+MG,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+MG,50,Nao informado,outono,1,1,0,0,0,0,0,0,0
+SP,24,Branca,outono,0,0,1,1,0,0,0,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,1,0,0,1,0,0,0,0,0
+SP,37,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Parda,outono,0,0,0,0,1,0,0,0,1
+MG,24,Outra,verao,1,0,1,0,1,0,0,0,1
+SP,37,Branca,verao,1,1,0,1,0,0,0,0,1
+SP,24,Branca,verao,1,0,1,0,0,0,0,0,1
+MG,37,Parda,verao,1,0,1,1,1,1,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,6,Branca,primavera,1,0,0,0,1,0,0,0,1
+MG,24,Branca,verao,0,1,1,0,1,0,0,0,0
+RJ,15,Parda,verao,1,0,0,0,0,0,0,0,0
+MG,37,Parda,outono,1,0,1,1,0,0,0,0,0
+RJ,50,Branca,outono,0,0,1,0,1,0,0,0,1
+SP,24,Branca,outono,0,1,1,0,0,0,0,0,0
+SP,37,Outra,outono,1,0,1,0,1,0,0,0,1
+RJ,37,Branca,verao,0,0,1,0,0,0,0,0,0
+RJ,50,Nao informado,verao,0,1,1,0,0,0,0,0,1
+SP,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+MG,37,Nao informado,verao,1,0,1,0,1,0,0,0,1
+SP,15,Branca,verao,1,1,0,0,1,0,0,0,0
+SP,15,Branca,verao,1,0,1,0,1,0,0,0,0
+RJ,24,Nao informado,primavera,0,0,0,1,0,0,0,0,0
+SP,37,Branca,outono,1,0,1,0,1,0,0,0,0
+MG,24,Branca,inverno,0,0,1,0,0,0,0,0,1
+MG,24,Branca,verao,0,1,0,0,0,0,0,0,0
+SP,24,Parda,primavera,1,0,0,1,1,0,0,0,0
+SP,37,Nao informado,primavera,1,0,1,0,1,0,0,0,0
+SP,37,Nao informado,primavera,1,0,1,1,1,0,0,0,0
+RJ,24,Nao informado,primavera,1,0,0,0,1,0,0,0,0
+MG,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+RJ,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Branca,inverno,0,0,0,1,1,0,0,0,1
+SP,37,Branca,verao,0,0,1,1,1,0,0,0,1
+SP,6,Branca,verao,0,1,1,0,0,0,0,0,0
+SP,37,Branca,verao,1,0,1,0,1,0,0,0,1
+SP,6,Branca,outono,1,1,0,1,0,0,0,0,1
+SP,37,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,50,Parda,primavera,0,0,0,0,0,0,0,0,0
+MG,37,Branca,primavera,1,1,1,1,1,0,0,0,0
+RJ,37,Parda,primavera,1,0,1,0,0,0,1,0,0
+RJ,37,Nao informado,primavera,1,0,1,1,1,0,1,0,1
+SP,37,Branca,outono,1,0,0,1,1,0,0,0,1
+MG,6,Parda,outono,1,1,0,0,1,0,0,0,0
+RJ,24,Outra,verao,1,1,1,0,1,0,0,0,1
+MG,50,Outra,primavera,0,0,1,1,1,0,0,0,1
+SP,50,Branca,verao,1,1,0,0,0,0,0,0,1
+SP,37,Branca,primavera,1,1,1,1,0,0,0,0,1
+MG,24,Parda,verao,1,1,0,0,1,0,0,0,1
+SP,24,Branca,primavera,1,0,0,0,0,0,0,0,0
+MG,50,Parda,inverno,0,0,0,1,0,1,0,0,1
+SP,37,Branca,verao,1,0,1,0,1,0,0,0,1
+SP,24,Parda,primavera,0,0,0,0,0,0,1,0,1
+MG,6,Branca,outono,1,1,0,1,0,0,0,0,0
+SP,37,Parda,verao,0,1,0,1,0,1,0,0,1
+SP,6,Branca,verao,1,1,0,0,0,0,0,0,1
+SP,37,Nao informado,verao,1,1,0,0,0,0,0,0,1
+SP,24,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,6,Parda,primavera,1,1,0,0,1,0,0,0,1
+MG,24,Parda,primavera,1,1,1,0,0,0,0,0,0
+SP,24,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,37,Branca,inverno,1,0,1,0,1,0,0,0,1
+SP,50,Branca,verao,0,0,1,0,1,0,0,0,1
+RJ,50,Outra,verao,0,0,1,0,1,0,0,0,0
+SP,37,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Parda,inverno,1,1,0,0,1,1,0,0,1
+SP,50,Branca,verao,0,0,1,0,0,0,0,0,1
+RJ,37,Nao informado,inverno,0,0,1,0,0,0,0,0,1
+MG,37,Nao informado,primavera,0,0,0,0,1,0,0,0,0
+SP,6,Nao informado,outono,1,0,0,0,0,0,0,0,0
+SP,6,Parda,outono,1,1,0,0,1,0,0,0,1
+SP,24,Branca,primavera,1,0,1,1,1,0,0,0,1
+MG,50,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,inverno,0,0,1,0,1,0,0,0,1
+SP,24,Branca,verao,1,0,1,1,1,0,0,0,1
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+MG,24,Nao informado,outono,0,0,0,1,0,0,0,0,0
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Nao informado,primavera,0,1,0,0,1,0,0,0,0
+SP,37,Branca,outono,1,1,1,1,0,0,0,0,0
+MG,50,Parda,inverno,0,0,1,0,0,0,0,0,0
+SP,6,Branca,verao,0,0,1,1,0,1,0,0,1
+RJ,6,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,1,0,1,0,0,0,0
+SP,37,Nao informado,primavera,1,0,0,1,0,0,0,0,0
+SP,24,Nao informado,verao,0,1,0,1,0,0,0,0,1
+SP,15,Branca,verao,1,1,0,1,0,0,0,0,0
+MG,24,Parda,verao,0,1,0,1,1,0,0,0,0
+SP,24,Parda,inverno,1,1,1,0,0,0,0,0,0
+RJ,24,Branca,primavera,1,1,0,0,1,0,0,0,0
+RJ,15,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,1,1,1,1,1,0,0,0,0
+SP,24,Branca,verao,0,1,1,0,0,0,0,0,1
+RJ,24,Outra,verao,0,0,0,0,0,0,0,0,1
+MG,37,Branca,primavera,1,0,0,1,1,0,0,0,1
+SP,37,Outra,primavera,0,0,0,1,1,0,0,0,1
+SP,37,Parda,verao,1,0,1,1,0,1,0,0,0
+SP,24,Parda,inverno,0,1,0,0,0,1,0,0,1
+SP,50,Nao informado,verao,1,0,1,0,1,1,0,0,1
+SP,15,Branca,outono,1,0,1,1,1,0,0,0,0
+SP,6,Branca,inverno,1,0,1,0,1,0,0,0,1
+RJ,37,Parda,outono,1,0,0,1,0,0,0,0,0
+MG,50,Branca,outono,0,1,0,0,0,0,0,0,1
+RJ,6,Branca,outono,1,1,0,0,0,1,0,0,0
+RJ,24,Nao informado,primavera,0,1,1,1,0,0,1,0,1
+MG,50,Parda,inverno,1,1,0,1,0,0,0,0,0
+SP,37,Branca,verao,1,0,0,0,1,0,0,0,0
+SP,37,Branca,verao,0,1,1,1,0,0,0,0,1
+SP,37,Parda,outono,0,0,0,0,0,0,0,1,0
+SP,50,Branca,verao,1,1,1,1,0,0,0,0,1
+MG,6,Parda,verao,0,0,0,0,1,0,0,0,0
+SP,37,Branca,primavera,0,0,1,0,0,0,0,0,0
+RJ,50,Branca,verao,1,0,0,0,1,1,0,0,0
+SP,15,Branca,outono,0,0,0,1,1,0,0,0,0
+SP,37,Branca,verao,0,0,1,0,1,0,0,0,1
+MG,15,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,15,Parda,outono,1,1,0,1,0,0,0,0,1
+SP,37,Branca,inverno,0,0,1,0,0,0,0,0,1
+RJ,37,Outra,outono,0,0,0,0,0,0,0,0,0
+MG,37,Branca,outono,1,0,1,0,1,0,0,0,0
+SP,50,Branca,primavera,1,0,1,1,1,0,0,0,1
+SP,50,Parda,primavera,0,0,0,0,0,0,0,0,1
+RJ,37,Outra,verao,0,1,1,0,0,1,0,0,1
+RJ,6,Parda,primavera,0,0,0,0,0,0,0,0,0
+RJ,15,Branca,outono,1,0,1,1,1,1,0,0,0
+SP,37,Parda,primavera,1,0,1,1,1,0,1,0,1
+SP,37,Parda,primavera,1,0,0,0,0,0,1,0,1
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Outra,verao,0,0,0,0,1,0,0,0,1
+RJ,50,Branca,inverno,0,0,0,0,0,0,0,0,1
+MG,15,Outra,outono,0,0,1,1,1,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,6,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,inverno,1,1,1,1,0,0,0,0,1
+SP,6,Branca,outono,0,0,0,0,0,0,0,0,0
+MG,37,Parda,verao,0,0,1,1,1,0,0,0,0
+SP,37,Parda,outono,0,0,0,0,0,0,0,0,1
+RJ,6,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,24,Parda,primavera,0,1,0,1,1,0,0,0,0
+SP,15,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,6,Branca,primavera,0,1,0,0,0,0,0,0,0
+SP,24,Branca,primavera,0,0,1,0,1,0,0,0,0
+SP,50,Branca,primavera,0,0,1,0,1,0,0,0,1
+SP,50,Branca,primavera,1,1,0,0,1,1,0,0,1
+MG,15,Parda,verao,1,0,1,1,1,0,0,0,1
+MG,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,6,Nao informado,outono,1,0,1,0,1,0,1,0,0
+SP,37,Branca,outono,1,1,0,0,0,1,0,0,0
+SP,50,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,50,Branca,outono,0,0,0,1,1,0,0,0,1
+SP,24,Branca,verao,1,0,1,0,1,0,0,0,1
+RJ,6,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,37,Outra,verao,0,0,0,0,0,0,0,0,0
+SP,37,Parda,inverno,1,1,0,0,1,0,0,0,1
+SP,37,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,15,Branca,primavera,1,0,1,1,1,0,0,0,1
+MG,24,Parda,verao,1,0,0,0,1,0,0,0,1
+SP,50,Nao informado,primavera,1,0,0,0,1,0,0,0,1
+SP,6,Nao informado,inverno,1,1,0,0,1,1,0,0,0
+MG,24,Branca,verao,0,0,0,1,1,0,0,0,1
+MG,50,Nao informado,verao,1,0,1,1,0,0,0,0,1
+RJ,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Branca,verao,1,1,1,0,0,0,0,0,1
+SP,6,Branca,primavera,0,1,0,1,1,0,0,0,1
+RJ,50,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,6,Branca,primavera,1,1,0,0,1,0,0,0,1
+MG,50,Outra,verao,1,0,1,1,1,0,0,0,0
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,6,Parda,verao,1,0,1,1,1,0,0,0,1
+SP,50,Branca,outono,0,0,1,1,1,0,0,0,1
+MG,37,Nao informado,verao,0,0,1,1,1,0,0,0,1
+MG,6,Parda,outono,1,1,0,0,0,0,0,0,0
+MG,24,Parda,verao,0,0,1,1,1,0,1,0,1
+MG,6,Parda,inverno,1,1,0,0,1,1,0,0,0
+SP,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Outra,verao,0,0,0,0,1,0,1,0,0
+SP,50,Branca,verao,1,0,1,1,1,0,0,0,0
+RJ,37,Parda,primavera,0,0,0,0,0,0,0,0,1
+SP,15,Branca,outono,0,0,0,0,0,0,0,0,1
+SP,50,Branca,verao,1,0,0,1,1,0,0,0,1
+SP,6,Branca,verao,1,0,0,0,0,0,0,0,0
+SP,50,Branca,inverno,1,0,1,1,1,0,0,1,1
+SP,50,Branca,verao,1,0,0,0,1,0,0,0,0
+RJ,24,Branca,outono,0,1,1,1,0,0,0,0,0
+RJ,37,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,verao,0,1,1,0,0,0,1,0,1
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,37,Branca,outono,0,0,1,0,0,0,0,0,0
+SP,50,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,50,Branca,primavera,0,0,1,0,0,0,0,0,1
+SP,50,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,50,Branca,primavera,1,1,0,1,0,0,0,0,0
+MG,50,Parda,verao,1,0,1,0,0,0,0,0,1
+RJ,37,Nao informado,primavera,0,0,0,1,1,0,0,0,1
+SP,37,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,6,Nao informado,outono,0,1,0,1,1,0,0,0,1
+SP,24,Branca,inverno,1,0,1,1,1,0,0,0,1
+RJ,37,Parda,primavera,0,0,0,0,0,0,0,0,1
+SP,37,Branca,outono,0,0,1,0,0,0,0,0,0
+SP,50,Parda,outono,1,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,1,0,1,1,0,0,0,0,1
+SP,37,Nao informado,verao,1,0,0,1,0,0,0,0,0
+RJ,24,Outra,outono,0,1,0,0,0,0,0,0,0
+SP,15,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,37,Parda,verao,0,0,1,1,0,0,0,0,1
+MG,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,0,0,1,1,1,0,0,1,1
+SP,37,Parda,verao,0,0,0,1,1,0,0,0,0
+SP,37,Branca,inverno,0,0,1,0,1,0,0,0,1
+SP,6,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,24,Parda,verao,0,0,0,1,0,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,37,Branca,outono,1,0,0,0,1,0,0,0,1
+RJ,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,0,1,0,0,0,0,0,0
+SP,15,Branca,outono,0,0,0,1,0,0,0,0,0
+MG,50,Branca,verao,1,0,1,1,1,0,0,0,0
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,24,Parda,inverno,1,1,1,1,1,1,0,0,0
+RJ,24,Parda,verao,0,0,0,0,0,0,0,0,1
+MG,24,Branca,inverno,0,0,1,0,0,0,1,0,1
+RJ,24,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,1,1,0,0,1,0,0,0,1
+SP,37,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+SP,37,Branca,outono,1,0,1,1,1,0,0,0,1
+SP,24,Parda,verao,1,0,1,1,0,0,0,0,0
+RJ,24,Parda,verao,1,1,1,1,1,1,0,0,1
+SP,6,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,0,1,1,1,1,0,0,0,1
+MG,6,Nao informado,outono,1,1,0,0,0,0,0,0,1
+MG,37,Parda,primavera,1,0,1,0,1,0,0,0,0
+MG,24,Nao informado,verao,1,0,1,0,1,0,0,0,1
+SP,24,Parda,primavera,1,0,1,1,1,0,0,0,1
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+SP,37,Branca,primavera,1,0,1,1,0,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,verao,1,0,1,1,1,1,0,0,1
+MG,24,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Parda,outono,1,1,1,0,0,0,0,0,1
+MG,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Nao informado,verao,1,0,1,1,1,0,0,0,1
+RJ,50,Branca,verao,1,0,0,0,0,0,0,0,1
+SP,24,Branca,verao,1,1,0,1,1,1,0,1,0
+SP,15,Branca,primavera,1,1,1,1,1,0,0,0,1
+MG,37,Outra,outono,0,0,1,1,1,0,0,0,0
+SP,37,Branca,verao,0,0,0,1,1,1,0,0,0
+SP,37,Branca,outono,1,0,1,1,1,0,0,0,1
+SP,37,Branca,outono,1,0,1,0,0,0,0,0,0
+SP,37,Branca,inverno,1,1,1,0,1,0,0,0,1
+RJ,24,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,24,Nao informado,outono,0,0,0,0,0,0,0,0,1
+MG,50,Branca,primavera,1,1,0,0,0,0,0,0,1
+MG,37,Branca,verao,1,1,1,1,1,0,0,0,1
+SP,6,Nao informado,verao,0,0,0,0,0,1,0,0,0
+RJ,24,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,6,Branca,verao,1,0,0,0,1,0,0,0,1
+RJ,50,Nao informado,primavera,1,0,0,1,0,0,0,0,0
+RJ,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,50,Parda,outono,1,0,1,0,1,0,0,0,0
+MG,37,Nao informado,outono,1,0,1,1,1,0,0,0,1
+RJ,37,Parda,outono,1,1,1,1,1,0,1,0,0
+MG,24,Parda,verao,1,1,0,0,0,0,0,0,0
+SP,37,Parda,inverno,1,1,1,0,1,1,0,0,1
+MG,6,Parda,outono,1,1,0,0,0,0,0,0,0
+MG,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Parda,primavera,1,0,1,0,1,0,0,0,0
+RJ,6,Parda,primavera,0,0,0,0,0,0,0,0,1
+RJ,50,Parda,verao,0,0,0,0,1,0,0,0,0
+SP,50,Parda,inverno,1,0,1,0,1,0,0,0,0
+MG,15,Parda,primavera,1,0,0,0,0,0,1,0,0
+SP,50,Branca,outono,0,0,0,0,1,0,0,0,1
+RJ,37,Branca,outono,0,1,1,1,1,0,0,0,1
+MG,24,Parda,outono,1,1,0,0,1,0,0,0,0
+SP,6,Branca,verao,0,1,0,0,0,0,0,0,1
+SP,37,Parda,primavera,0,0,0,0,0,0,0,0,1
+RJ,6,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,outono,1,1,0,1,0,0,1,0,1
+MG,15,Parda,inverno,0,1,1,1,0,0,0,0,0
+SP,37,Branca,verao,0,1,0,0,1,0,0,0,1
+RJ,6,Parda,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Parda,inverno,0,0,1,1,1,0,0,0,0
+MG,50,Branca,outono,1,1,0,1,0,0,0,0,0
+SP,50,Branca,verao,0,0,0,0,0,0,0,0,1
+MG,15,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,50,Outra,outono,0,1,1,0,0,0,0,0,0
+SP,50,Branca,verao,0,1,1,0,1,0,0,0,0
+MG,37,Branca,outono,1,0,0,1,0,0,0,0,0
+SP,50,Branca,primavera,1,0,1,0,1,0,1,0,0
+SP,6,Branca,outono,0,0,1,0,1,0,1,0,1
+MG,37,Outra,primavera,0,0,0,0,0,0,0,0,1
+MG,37,Branca,primavera,1,0,1,1,1,0,0,0,1
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,6,Branca,outono,0,0,0,0,0,0,0,0,0
+MG,15,Branca,outono,0,0,0,1,1,0,0,0,1
+RJ,37,Parda,primavera,1,0,0,0,1,0,0,0,0
+RJ,6,Parda,inverno,0,0,0,0,1,0,0,0,0
+SP,37,Nao informado,outono,1,0,1,1,1,0,0,0,0
+SP,6,Branca,outono,1,1,0,0,0,0,0,0,1
+RJ,6,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,primavera,0,0,0,1,0,0,0,0,0
+MG,37,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,1,0,1,0,0,0,1
+RJ,50,Parda,outono,1,1,1,1,0,0,0,0,1
+SP,37,Parda,verao,0,0,1,0,0,0,0,0,1
+SP,15,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,verao,0,1,0,1,0,0,0,0,0
+MG,37,Parda,verao,1,0,0,1,1,0,0,0,0
+SP,37,Branca,inverno,1,0,0,0,0,0,0,1,0
+SP,37,Parda,primavera,1,1,0,0,1,0,0,0,1
+MG,37,Outra,verao,0,1,1,1,0,0,0,0,0
+RJ,50,Outra,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Branca,outono,1,1,1,1,1,0,0,0,0
+RJ,37,Branca,outono,1,0,1,1,1,0,0,0,1
+RJ,37,Branca,verao,1,1,1,0,0,0,0,0,1
+SP,37,Parda,verao,1,0,1,1,1,0,0,0,1
+SP,6,Parda,outono,1,1,0,0,1,0,0,0,0
+SP,24,Nao informado,outono,0,1,1,0,0,0,0,0,0
+SP,50,Parda,verao,1,1,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,1,0,1,1,0,0,0,1
+MG,15,Outra,verao,1,1,0,1,0,0,0,0,1
+MG,37,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,0,1,0,0,0,0
+MG,24,Parda,inverno,0,0,0,1,1,0,0,0,0
+RJ,37,Parda,verao,0,1,1,0,1,1,0,0,0
+SP,37,Branca,primavera,1,1,1,1,1,0,0,0,1
+RJ,37,Nao informado,verao,1,0,1,1,1,0,0,0,0
+MG,37,Nao informado,outono,1,1,0,1,0,0,0,0,0
+SP,24,Parda,primavera,1,1,1,0,1,1,0,0,1
+SP,37,Nao informado,verao,1,0,0,0,1,0,0,0,1
+SP,50,Branca,primavera,0,1,0,0,1,0,0,0,0
+RJ,24,Nao informado,primavera,1,0,0,0,0,0,0,0,0
+RJ,50,Branca,verao,0,0,0,0,0,0,0,1,1
+SP,37,Branca,inverno,0,1,1,0,1,0,0,0,0
+SP,6,Branca,outono,1,1,0,0,0,0,1,0,0
+SP,50,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,37,Branca,verao,0,1,1,1,1,0,0,0,1
+MG,50,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,primavera,1,0,0,0,0,0,0,0,1
+RJ,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Outra,outono,0,0,0,1,1,1,0,0,1
+MG,37,Parda,verao,1,1,0,1,1,0,1,0,0
+MG,6,Parda,primavera,1,0,0,0,0,0,0,0,0
+MG,37,Branca,verao,0,0,0,1,1,0,1,0,1
+MG,6,Nao informado,verao,1,1,0,1,0,0,0,0,0
+SP,50,Outra,verao,0,1,1,0,1,0,0,0,0
+MG,50,Nao informado,primavera,1,0,0,0,1,0,0,0,1
+RJ,6,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,6,Nao informado,inverno,1,1,0,1,1,0,0,0,0
+SP,15,Nao informado,outono,0,0,0,1,1,0,0,0,1
+SP,37,Branca,outono,1,0,1,0,0,0,0,0,0
+SP,6,Branca,inverno,1,1,0,0,0,0,0,0,0
+MG,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,15,Parda,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Parda,verao,1,0,1,0,1,0,0,0,0
+MG,6,Parda,primavera,0,0,0,0,1,0,0,0,1
+SP,50,Branca,verao,0,0,0,0,0,0,1,0,1
+SP,37,Branca,outono,0,1,1,0,1,0,0,0,0
+RJ,37,Nao informado,verao,0,0,1,0,1,0,1,0,1
+MG,6,Parda,verao,1,0,0,0,1,0,0,0,0
+SP,6,Branca,verao,0,1,0,0,1,1,0,0,1
+SP,50,Parda,inverno,1,0,1,0,1,0,0,0,1
+SP,24,Nao informado,primavera,0,1,0,0,0,0,0,0,1
+MG,37,Branca,outono,0,0,0,0,0,0,0,0,0
+MG,24,Branca,primavera,0,0,1,0,1,1,0,0,1
+SP,6,Parda,verao,1,0,0,1,1,0,0,0,0
+SP,50,Branca,primavera,1,1,0,0,0,0,0,0,0
+MG,50,Outra,verao,1,0,1,0,1,0,0,0,1
+RJ,6,Nao informado,inverno,1,1,0,0,0,0,0,0,0
+MG,50,Nao informado,verao,1,0,0,0,1,0,0,0,0
+RJ,37,Parda,outono,1,1,0,0,0,0,0,0,0
+RJ,37,Nao informado,inverno,0,1,1,0,1,0,1,0,1
+MG,50,Branca,primavera,1,1,1,1,1,1,1,0,1
+SP,6,Nao informado,inverno,1,0,0,0,1,0,0,0,1
+MG,24,Parda,verao,0,0,1,1,1,0,0,0,1
+SP,24,Branca,inverno,1,0,1,1,0,0,0,0,1
+RJ,24,Parda,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,outono,0,0,0,0,0,0,0,0,0
+MG,37,Branca,verao,0,1,1,1,1,0,0,0,1
+MG,37,Nao informado,verao,0,0,1,1,1,0,0,0,0
+MG,24,Nao informado,verao,1,0,0,0,1,0,0,0,1
+RJ,37,Parda,primavera,1,1,1,1,1,0,1,0,0
+SP,50,Branca,verao,1,1,1,1,1,0,1,0,1
+SP,37,Outra,outono,1,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,primavera,1,0,1,0,1,0,0,0,1
+MG,37,Branca,verao,1,0,1,1,1,0,0,0,1
+MG,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Outra,inverno,1,0,0,1,0,0,0,0,0
+RJ,50,Nao informado,outono,1,1,0,1,1,0,0,0,0
+SP,37,Branca,verao,1,0,1,0,0,0,0,0,1
+MG,37,Branca,verao,0,0,1,1,0,1,0,0,1
+RJ,37,Parda,verao,1,1,1,0,1,0,0,0,1
+RJ,37,Branca,primavera,1,0,0,1,1,0,0,0,0
+SP,24,Branca,verao,1,0,1,0,0,1,0,0,0
+MG,15,Parda,verao,1,0,1,0,1,0,0,0,0
+MG,6,Parda,outono,1,0,0,0,1,0,0,0,0
+MG,50,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+RJ,50,Outra,outono,0,0,0,0,0,0,0,1,0
+RJ,37,Nao informado,outono,1,0,1,1,1,0,0,0,0
+SP,24,Nao informado,inverno,1,1,1,0,0,0,0,0,1
+RJ,24,Parda,primavera,0,1,0,0,0,0,0,0,0
+MG,37,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,6,Parda,verao,1,1,0,0,0,0,0,1,0
+SP,50,Branca,verao,1,0,0,0,1,0,0,0,0
+RJ,50,Branca,outono,1,1,1,0,1,0,1,0,0
+SP,24,Nao informado,outono,0,1,0,0,1,0,0,0,0
+SP,24,Nao informado,inverno,0,1,1,0,1,0,0,0,0
+SP,50,Parda,verao,1,0,1,0,1,0,0,0,1
+MG,6,Parda,outono,1,1,1,0,1,0,0,0,0
+SP,15,Parda,outono,0,0,0,0,0,0,0,0,0
+RJ,50,Branca,primavera,1,1,1,0,0,0,0,0,0
+SP,24,Parda,verao,1,0,1,0,0,0,0,0,1
+SP,37,Branca,primavera,0,0,0,1,1,0,1,0,1
+RJ,37,Branca,verao,1,1,1,1,0,0,0,0,1
+MG,37,Nao informado,verao,1,1,0,1,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,15,Nao informado,primavera,1,0,0,1,1,0,1,0,0
+RJ,50,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,1,0,0,1,0,0,0,1
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,1,0
+MG,37,Branca,outono,0,0,0,0,0,0,0,0,1
+SP,50,Parda,inverno,1,0,1,1,1,1,0,0,1
+RJ,24,Nao informado,inverno,0,1,1,0,0,0,0,0,0
+SP,37,Branca,verao,0,0,1,0,0,0,1,0,0
+MG,37,Nao informado,verao,1,0,0,1,0,0,0,0,1
+SP,15,Parda,primavera,1,1,1,1,1,0,0,0,0
+SP,24,Parda,inverno,0,0,0,0,0,0,0,0,1
+SP,6,Branca,primavera,0,1,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,0,1,0,0,0,0,0,0
+MG,24,Branca,verao,0,1,0,0,0,0,0,0,0
+SP,50,Parda,verao,1,0,0,0,1,0,1,0,1
+SP,6,Branca,outono,0,0,0,1,1,0,0,0,0
+RJ,24,Nao informado,primavera,0,1,1,0,0,0,0,0,0
+SP,37,Parda,verao,1,0,0,0,1,0,1,0,0
+SP,37,Branca,outono,0,0,1,1,0,0,0,0,0
+RJ,37,Parda,outono,0,0,0,0,0,0,0,0,1
+SP,37,Branca,inverno,1,0,0,1,1,0,0,0,0
+SP,37,Nao informado,primavera,1,1,0,0,0,0,0,0,1
+RJ,6,Nao informado,primavera,1,1,0,0,0,0,0,0,0
+SP,37,Branca,primavera,0,0,0,0,0,0,0,1,0
+SP,6,Outra,outono,1,0,0,0,1,0,0,0,0
+SP,50,Branca,verao,1,1,0,1,0,0,0,0,1
+SP,6,Branca,verao,0,0,1,0,0,0,0,0,0
+RJ,37,Parda,outono,0,0,1,0,1,0,0,0,1
+MG,50,Nao informado,outono,1,0,0,0,0,0,0,0,0
+SP,50,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,24,Nao informado,outono,1,0,0,1,1,0,0,0,0
+RJ,50,Branca,verao,0,0,0,0,0,0,0,1,0
+MG,37,Outra,inverno,1,0,0,0,0,0,0,0,0
+MG,37,Outra,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,outono,0,0,1,0,0,0,0,0,0
+SP,37,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+MG,24,Nao informado,outono,1,0,1,1,1,0,0,0,1
+MG,24,Branca,verao,1,1,1,0,1,1,0,0,1
+SP,6,Parda,verao,1,0,0,1,0,0,0,0,1
+RJ,6,Branca,outono,1,0,1,0,1,0,0,0,0
+SP,15,Branca,inverno,0,1,0,0,1,0,1,0,0
+SP,24,Parda,verao,1,0,1,1,0,0,0,0,0
+SP,6,Branca,outono,1,0,0,0,1,0,0,0,0
+MG,6,Branca,outono,0,1,0,0,0,0,0,0,1
+SP,37,Nao informado,outono,1,0,1,0,0,0,0,0,1
+RJ,37,Nao informado,outono,0,0,0,0,0,0,0,0,0
+RJ,6,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Outra,primavera,1,0,0,1,1,0,0,0,1
+SP,50,Branca,verao,1,0,1,0,1,1,0,0,1
+SP,24,Branca,verao,0,0,1,0,1,1,1,0,1
+MG,37,Parda,inverno,1,0,1,0,1,0,0,0,0
+SP,37,Branca,outono,0,0,0,0,0,0,0,0,0
+MG,37,Branca,verao,0,0,1,1,0,1,0,1,0
+RJ,24,Branca,primavera,1,1,1,1,1,1,0,0,1
+RJ,50,Nao informado,inverno,0,0,0,0,1,0,0,0,0
+RJ,50,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,15,Nao informado,verao,0,1,0,1,1,0,0,0,1
+RJ,37,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,37,Branca,inverno,1,0,0,0,0,0,0,0,0
+MG,37,Parda,outono,1,1,1,1,1,0,0,0,0
+MG,6,Outra,outono,0,1,1,0,0,0,1,0,0
+SP,6,Branca,primavera,1,1,0,0,1,0,0,0,0
+SP,6,Branca,verao,1,1,0,0,0,0,0,0,1
+MG,37,Branca,primavera,0,0,1,0,1,0,1,0,1
+SP,37,Outra,verao,1,1,0,1,0,0,0,0,1
+SP,37,Parda,outono,0,0,0,1,0,1,1,0,1
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Branca,inverno,1,0,1,1,1,0,0,0,0
+MG,15,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,6,Parda,verao,1,1,0,0,1,0,0,0,0
+MG,37,Branca,primavera,0,0,1,0,1,0,0,0,0
+SP,37,Branca,primavera,1,0,0,0,1,1,1,0,0
+RJ,37,Branca,primavera,0,1,1,1,1,0,0,0,0
+SP,15,Parda,verao,0,1,1,0,0,0,0,0,1
+RJ,37,Branca,verao,0,1,1,1,0,0,0,0,1
+SP,24,Parda,verao,0,0,1,1,1,0,0,0,1
+MG,37,Outra,inverno,1,0,0,0,0,1,0,0,0
+SP,15,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,0,1,1,0,0,0,0,0
+SP,24,Branca,outono,0,1,0,1,0,0,0,0,0
+RJ,24,Branca,verao,0,1,0,0,1,0,0,0,1
+SP,15,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,15,Parda,verao,1,1,1,0,0,0,0,0,1
+SP,6,Parda,outono,1,0,0,0,1,0,0,0,0
+MG,24,Branca,outono,1,0,1,1,0,0,0,0,0
+MG,15,Nao informado,inverno,1,1,0,1,0,0,0,0,0
+SP,24,Branca,inverno,0,0,0,1,0,0,0,0,1
+SP,24,Parda,outono,1,1,1,0,0,0,0,0,1
+MG,37,Nao informado,verao,1,0,0,1,1,0,0,0,1
+SP,6,Parda,verao,1,0,1,0,0,1,0,0,1
+MG,6,Parda,primavera,1,1,1,0,0,0,0,0,0
+SP,6,Outra,verao,0,1,0,1,0,0,0,1,0
+MG,6,Branca,outono,1,0,0,1,1,0,0,0,0
+SP,6,Nao informado,verao,1,1,0,0,0,0,0,0,1
+RJ,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,50,Branca,verao,1,0,1,0,1,0,0,0,1
+MG,24,Outra,inverno,1,1,1,1,1,0,1,0,0
+MG,24,Outra,verao,1,0,1,1,0,0,0,0,1
+SP,37,Parda,outono,1,0,1,0,1,0,0,0,0
+SP,24,Nao informado,verao,0,0,0,0,1,1,0,0,0
+MG,37,Branca,outono,0,1,1,1,0,0,0,0,0
+SP,24,Parda,primavera,0,0,1,0,0,0,0,0,0
+MG,24,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,15,Branca,outono,1,1,0,0,0,0,0,0,0
+SP,50,Parda,verao,0,0,1,0,1,0,1,0,1
+SP,37,Nao informado,outono,1,0,0,0,0,0,0,0,0
+MG,50,Parda,primavera,1,1,0,0,1,1,1,0,1
+MG,24,Branca,verao,1,1,1,0,1,0,1,0,0
+SP,24,Parda,verao,1,0,0,0,1,1,0,0,0
+SP,50,Branca,inverno,0,0,1,0,0,1,0,0,1
+RJ,24,Nao informado,verao,0,0,0,1,0,0,0,0,0
+MG,6,Parda,outono,1,0,0,0,0,0,0,0,1
+SP,24,Branca,outono,0,0,0,0,0,0,0,0,1
+MG,37,Nao informado,outono,0,0,0,0,0,0,0,0,1
+MG,50,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,15,Branca,verao,0,1,1,0,0,0,1,0,1
+RJ,50,Nao informado,inverno,0,0,0,0,1,1,0,0,1
+SP,37,Branca,outono,0,0,1,1,0,0,0,0,0
+SP,6,Parda,primavera,0,0,0,0,0,0,0,1,0
+SP,15,Branca,outono,1,0,0,0,1,0,0,0,0
+SP,50,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,outono,1,1,0,1,1,0,1,0,1
+MG,15,Branca,verao,1,1,0,0,0,0,0,0,1
+MG,50,Branca,outono,1,0,0,1,0,0,0,0,1
+MG,6,Parda,inverno,1,0,1,0,1,0,0,0,0
+SP,6,Parda,verao,0,1,1,1,0,0,0,0,1
+RJ,37,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Branca,primavera,1,0,1,0,1,1,0,0,1
+SP,15,Parda,primavera,0,1,0,0,0,0,0,0,0
+MG,37,Parda,outono,0,0,0,0,0,0,0,0,1
+MG,24,Nao informado,primavera,1,1,0,1,0,0,0,0,0
+RJ,50,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,50,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,24,Parda,primavera,1,1,1,1,0,1,0,0,0
+SP,37,Branca,outono,1,0,0,1,1,0,0,0,1
+MG,24,Branca,primavera,1,1,1,0,0,1,1,0,0
+RJ,37,Branca,verao,1,1,0,1,1,0,0,0,1
+RJ,37,Nao informado,verao,1,1,1,1,0,0,0,0,1
+SP,50,Branca,verao,0,0,1,1,0,0,0,0,1
+SP,15,Outra,verao,1,1,1,0,1,0,0,0,1
+SP,24,Parda,verao,1,1,0,0,1,0,0,0,1
+RJ,15,Branca,outono,0,0,0,0,1,0,1,0,1
+SP,37,Branca,primavera,0,1,0,0,1,0,0,0,1
+SP,37,Parda,outono,1,0,1,0,1,1,0,0,0
+SP,15,Parda,verao,1,0,0,0,0,0,0,0,0
+SP,24,Nao informado,primavera,1,0,1,0,1,0,0,0,1
+MG,37,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Parda,primavera,1,0,1,0,1,0,0,0,0
+MG,37,Nao informado,verao,1,0,0,1,0,0,0,0,0
+SP,24,Parda,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Outra,verao,0,0,1,0,1,0,0,0,0
+RJ,50,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Branca,verao,1,0,1,1,1,0,0,0,0
+SP,15,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,0,1,1,0,1,0,0,0,1
+RJ,24,Outra,verao,1,1,0,0,0,0,0,0,0
+MG,37,Nao informado,verao,1,0,0,0,0,0,0,0,1
+SP,50,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,37,Branca,outono,1,0,0,0,0,1,0,0,1
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,24,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+RJ,24,Nao informado,verao,1,1,1,1,0,0,0,0,1
+SP,15,Branca,verao,0,1,1,1,1,0,0,0,1
+SP,50,Branca,verao,0,0,0,0,0,0,1,0,1
+SP,37,Branca,inverno,1,1,1,0,0,0,0,0,1
+SP,37,Branca,outono,1,1,1,1,1,1,1,0,1
+SP,37,Parda,outono,0,0,0,0,0,0,0,0,0
+MG,37,Branca,outono,0,0,0,1,0,0,0,0,0
+MG,6,Nao informado,primavera,1,1,0,1,0,0,0,0,0
+SP,24,Branca,inverno,1,0,1,0,1,0,0,0,1
+MG,24,Nao informado,verao,0,0,1,1,0,1,0,0,1
+SP,37,Parda,verao,1,0,1,0,1,0,0,0,1
+MG,6,Branca,verao,0,0,0,0,0,0,0,0,1
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,37,Parda,inverno,1,0,0,1,1,0,0,0,0
+SP,50,Branca,outono,1,1,1,1,1,1,0,0,0
+MG,50,Outra,verao,1,0,0,0,1,0,0,0,1
+MG,24,Branca,outono,1,0,1,0,1,0,0,0,1
+MG,24,Parda,inverno,1,1,0,1,0,0,0,0,0
+SP,50,Outra,inverno,1,0,1,0,0,0,0,0,1
+MG,37,Parda,inverno,1,0,0,1,0,0,0,0,1
+SP,6,Branca,outono,1,0,1,0,1,0,0,0,1
+MG,6,Nao informado,inverno,1,0,0,1,0,0,0,0,0
+SP,50,Parda,primavera,0,0,0,1,0,1,0,0,0
+RJ,50,Branca,verao,1,0,0,0,0,0,0,0,1
+SP,24,Nao informado,primavera,1,1,0,0,1,0,0,0,1
+RJ,24,Branca,primavera,1,1,0,1,1,1,0,0,0
+SP,6,Branca,verao,0,1,0,0,0,1,0,0,0
+MG,50,Branca,inverno,0,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,inverno,1,0,0,1,0,0,0,0,0
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,50,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,24,Nao informado,outono,1,1,0,1,0,0,0,0,1
+RJ,15,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,outono,1,1,0,0,1,0,0,0,0
+SP,37,Branca,outono,0,1,1,0,0,0,1,0,0
+MG,50,Outra,outono,1,0,1,1,1,0,0,0,0
+MG,37,Outra,outono,1,1,0,0,1,0,0,0,1
+SP,24,Parda,inverno,1,0,1,1,0,0,0,0,0
+MG,37,Branca,primavera,1,1,1,0,1,0,0,0,0
+MG,24,Branca,verao,1,0,1,1,0,0,0,0,1
+SP,6,Branca,outono,1,0,0,0,1,0,0,0,0
+SP,15,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,15,Branca,outono,1,0,0,1,1,0,0,0,0
+SP,6,Outra,verao,1,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,0,0,0,1,0,0,0,0,0
+SP,24,Nao informado,verao,1,0,1,1,1,1,1,0,0
+SP,24,Nao informado,primavera,0,0,1,1,0,0,0,0,1
+SP,50,Branca,verao,1,0,0,0,1,0,0,0,1
+SP,37,Nao informado,verao,1,0,0,0,0,0,0,0,1
+SP,50,Branca,verao,1,0,0,1,1,0,0,0,1
+SP,50,Nao informado,verao,0,0,1,0,1,0,0,0,1
+MG,37,Nao informado,verao,0,0,1,1,1,0,0,0,0
+SP,15,Branca,primavera,1,0,0,1,0,1,0,0,0
+MG,37,Nao informado,verao,0,0,0,0,1,0,0,0,1
+SP,50,Parda,inverno,0,0,0,0,0,0,0,0,0
+MG,15,Outra,verao,0,1,1,1,0,0,0,0,1
+SP,50,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,primavera,0,0,1,0,0,0,0,0,0
+RJ,37,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+MG,50,Outra,primavera,1,1,0,0,0,1,0,0,1
+SP,24,Branca,inverno,1,1,1,0,0,0,0,0,0
+SP,24,Parda,outono,0,0,1,1,0,0,0,0,1
+SP,50,Branca,primavera,1,0,1,0,1,0,0,0,1
+SP,37,Outra,inverno,0,1,1,0,1,0,0,0,0
+SP,50,Nao informado,outono,0,0,1,1,1,0,0,0,1
+MG,50,Nao informado,outono,1,0,1,1,1,0,0,0,1
+SP,37,Parda,inverno,0,0,0,0,0,0,0,0,1
+MG,6,Nao informado,primavera,1,1,0,0,1,0,0,0,0
+SP,24,Branca,inverno,1,0,0,0,1,0,1,0,1
+RJ,37,Nao informado,verao,0,0,0,1,1,0,0,0,1
+RJ,37,Outra,verao,0,0,0,0,0,0,0,0,1
+SP,24,Branca,primavera,0,1,0,1,0,0,0,1,0
+SP,6,Branca,primavera,1,0,0,0,1,0,0,0,1
+MG,6,Parda,outono,1,1,0,0,0,0,0,0,0
+SP,50,Branca,outono,1,1,0,0,0,0,1,0,1
+SP,15,Branca,outono,1,0,0,1,1,0,0,0,0
+MG,37,Parda,verao,1,1,1,1,1,0,0,0,1
+SP,24,Branca,verao,0,1,0,1,0,0,0,0,1
+MG,50,Branca,outono,1,1,1,1,0,0,0,0,0
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Branca,primavera,1,1,1,0,1,1,0,0,0
+SP,6,Branca,verao,0,0,0,0,1,0,0,0,1
+SP,37,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,0,1,1,0,0,0,1
+SP,37,Nao informado,outono,1,1,0,0,0,0,0,0,0
+SP,50,Outra,outono,1,1,1,0,0,0,0,0,1
+SP,50,Parda,inverno,1,1,0,0,1,0,0,0,0
+SP,24,Branca,outono,1,1,1,1,1,0,0,0,1
+MG,37,Branca,inverno,1,0,1,1,0,1,0,0,0
+SP,24,Branca,verao,1,0,1,1,0,0,0,0,1
+MG,50,Parda,inverno,0,0,0,0,0,0,0,0,1
+SP,24,Branca,primavera,1,1,1,1,1,1,0,0,0
+SP,37,Parda,verao,1,1,1,1,0,1,0,0,0
+SP,37,Parda,verao,0,1,0,0,1,0,0,0,1
+SP,50,Branca,verao,1,0,0,1,1,0,0,0,1
+MG,6,Nao informado,outono,1,1,0,0,1,0,0,0,0
+SP,24,Branca,primavera,1,1,1,0,1,1,0,0,0
+MG,37,Branca,primavera,1,1,1,1,1,1,0,0,0
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+RJ,6,Branca,inverno,1,0,0,0,0,0,0,0,0
+SP,15,Branca,verao,1,0,0,1,1,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,15,Parda,verao,0,0,1,1,0,0,0,0,0
+SP,37,Branca,outono,0,0,0,0,0,0,0,0,1
+RJ,37,Branca,primavera,0,1,1,0,1,0,0,0,0
+SP,24,Nao informado,inverno,1,1,0,0,1,0,0,0,1
+RJ,24,Nao informado,inverno,1,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,1,1,1,1,1,0,0,0,0
+MG,24,Nao informado,verao,0,0,1,1,0,0,0,0,1
+SP,37,Branca,primavera,1,1,1,1,0,0,0,0,1
+SP,24,Nao informado,inverno,0,1,1,0,0,0,0,0,1
+SP,50,Outra,outono,0,0,1,1,0,0,0,0,0
+MG,50,Parda,verao,0,1,1,0,0,0,0,0,1
+SP,50,Parda,primavera,1,1,0,0,0,1,0,1,0
+SP,37,Branca,verao,0,0,1,0,1,0,0,0,0
+SP,24,Branca,verao,0,0,0,0,1,0,0,0,1
+SP,50,Branca,outono,1,1,0,1,1,1,0,0,1
+MG,50,Nao informado,primavera,0,0,1,0,0,0,0,0,0
+SP,50,Parda,primavera,0,0,1,0,1,0,0,0,1
+MG,50,Parda,verao,1,1,1,1,1,1,0,0,1
+SP,24,Nao informado,inverno,0,0,1,0,1,0,0,0,1
+SP,37,Branca,verao,1,1,0,1,0,0,0,0,1
+SP,37,Nao informado,primavera,1,0,1,0,1,0,0,0,1
+MG,24,Parda,outono,1,1,1,0,0,1,0,0,0
+SP,50,Branca,outono,1,0,0,1,0,0,0,0,1
+SP,50,Nao informado,primavera,0,0,0,0,1,0,0,0,0
+SP,37,Branca,inverno,1,1,1,1,1,0,0,0,1
+SP,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,1,0,0,0,1,0,0,0,1
+MG,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,6,Branca,primavera,1,1,0,0,1,0,0,0,0
+MG,15,Branca,outono,0,1,1,1,1,0,0,0,1
+SP,37,Branca,outono,1,0,0,1,1,0,0,0,0
+SP,37,Nao informado,primavera,1,1,0,0,0,0,0,0,1
+RJ,24,Parda,verao,0,0,0,0,1,0,0,0,1
+SP,15,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Branca,primavera,1,0,1,1,1,0,0,0,0
+SP,15,Branca,outono,0,1,0,1,0,0,0,0,1
+RJ,37,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,37,Parda,verao,0,0,1,1,1,0,0,0,0
+SP,24,Branca,inverno,1,0,0,1,1,0,0,0,1
+MG,37,Parda,verao,1,1,1,1,1,0,0,0,1
+RJ,24,Nao informado,outono,1,1,1,1,1,1,1,0,1
+RJ,37,Nao informado,primavera,1,1,1,1,0,0,0,0,1
+MG,50,Parda,inverno,1,1,1,1,1,0,0,0,0
+SP,37,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,primavera,1,1,1,1,1,1,0,0,1
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,37,Branca,inverno,1,1,0,1,0,0,0,0,1
+RJ,37,Nao informado,verao,1,0,0,0,0,1,0,0,1
+RJ,24,Parda,primavera,1,1,1,1,1,1,0,0,1
+SP,37,Nao informado,outono,1,0,1,0,0,0,0,0,1
+SP,50,Branca,outono,1,0,1,1,1,0,0,0,1
+SP,50,Outra,primavera,1,1,0,0,0,0,0,0,0
+SP,24,Outra,verao,0,0,1,1,1,0,0,0,1
+RJ,50,Parda,primavera,1,1,1,1,1,0,0,0,1
+MG,50,Branca,verao,1,0,0,1,0,0,0,0,0
+RJ,37,Outra,outono,1,0,0,0,0,0,0,0,0
+SP,37,Parda,verao,0,0,0,1,1,0,0,0,1
+RJ,24,Parda,verao,0,0,0,0,0,0,1,0,0
+SP,37,Outra,primavera,1,0,1,0,1,0,0,0,1
+SP,24,Parda,verao,0,0,1,0,0,0,0,0,1
+SP,50,Branca,verao,0,0,1,0,0,0,1,0,0
+SP,37,Branca,primavera,0,0,1,0,0,0,0,0,1
+SP,6,Branca,verao,1,0,0,0,0,0,0,0,1
+RJ,37,Outra,verao,0,0,0,0,0,1,0,0,1
+MG,24,Branca,primavera,0,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,6,Branca,inverno,1,1,0,0,0,0,0,0,0
+RJ,50,Branca,verao,0,1,1,0,0,0,0,0,1
+RJ,37,Parda,outono,1,0,1,1,0,1,0,0,0
+MG,50,Branca,outono,1,0,0,1,0,1,0,0,0
+MG,6,Nao informado,inverno,1,1,1,1,1,1,1,0,1
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Parda,outono,0,0,0,0,0,1,0,0,0
+RJ,24,Parda,primavera,1,1,1,0,1,0,0,0,0
+SP,24,Branca,verao,0,1,1,0,1,0,0,0,1
+SP,50,Nao informado,primavera,1,0,0,0,1,0,0,0,1
+SP,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,24,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,24,Outra,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Branca,verao,0,0,1,1,1,0,0,0,1
+SP,24,Branca,inverno,1,0,0,0,1,0,0,0,1
+SP,37,Nao informado,outono,1,1,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,0,1,0,1,1,0,0,0,1
+RJ,24,Branca,verao,1,0,0,1,1,1,1,0,0
+MG,24,Parda,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,verao,1,0,1,0,1,0,0,0,1
+SP,24,Branca,primavera,1,1,1,0,1,0,0,0,0
+SP,50,Outra,verao,1,0,0,1,1,0,0,0,1
+SP,6,Branca,inverno,1,1,1,0,1,0,0,0,0
+SP,24,Branca,primavera,1,1,1,0,1,0,0,0,1
+SP,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,1,1,1,1,0,1,0,1
+SP,37,Nao informado,inverno,1,1,1,0,0,0,0,0,1
+SP,24,Branca,primavera,1,1,0,1,0,1,0,0,0
+MG,50,Branca,outono,1,0,1,1,0,0,0,0,1
+SP,37,Parda,outono,1,0,0,1,0,1,0,0,0
+MG,50,Parda,verao,1,0,1,1,0,0,0,0,1
+MG,6,Branca,primavera,0,1,0,0,0,0,0,0,0
+SP,6,Branca,primavera,0,1,1,0,0,0,0,0,0
+SP,6,Nao informado,inverno,1,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,1,1,1,1,0,0,0,1
+SP,15,Parda,verao,0,0,1,1,1,0,0,0,1
+SP,24,Branca,verao,0,0,1,0,1,0,0,0,0
+RJ,37,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Outra,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,6,Parda,primavera,1,0,0,0,1,0,0,0,1
+SP,24,Parda,verao,0,1,1,1,1,0,0,0,1
+SP,37,Branca,primavera,1,1,0,1,0,0,0,0,1
+MG,24,Outra,verao,1,1,0,1,0,0,0,0,0
+MG,24,Branca,outono,0,0,1,0,1,0,0,0,0
+RJ,50,Parda,outono,0,0,1,1,1,0,1,0,0
+MG,50,Parda,verao,1,0,1,1,1,0,0,0,1
+MG,37,Parda,verao,0,0,1,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,0,1,1,0,0,0,1
+SP,37,Branca,outono,1,0,1,1,0,0,0,0,0
+SP,37,Nao informado,verao,1,1,1,0,0,0,0,0,1
+RJ,37,Parda,outono,1,1,1,0,1,0,0,0,1
+SP,37,Branca,verao,0,0,1,1,0,0,0,0,1
+RJ,15,Nao informado,verao,1,1,0,1,0,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,50,Branca,verao,0,0,0,0,1,0,1,0,1
+SP,24,Branca,outono,1,1,0,0,0,0,0,0,1
+SP,37,Outra,outono,0,1,1,1,0,0,1,0,1
+SP,37,Branca,verao,1,1,0,1,1,0,0,0,1
+RJ,6,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,15,Branca,inverno,1,1,0,1,0,0,0,0,1
+RJ,24,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,37,Branca,verao,0,0,0,1,1,0,0,0,1
+SP,24,Branca,verao,0,1,0,1,0,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,50,Parda,inverno,0,0,0,0,1,0,0,0,0
+SP,15,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,6,Parda,outono,0,1,1,1,1,0,0,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,1,1,1,0,0,0,0
+MG,24,Parda,primavera,1,0,1,1,1,0,0,0,1
+SP,15,Parda,verao,1,0,0,1,0,0,0,0,0
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,1,0,1,1,1,0,0,0,1
+MG,37,Nao informado,outono,0,0,0,0,0,0,0,0,1
+MG,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,24,Parda,primavera,1,1,0,1,0,0,0,0,0
+SP,15,Branca,inverno,0,0,0,1,1,0,0,0,0
+SP,37,Branca,outono,0,0,1,1,1,0,0,0,0
+SP,37,Branca,verao,0,0,0,0,0,1,0,0,1
+SP,15,Branca,primavera,1,1,1,1,1,0,0,0,1
+SP,6,Branca,outono,1,0,0,0,1,0,0,0,0
+SP,24,Branca,verao,0,0,1,0,1,0,0,0,1
+RJ,37,Branca,inverno,0,0,0,1,1,0,0,0,0
+SP,50,Branca,inverno,1,1,0,0,1,0,0,0,0
+SP,37,Parda,primavera,1,1,0,1,0,0,1,0,1
+SP,6,Branca,outono,0,0,1,0,0,0,0,0,1
+RJ,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Parda,primavera,0,1,0,0,0,0,0,0,0
+SP,6,Branca,verao,1,1,0,1,1,0,0,0,0
+SP,50,Branca,primavera,1,1,0,1,1,0,1,0,1
+SP,6,Branca,primavera,0,1,0,1,0,0,0,0,0
+SP,6,Nao informado,inverno,1,0,1,1,1,0,0,0,0
+SP,50,Nao informado,primavera,1,0,1,0,1,0,0,0,1
+SP,37,Branca,inverno,1,1,0,0,1,0,0,0,0
+MG,24,Nao informado,inverno,1,1,1,1,1,0,0,0,0
+RJ,24,Nao informado,verao,1,0,0,1,1,0,0,0,0
+MG,15,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,6,Branca,verao,1,0,0,0,1,0,0,0,1
+SP,50,Branca,primavera,1,1,0,0,0,0,0,0,1
+SP,50,Nao informado,outono,1,1,1,1,0,0,0,0,1
+RJ,37,Nao informado,inverno,0,0,1,0,0,0,0,0,0
+SP,6,Nao informado,verao,1,1,0,1,1,0,0,1,0
+RJ,50,Parda,verao,0,1,1,0,1,0,0,0,0
+MG,24,Parda,outono,1,1,0,0,0,0,0,0,0
+RJ,50,Outra,verao,0,0,0,0,0,0,0,0,0
+MG,6,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,6,Branca,outono,1,1,0,0,1,1,0,0,1
+RJ,50,Nao informado,primavera,1,1,1,0,1,0,1,0,0
+RJ,37,Branca,primavera,0,0,0,0,0,0,0,0,1
+SP,24,Nao informado,verao,0,1,1,0,0,0,0,0,0
+RJ,37,Outra,primavera,1,0,1,0,0,0,1,0,0
+SP,6,Branca,verao,1,0,0,0,1,0,0,0,1
+SP,24,Outra,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Branca,inverno,1,0,1,1,1,0,0,0,1
+SP,15,Branca,inverno,1,0,0,1,1,1,1,0,1
+SP,37,Parda,inverno,0,0,1,1,0,0,0,0,0
+SP,50,Branca,outono,0,0,1,1,1,0,0,0,1
+MG,24,Outra,verao,1,1,1,1,0,0,0,0,1
+SP,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,50,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,6,Parda,outono,1,1,1,0,1,0,0,0,0
+SP,37,Branca,outono,1,0,0,0,0,0,0,0,0
+MG,15,Parda,verao,1,0,1,0,0,0,0,0,0
+RJ,6,Parda,verao,1,1,0,0,0,0,0,0,1
+SP,37,Parda,outono,1,1,0,1,1,0,0,0,0
+RJ,37,Nao informado,verao,0,1,1,1,0,0,0,0,1
+SP,6,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,50,Branca,primavera,0,0,1,1,0,0,0,0,0
+RJ,24,Branca,primavera,0,1,0,1,0,0,0,0,1
+RJ,37,Parda,inverno,0,0,0,1,0,0,0,0,0
+SP,6,Branca,outono,1,1,0,0,1,1,0,1,0
+SP,24,Parda,outono,1,0,0,0,1,0,0,0,0
+SP,50,Parda,primavera,1,0,0,0,0,1,0,1,0
+SP,24,Parda,verao,0,1,1,0,1,0,0,0,1
+MG,50,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,24,Parda,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Outra,verao,0,0,0,0,0,0,0,0,0
+MG,37,Parda,verao,1,0,0,1,1,0,0,0,0
+MG,37,Branca,primavera,1,1,1,0,0,0,0,0,1
+MG,24,Branca,outono,1,1,0,1,0,0,0,0,0
+SP,6,Nao informado,outono,0,0,0,0,0,0,0,0,0
+MG,37,Parda,verao,1,1,1,1,1,1,0,0,0
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,0,1,1,0,1,0,0,0
+MG,6,Parda,outono,1,1,1,0,0,0,1,0,0
+MG,37,Outra,outono,1,0,1,0,1,0,0,0,0
+SP,24,Branca,outono,1,1,0,0,0,1,0,0,0
+SP,24,Parda,verao,1,0,1,0,1,0,0,0,0
+MG,50,Branca,verao,1,0,0,0,0,0,0,0,1
+SP,50,Branca,verao,0,0,1,0,0,0,0,0,1
+MG,50,Parda,primavera,1,1,1,0,1,0,0,0,1
+MG,24,Nao informado,verao,0,1,1,0,0,0,0,0,1
+SP,24,Branca,primavera,0,0,0,1,1,1,1,0,1
+SP,6,Branca,inverno,1,1,0,0,1,0,0,0,0
+MG,15,Outra,outono,0,0,0,0,0,0,0,0,0
+MG,15,Parda,primavera,1,1,1,1,1,0,0,0,1
+RJ,37,Nao informado,primavera,1,0,0,1,1,1,0,0,1
+SP,37,Nao informado,verao,0,1,0,0,0,0,0,0,0
+SP,15,Parda,outono,0,1,1,0,1,0,0,0,1
+SP,37,Outra,primavera,0,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,24,Branca,inverno,0,1,0,0,1,0,0,0,1
+SP,37,Branca,primavera,0,0,1,0,0,0,0,0,0
+SP,50,Nao informado,inverno,1,1,1,1,1,0,1,0,1
+SP,24,Nao informado,primavera,0,0,1,1,0,0,0,0,0
+SP,24,Parda,verao,1,0,0,0,1,0,0,0,0
+RJ,37,Branca,verao,0,1,1,0,1,0,0,0,1
+SP,50,Outra,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Branca,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Nao informado,primavera,0,1,1,0,1,0,0,0,1
+SP,6,Branca,inverno,1,1,1,1,0,0,0,0,1
+SP,37,Outra,primavera,1,1,1,1,1,0,0,0,1
+MG,15,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,1,0,1,0,0,0,0
+MG,50,Branca,verao,0,0,0,0,0,0,0,0,1
+MG,50,Outra,inverno,1,1,0,0,0,0,0,0,1
+SP,37,Nao informado,outono,1,1,0,0,0,0,0,0,1
+SP,50,Branca,primavera,1,0,0,0,1,0,0,0,1
+SP,37,Parda,verao,1,0,1,0,1,0,0,0,1
+RJ,50,Nao informado,primavera,1,1,0,0,1,0,0,0,1
+SP,50,Nao informado,inverno,1,1,1,1,0,0,0,0,1
+SP,24,Branca,inverno,1,0,0,1,1,0,0,0,0
+SP,50,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,15,Nao informado,outono,0,1,1,0,0,1,0,0,1
+SP,50,Outra,outono,1,1,0,0,1,0,0,0,0
+SP,15,Branca,verao,0,0,0,1,0,0,0,0,1
+RJ,6,Branca,inverno,1,0,1,0,0,0,0,0,0
+SP,15,Branca,inverno,0,0,1,0,0,0,1,0,0
+SP,37,Branca,inverno,1,1,0,0,0,0,0,0,0
+RJ,50,Branca,verao,0,0,0,0,0,0,0,0,1
+MG,50,Branca,verao,1,0,0,0,1,0,0,0,1
+RJ,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,6,Branca,verao,0,1,0,0,0,0,0,0,0
+RJ,37,Parda,primavera,0,0,0,0,0,0,0,0,1
+RJ,24,Nao informado,outono,1,1,0,1,1,1,0,1,0
+SP,37,Branca,verao,1,1,1,0,0,0,0,0,1
+SP,37,Parda,inverno,1,1,1,1,1,0,1,0,1
+SP,37,Parda,primavera,1,0,0,0,0,0,0,0,0
+SP,50,Branca,verao,1,1,1,0,0,0,0,0,1
+SP,24,Parda,outono,0,0,1,1,1,0,0,0,1
+SP,50,Branca,outono,1,0,0,0,1,0,0,0,1
+SP,24,Nao informado,verao,0,1,1,0,1,0,0,0,1
+RJ,37,Outra,outono,1,1,0,0,1,0,1,0,0
+MG,37,Branca,primavera,1,0,1,0,1,0,1,0,1
+SP,15,Parda,inverno,0,0,1,1,0,1,0,0,0
+MG,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+MG,37,Branca,outono,1,1,1,1,0,0,1,0,0
+SP,24,Parda,outono,0,0,0,0,0,1,0,0,0
+MG,37,Nao informado,verao,1,0,0,0,1,0,1,0,0
+SP,6,Branca,inverno,0,0,0,0,1,0,0,0,0
+MG,37,Branca,verao,1,0,1,1,0,0,0,0,0
+SP,24,Outra,outono,1,0,1,1,0,0,0,0,1
+SP,6,Nao informado,outono,1,1,0,1,0,0,0,0,0
+SP,37,Branca,primavera,0,0,0,1,0,0,0,0,1
+SP,50,Branca,verao,1,1,0,0,1,0,0,0,1
+SP,15,Parda,verao,0,1,1,1,0,0,0,0,1
+RJ,24,Branca,verao,1,1,0,0,1,0,0,0,1
+MG,15,Nao informado,outono,1,1,0,1,0,0,0,0,0
+SP,37,Parda,primavera,0,0,0,0,0,0,0,1,0
+SP,37,Branca,primavera,0,0,1,0,1,1,0,0,1
+SP,24,Nao informado,inverno,1,1,1,1,1,0,0,0,1
+MG,50,Parda,inverno,1,0,1,1,0,0,0,0,0
+SP,37,Outra,outono,0,1,1,0,1,0,0,0,1
+RJ,24,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,37,Parda,verao,0,1,1,0,1,0,0,0,1
+SP,24,Branca,verao,0,0,1,1,0,0,0,0,1
+SP,37,Branca,outono,1,1,1,0,1,0,0,0,1
+SP,50,Branca,verao,1,0,1,0,1,0,0,0,1
+MG,24,Branca,outono,0,1,1,0,0,0,0,0,0
+SP,6,Branca,outono,0,1,1,0,0,0,0,0,1
+MG,37,Branca,verao,0,0,0,0,1,0,0,0,0
+SP,50,Branca,inverno,1,0,1,1,1,0,0,1,1
+MG,24,Outra,outono,1,1,0,0,0,0,0,0,0
+MG,37,Parda,verao,0,0,1,1,1,1,0,0,1
+RJ,24,Parda,outono,1,0,1,0,1,1,0,0,0
+SP,50,Branca,verao,1,1,1,1,1,0,0,0,1
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Branca,verao,0,0,1,0,0,0,0,0,0
+SP,24,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,37,Branca,primavera,0,0,0,0,1,0,0,0,1
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,1
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,6,Parda,outono,1,1,1,1,1,0,0,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,1,0,1,0,0,0,1
+RJ,15,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,0,0,0,0,0,0,0,0
+MG,50,Branca,verao,0,0,0,0,0,0,0,0,1
+MG,37,Branca,outono,1,1,0,0,0,1,0,0,0
+SP,24,Branca,outono,1,1,1,1,1,0,0,0,1
+RJ,24,Parda,inverno,0,0,0,0,0,0,0,0,0
+MG,37,Outra,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,outono,1,0,0,1,1,0,0,0,0
+SP,50,Branca,primavera,1,1,1,1,1,0,1,0,1
+SP,24,Branca,outono,1,0,1,0,1,0,0,0,0
+MG,37,Branca,outono,1,0,0,1,0,0,0,0,0
+MG,50,Branca,primavera,1,1,0,1,0,0,0,0,0
+MG,37,Parda,verao,1,0,1,0,1,0,0,0,1
+RJ,50,Branca,verao,0,0,1,0,0,0,0,0,0
+RJ,6,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,50,Nao informado,verao,1,0,0,0,1,0,0,0,1
+MG,24,Branca,verao,0,0,1,0,1,0,1,0,1
+MG,24,Parda,verao,0,0,0,1,1,0,0,0,0
+RJ,24,Branca,outono,1,1,1,1,1,1,0,0,1
+SP,37,Nao informado,outono,0,1,1,0,0,0,1,0,0
+RJ,37,Nao informado,inverno,1,0,0,0,0,0,1,0,0
+SP,37,Branca,outono,1,1,1,0,0,0,0,0,0
+SP,24,Outra,verao,1,0,0,0,0,0,0,0,0
+SP,6,Branca,inverno,1,1,1,0,1,0,0,0,1
+MG,50,Parda,verao,0,0,0,0,1,0,0,0,0
+SP,37,Outra,inverno,0,0,0,0,0,0,0,1,0
+RJ,6,Branca,inverno,1,1,0,0,0,1,0,0,1
+RJ,37,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,24,Branca,inverno,0,0,0,0,1,0,0,0,1
+MG,37,Parda,primavera,1,0,1,1,0,0,0,0,1
+SP,37,Branca,verao,0,1,1,0,1,0,0,0,0
+SP,15,Branca,outono,0,1,0,0,0,0,0,0,0
+SP,37,Branca,outono,0,0,1,1,1,0,0,0,0
+RJ,37,Outra,inverno,0,0,0,0,0,0,0,0,0
+MG,24,Parda,verao,1,1,1,0,1,0,0,0,1
+MG,50,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,50,Branca,outono,0,1,0,0,0,0,0,0,0
+RJ,15,Parda,primavera,1,0,0,0,1,0,0,0,0
+SP,50,Branca,primavera,0,0,0,0,0,0,0,0,1
+MG,37,Nao informado,primavera,1,1,0,1,0,0,0,0,1
+MG,37,Nao informado,verao,1,1,0,1,0,0,0,0,1
+MG,6,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,primavera,1,0,1,0,0,0,0,0,0
+SP,37,Parda,verao,1,1,1,1,1,0,0,0,1
+MG,15,Nao informado,outono,1,1,0,0,0,0,0,0,1
+SP,15,Branca,primavera,1,0,1,1,0,0,0,0,0
+RJ,37,Branca,outono,0,0,0,0,0,1,1,0,1
+MG,24,Nao informado,primavera,1,0,1,0,0,0,0,0,1
+MG,50,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,15,Branca,verao,0,1,0,0,0,1,0,0,1
+SP,37,Branca,primavera,1,0,0,1,1,0,0,0,1
+MG,37,Branca,primavera,1,1,1,1,0,0,0,0,1
+SP,24,Branca,primavera,0,0,0,0,0,0,0,0,0
+SP,15,Nao informado,outono,1,1,1,1,1,0,0,0,0
+SP,50,Parda,inverno,1,1,0,0,1,1,1,0,1
+SP,50,Branca,inverno,0,0,0,0,0,1,0,0,0
+MG,6,Outra,outono,1,0,0,0,0,1,0,0,0
+SP,6,Branca,primavera,0,1,0,0,0,0,0,0,0
+MG,37,Branca,outono,0,1,1,0,0,0,0,0,0
+SP,6,Branca,verao,1,1,0,0,0,0,0,0,0
+SP,37,Branca,inverno,0,0,0,1,1,0,0,0,1
+RJ,15,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,0,1,1,1,1,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,1,0,0,0,1
+RJ,24,Parda,verao,0,0,1,1,1,0,0,0,1
+SP,6,Parda,outono,0,1,0,0,0,0,0,0,0
+RJ,37,Parda,primavera,0,0,0,0,0,0,0,0,1
+RJ,24,Parda,outono,1,0,0,1,0,1,1,0,0
+SP,24,Parda,outono,1,0,1,0,1,1,0,0,1
+SP,50,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,6,Parda,primavera,1,1,0,0,0,0,0,0,0
+SP,37,Branca,outono,1,1,0,1,0,0,0,0,0
+MG,50,Branca,verao,0,0,0,1,0,0,0,0,0
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,50,Nao informado,verao,1,1,0,0,1,0,0,0,0
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Parda,verao,1,0,1,1,1,0,0,0,1
+SP,37,Branca,verao,1,0,0,0,0,0,0,0,0
+SP,37,Branca,verao,0,0,0,0,0,0,0,0,1
+RJ,50,Nao informado,verao,1,0,1,0,0,0,0,0,1
+RJ,50,Outra,verao,0,0,1,0,0,0,0,0,0
+SP,6,Branca,verao,0,1,0,0,0,0,0,0,1
+MG,37,Parda,inverno,0,0,0,1,0,0,0,0,1
+SP,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,24,Outra,verao,0,1,1,1,1,0,1,0,1
+MG,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,6,Outra,outono,1,0,0,0,1,0,0,0,0
+SP,24,Parda,outono,1,1,1,1,0,1,1,0,1
+MG,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,6,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,24,Branca,outono,0,1,1,1,1,0,0,0,0
+RJ,37,Branca,inverno,0,0,0,0,0,0,0,0,1
+SP,37,Outra,outono,0,1,0,0,0,1,0,0,1
+SP,24,Branca,primavera,0,1,1,0,0,0,0,0,0
+SP,37,Parda,outono,1,0,1,1,0,0,0,0,1
+RJ,6,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,15,Branca,primavera,1,0,0,0,1,0,0,0,0
+SP,24,Branca,verao,1,0,0,0,1,0,0,0,0
+SP,6,Branca,inverno,1,1,0,0,1,0,0,0,0
+RJ,24,Outra,primavera,1,0,1,1,1,0,0,0,0
+MG,24,Branca,verao,1,1,0,0,1,1,0,0,1
+SP,50,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,50,Branca,inverno,1,0,0,1,0,0,0,0,1
+SP,24,Branca,primavera,1,0,0,1,0,0,0,0,1
+SP,6,Branca,outono,1,1,0,1,0,0,0,0,0
+SP,37,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,6,Parda,inverno,1,0,0,1,1,0,0,0,0
+MG,37,Parda,verao,1,1,1,1,0,0,0,0,1
+SP,6,Branca,verao,1,1,0,0,1,0,0,0,1
+SP,37,Branca,verao,1,0,1,1,1,0,0,0,0
+SP,37,Branca,outono,1,1,1,0,1,0,0,0,1
+SP,6,Parda,verao,1,1,1,1,1,0,0,0,1
+SP,50,Branca,outono,1,1,1,0,1,0,0,0,1
+MG,50,Parda,inverno,1,1,0,0,0,0,0,0,1
+MG,24,Branca,inverno,1,1,1,1,1,1,0,0,1
+MG,24,Parda,verao,0,0,1,1,1,0,0,0,1
+RJ,37,Nao informado,verao,0,1,1,0,0,0,0,0,1
+SP,50,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,24,Parda,inverno,1,0,0,0,0,0,0,0,1
+MG,24,Outra,verao,1,0,1,1,1,0,0,0,1
+SP,50,Branca,inverno,1,0,1,1,0,0,0,0,0
+SP,50,Nao informado,primavera,1,0,1,1,0,1,0,0,1
+MG,37,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,37,Branca,outono,0,0,0,0,1,0,0,0,0
+MG,50,Parda,verao,1,0,1,1,1,0,0,0,1
+SP,37,Parda,outono,0,1,1,1,0,0,0,0,0
+RJ,37,Parda,inverno,0,0,0,0,0,0,0,0,0
+RJ,37,Parda,primavera,1,1,1,0,0,0,0,0,1
+SP,37,Branca,outono,1,1,1,1,0,0,0,0,1
+RJ,37,Outra,primavera,0,0,0,0,0,0,0,0,0
+MG,24,Nao informado,verao,1,0,1,1,0,0,0,0,1
+MG,24,Branca,verao,1,1,1,1,1,1,1,0,1
+MG,37,Parda,inverno,1,1,1,0,0,0,0,0,0
+SP,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+SP,6,Branca,verao,1,1,0,0,0,0,0,0,1
+SP,24,Branca,primavera,0,0,1,1,0,0,0,0,0
+SP,37,Branca,outono,0,1,1,0,0,0,0,0,0
+SP,24,Branca,primavera,0,0,0,0,1,0,0,0,1
+SP,37,Branca,inverno,0,0,1,0,1,0,0,0,0
+RJ,24,Branca,outono,0,0,1,1,1,1,0,0,1
+MG,37,Branca,primavera,0,0,1,1,1,0,1,0,1
+RJ,37,Nao informado,verao,0,0,0,1,0,0,0,0,0
+SP,50,Branca,verao,1,0,0,0,1,0,0,0,1
+SP,24,Branca,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Outra,verao,1,0,1,0,1,0,1,0,0
+SP,37,Nao informado,verao,1,0,1,1,0,0,0,0,0
+SP,50,Nao informado,primavera,1,1,0,0,1,0,0,0,1
+SP,37,Branca,outono,1,0,1,0,1,0,0,0,0
+RJ,37,Parda,inverno,0,0,0,0,0,0,0,0,1
+SP,24,Parda,inverno,1,1,0,0,0,0,0,0,1
+SP,50,Nao informado,inverno,1,0,1,0,1,0,0,0,0
+MG,24,Branca,primavera,1,0,0,1,1,0,0,0,1
+RJ,24,Outra,verao,1,1,0,0,1,0,0,0,0
+SP,6,Nao informado,outono,0,1,0,0,0,0,0,0,0
+SP,37,Branca,primavera,0,1,1,1,1,0,0,0,0
+SP,37,Branca,verao,1,0,1,1,0,0,0,0,1
+SP,37,Branca,outono,1,0,1,1,0,0,0,0,0
+SP,6,Nao informado,inverno,1,1,0,0,1,0,1,0,0
+MG,24,Parda,verao,0,1,0,0,1,0,0,0,0
+MG,50,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,37,Branca,verao,1,0,0,0,1,0,0,0,0
+MG,37,Parda,verao,0,1,1,0,1,1,0,0,1
+RJ,37,Outra,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Parda,primavera,0,1,0,1,0,0,0,0,0
+MG,50,Nao informado,outono,1,0,1,1,1,0,0,0,1
+MG,50,Branca,verao,1,1,0,1,0,0,0,0,0
+MG,24,Parda,outono,0,1,0,1,1,0,1,0,0
+SP,6,Parda,verao,0,0,0,0,0,0,0,1,0
+SP,37,Branca,outono,0,1,1,1,0,0,1,0,0
+SP,50,Nao informado,outono,0,1,0,0,0,0,0,0,0
+SP,37,Branca,verao,1,0,0,0,1,0,0,0,1
+MG,24,Outra,verao,1,0,1,1,0,0,0,0,1
+SP,37,Branca,outono,1,0,1,0,0,1,0,0,0
+SP,6,Nao informado,outono,1,1,0,0,1,0,0,0,0
+SP,50,Parda,verao,0,0,0,0,0,0,0,0,0
+SP,24,Branca,primavera,1,0,0,0,0,0,0,0,1
+MG,6,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,6,Parda,primavera,1,1,0,0,0,0,0,0,0
+MG,24,Branca,inverno,1,0,1,0,0,0,0,0,1
+SP,37,Branca,primavera,1,0,0,0,0,1,0,0,0
+SP,37,Nao informado,verao,1,0,0,0,1,0,0,0,1
+SP,50,Nao informado,inverno,0,0,1,0,0,0,1,0,0
+RJ,37,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,outono,0,1,1,1,0,0,0,0,0
+SP,37,Branca,verao,1,1,1,0,1,0,1,0,1
+SP,50,Branca,outono,1,0,0,1,0,0,0,0,0
+SP,37,Branca,verao,1,1,1,1,1,0,1,0,1
+SP,37,Nao informado,verao,1,0,1,1,1,0,0,0,0
+MG,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,inverno,0,0,1,0,0,1,0,0,1
+SP,50,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,0,1,1,1,0,0,0,1
+SP,24,Branca,outono,0,0,1,0,0,0,0,0,0
+RJ,50,Nao informado,verao,0,0,0,0,0,1,0,0,0
+SP,37,Nao informado,verao,1,0,1,1,0,0,0,0,1
+SP,50,Branca,outono,1,0,1,1,1,1,0,0,1
+SP,15,Branca,outono,1,1,0,1,1,0,0,0,0
+SP,50,Branca,primavera,0,1,1,0,0,0,0,0,1
+SP,37,Parda,outono,1,0,0,1,1,0,0,0,0
+RJ,50,Branca,verao,0,0,1,0,1,0,0,0,0
+SP,37,Branca,primavera,1,1,1,0,0,0,0,0,0
+SP,37,Parda,primavera,1,0,1,1,1,0,0,0,0
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+MG,50,Parda,outono,1,0,1,1,1,0,0,0,0
+SP,37,Branca,primavera,1,0,0,1,0,0,0,0,0
+RJ,24,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,24,Parda,inverno,1,0,0,1,0,0,0,0,0
+SP,24,Nao informado,primavera,1,0,1,1,1,0,0,0,1
+RJ,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Parda,verao,0,1,1,0,0,0,0,0,0
+SP,37,Nao informado,verao,0,0,1,1,0,0,0,0,0
+MG,37,Parda,verao,0,1,0,0,0,0,0,0,1
+SP,6,Branca,verao,1,1,1,1,0,0,0,0,1
+SP,37,Branca,outono,0,0,1,0,1,1,0,0,0
+SP,6,Branca,verao,0,1,0,1,1,0,0,0,1
+RJ,37,Nao informado,inverno,1,0,1,1,1,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,1,0,0,0,1,0,0,0,1
+SP,37,Branca,primavera,1,0,0,1,1,0,0,0,1
+SP,37,Nao informado,outono,1,0,1,0,0,1,0,0,0
+MG,24,Parda,verao,1,0,1,0,1,0,0,0,1
+MG,50,Nao informado,verao,1,0,1,1,1,0,0,0,1
+SP,15,Parda,primavera,0,0,0,1,1,0,0,0,1
+SP,24,Nao informado,outono,0,0,1,0,1,0,0,0,0
+RJ,37,Outra,verao,0,0,1,1,0,0,0,0,1
+MG,24,Parda,verao,0,0,0,0,1,0,0,0,0
+SP,15,Branca,inverno,1,1,1,0,1,0,0,0,0
+RJ,24,Branca,verao,1,1,0,1,1,0,0,0,0
+SP,37,Parda,verao,0,0,1,0,0,1,1,0,1
+MG,50,Branca,outono,0,1,0,0,0,0,0,0,0
+RJ,37,Branca,primavera,0,0,0,1,0,0,0,0,0
+SP,37,Branca,inverno,1,1,1,1,1,0,0,0,0
+SP,37,Parda,outono,1,1,1,1,0,1,0,0,0
+SP,37,Branca,outono,0,0,1,0,0,1,0,1,1
+SP,24,Parda,outono,1,1,0,0,1,0,0,0,0
+SP,50,Branca,verao,1,1,1,1,0,0,0,0,1
+SP,37,Parda,outono,0,0,0,0,0,0,0,0,0
+MG,37,Parda,outono,0,0,0,0,0,0,0,0,1
+SP,15,Parda,verao,0,1,1,0,0,0,0,0,1
+SP,50,Branca,inverno,0,0,0,0,1,0,0,1,0
+MG,15,Branca,primavera,0,0,0,0,0,0,0,0,0
+RJ,6,Nao informado,primavera,1,1,1,1,1,0,0,0,0
+SP,24,Branca,verao,1,1,1,0,1,0,0,0,1
+MG,50,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+RJ,6,Branca,outono,1,1,1,0,1,0,0,0,1
+SP,37,Branca,outono,1,0,0,0,1,0,0,0,1
+RJ,50,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,37,Nao informado,outono,0,0,0,0,0,0,0,0,1
+MG,37,Parda,primavera,1,0,1,1,1,0,0,0,1
+SP,37,Branca,primavera,1,1,1,0,0,0,0,0,0
+SP,37,Branca,outono,0,1,1,0,0,0,0,0,1
+MG,24,Branca,verao,0,0,0,0,0,0,0,0,0
+SP,15,Branca,outono,1,1,0,1,1,0,0,0,0
+SP,24,Parda,primavera,0,0,1,0,1,0,0,0,0
+SP,37,Branca,outono,0,0,0,0,0,0,0,0,0
+MG,24,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,6,Nao informado,verao,1,1,0,0,1,0,0,0,1
+SP,6,Parda,primavera,0,1,0,0,0,0,0,0,0
+SP,50,Branca,verao,1,0,1,0,1,0,0,0,1
+RJ,37,Outra,outono,1,1,1,0,0,0,0,0,1
+MG,6,Branca,outono,1,0,1,0,0,0,0,0,0
+MG,37,Outra,inverno,0,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,1,1,1,0,0,0,0,0,1
+MG,37,Parda,primavera,1,0,0,1,1,0,1,0,1
+SP,37,Branca,primavera,1,1,0,1,0,0,0,0,1
+SP,24,Parda,outono,1,1,0,1,0,1,0,0,0
+SP,37,Branca,verao,1,1,0,0,1,0,0,0,1
+MG,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Outra,outono,1,1,0,0,1,1,0,0,1
+RJ,24,Nao informado,outono,1,0,1,1,1,0,0,0,0
+MG,24,Nao informado,verao,1,0,1,1,1,0,0,0,1
+MG,37,Branca,verao,1,0,0,1,0,0,0,0,0
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,inverno,1,0,1,0,1,0,0,0,0
+MG,6,Nao informado,verao,0,0,0,1,1,0,0,0,0
+SP,24,Branca,primavera,1,1,1,1,1,1,0,0,1
+RJ,37,Branca,primavera,0,0,0,0,0,1,0,0,0
+SP,50,Parda,primavera,1,1,1,1,1,0,0,0,0
+SP,50,Branca,outono,1,1,0,0,1,1,0,0,1
+MG,37,Branca,outono,1,1,1,1,1,0,0,0,0
+RJ,50,Parda,inverno,0,1,1,0,1,0,0,0,0
+MG,37,Parda,verao,0,1,1,0,0,1,0,0,1
+SP,50,Parda,inverno,0,0,0,1,0,1,0,0,0
+SP,37,Outra,verao,0,1,0,0,1,1,0,0,1
+SP,37,Branca,outono,1,1,0,0,1,0,0,1,1
+RJ,50,Parda,primavera,0,1,0,0,1,0,0,0,1
+RJ,50,Parda,verao,0,0,0,0,0,0,0,0,1
+SP,24,Branca,verao,1,0,0,0,1,0,0,0,0
+SP,24,Branca,outono,1,1,1,0,1,0,0,0,0
+RJ,37,Outra,verao,0,0,0,0,0,0,0,0,0
+SP,24,Nao informado,verao,0,0,1,0,1,0,0,0,1
+SP,50,Branca,verao,1,0,0,1,1,0,0,0,0
+SP,50,Branca,inverno,1,0,0,1,1,0,0,0,0
+SP,50,Branca,outono,0,0,1,0,0,0,0,0,1
+SP,37,Branca,outono,1,1,1,1,1,1,0,0,0
+SP,24,Nao informado,outono,1,0,1,1,1,0,0,0,1
+SP,24,Nao informado,verao,1,1,1,0,1,0,0,0,0
+MG,37,Nao informado,outono,0,0,0,0,0,0,0,0,0
+RJ,24,Parda,outono,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,verao,1,1,1,1,0,1,0,0,1
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,24,Parda,outono,1,1,0,0,1,0,0,0,0
+RJ,6,Parda,primavera,0,0,0,0,0,0,0,1,0
+SP,37,Branca,outono,1,0,1,1,1,0,0,0,1
+SP,37,Parda,verao,1,0,1,0,1,0,0,0,1
+SP,6,Branca,primavera,1,1,0,1,0,0,0,0,1
+SP,24,Branca,outono,1,1,1,1,1,0,0,0,1
+RJ,15,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,50,Branca,inverno,1,1,1,0,1,1,1,0,0
+SP,24,Branca,inverno,0,0,0,0,1,0,0,0,1
+SP,50,Nao informado,primavera,0,0,1,0,1,0,0,0,1
+SP,37,Parda,outono,0,0,1,0,1,0,0,0,0
+RJ,37,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,24,Branca,outono,0,1,1,1,0,0,0,0,0
+SP,24,Nao informado,outono,1,1,1,0,1,1,0,0,0
+MG,37,Branca,verao,0,0,0,0,0,0,0,0,0
+MG,37,Parda,outono,0,0,0,0,0,0,0,0,0
+MG,37,Branca,verao,0,0,1,0,1,0,1,0,0
+SP,6,Outra,outono,0,1,0,1,0,0,0,0,0
+MG,24,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,24,Parda,primavera,1,0,0,1,0,0,0,0,1
+SP,24,Nao informado,inverno,1,0,1,1,1,0,0,0,1
+SP,6,Parda,verao,1,1,0,0,1,0,0,0,1
+MG,15,Parda,outono,0,1,1,0,0,1,1,0,1
+RJ,50,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,15,Parda,primavera,1,0,0,1,0,0,0,0,1
+RJ,50,Parda,primavera,0,0,0,0,0,0,0,0,0
+RJ,50,Parda,primavera,0,0,1,1,1,0,0,0,0
+MG,24,Branca,verao,0,0,1,0,0,0,0,0,0
+MG,50,Nao informado,outono,1,1,0,1,0,0,0,0,0
+SP,37,Branca,primavera,1,1,0,1,1,0,0,0,1
+MG,50,Nao informado,outono,0,1,1,0,0,0,0,0,1
+SP,37,Branca,inverno,1,0,0,0,1,0,0,0,0
+SP,37,Nao informado,inverno,0,0,1,0,1,0,0,0,0
+MG,37,Parda,outono,0,1,1,0,1,0,1,0,0
+SP,24,Parda,outono,1,1,1,0,0,1,0,0,1
+RJ,37,Parda,verao,0,0,0,0,0,0,0,0,1
+MG,37,Branca,verao,0,0,1,1,0,0,0,0,0
+SP,15,Nao informado,primavera,1,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,0,1,0,0,1,1,0,0,0
+MG,50,Branca,verao,1,0,0,0,1,0,0,0,1
+SP,24,Branca,verao,0,0,1,0,0,0,0,0,1
+MG,37,Nao informado,verao,0,1,0,0,1,0,0,0,1
+MG,24,Parda,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Branca,inverno,1,0,0,0,0,1,0,0,1
+SP,24,Branca,primavera,1,0,1,0,1,0,0,0,0
+MG,37,Branca,primavera,1,0,0,1,1,0,0,0,0
+MG,50,Parda,outono,1,0,0,0,0,1,0,0,1
+MG,50,Parda,outono,1,0,0,1,0,0,0,0,0
+SP,37,Branca,verao,1,0,1,1,1,0,0,0,0
+SP,24,Branca,primavera,0,0,1,0,1,1,0,0,0
+SP,6,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,50,Nao informado,verao,0,0,1,0,1,0,0,0,0
+SP,24,Parda,primavera,1,0,0,0,1,0,0,0,1
+SP,50,Branca,verao,1,1,0,0,1,0,0,0,1
+SP,24,Branca,outono,1,0,0,0,0,0,0,0,0
+MG,37,Branca,outono,1,1,1,1,1,1,0,0,1
+SP,37,Branca,outono,1,1,1,0,1,0,1,0,0
+RJ,15,Parda,verao,0,0,0,0,0,0,0,0,1
+RJ,6,Parda,verao,1,1,0,0,1,0,0,0,1
+MG,50,Parda,verao,0,0,0,0,1,0,0,0,0
+SP,37,Branca,outono,1,1,1,1,1,0,0,0,1
+SP,37,Branca,primavera,1,0,1,0,1,0,1,0,0
+SP,50,Parda,verao,1,1,1,1,1,0,0,0,1
+MG,24,Parda,verao,0,1,1,1,0,0,0,0,1
+RJ,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+MG,50,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,24,Branca,inverno,1,0,1,0,0,0,0,0,0
+SP,24,Nao informado,primavera,1,1,1,1,0,1,0,0,1
+SP,37,Branca,verao,1,1,0,0,0,0,0,0,1
+RJ,37,Outra,primavera,1,0,0,0,0,0,0,0,0
+SP,50,Parda,verao,0,1,1,0,0,0,0,0,1
+MG,37,Outra,inverno,0,0,0,0,0,0,0,0,0
+SP,24,Branca,verao,0,0,0,1,0,0,0,0,1
+SP,37,Branca,verao,0,0,1,0,1,0,0,0,0
+MG,50,Branca,verao,0,0,0,0,1,0,0,0,0
+MG,37,Nao informado,verao,1,1,0,1,0,0,0,0,1
+MG,6,Parda,verao,1,1,0,0,1,0,0,0,0
+SP,6,Parda,inverno,1,1,0,1,1,0,0,0,0
+MG,50,Nao informado,verao,1,0,0,1,0,0,0,0,0
+MG,50,Outra,primavera,1,1,0,0,1,1,0,0,1
+MG,37,Parda,verao,1,0,0,0,1,0,1,0,1
+RJ,50,Branca,outono,1,1,1,1,1,1,1,0,0
+MG,50,Parda,verao,1,1,0,1,1,0,0,0,1
+RJ,50,Parda,outono,0,0,1,0,0,0,0,0,0
+SP,37,Branca,verao,1,0,0,1,1,0,0,0,0
+SP,24,Outra,verao,1,0,1,1,1,0,0,0,0
+SP,24,Branca,outono,1,0,0,1,0,0,0,0,0
+SP,24,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,6,Nao informado,primavera,1,1,0,0,0,1,0,0,0
+MG,37,Parda,verao,1,0,0,1,1,0,0,0,1
+SP,15,Branca,outono,0,0,1,0,0,0,0,0,0
+MG,24,Branca,verao,0,0,0,1,0,0,0,0,0
+SP,50,Nao informado,outono,1,1,1,0,1,0,0,0,0
+SP,37,Branca,verao,1,1,1,0,1,0,0,0,0
+MG,15,Branca,verao,1,0,1,0,0,1,0,0,0
+SP,24,Nao informado,verao,0,0,0,1,0,0,0,0,1
+RJ,50,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,37,Parda,inverno,0,0,0,0,0,0,0,0,1
+SP,37,Branca,primavera,1,0,1,0,0,0,0,0,1
+MG,50,Nao informado,outono,0,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,outono,0,1,0,0,0,0,0,0,0
+RJ,37,Branca,verao,1,1,0,0,1,0,1,0,1
+RJ,24,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+MG,50,Branca,primavera,1,1,1,1,1,0,0,0,1
+SP,37,Parda,outono,1,1,1,1,1,1,0,0,1
+SP,24,Branca,primavera,1,0,1,0,1,0,0,0,0
+SP,37,Parda,verao,1,1,0,0,1,0,0,0,1
+MG,24,Parda,primavera,1,1,1,1,1,0,1,0,1
+SP,50,Parda,verao,1,0,1,1,1,0,1,0,0
+RJ,50,Nao informado,outono,1,1,0,0,0,0,0,0,1
+SP,37,Nao informado,verao,0,1,1,1,1,0,0,0,0
+MG,15,Parda,outono,0,1,0,1,1,0,0,0,0
+SP,24,Outra,verao,0,0,0,0,1,0,0,0,1
+RJ,37,Nao informado,outono,0,0,0,0,0,0,0,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,6,Branca,primavera,0,1,0,0,0,0,0,0,0
+RJ,6,Parda,inverno,0,0,0,0,0,0,0,0,0
+MG,15,Branca,verao,0,1,1,0,0,0,0,0,0
+SP,6,Parda,verao,0,0,0,0,0,0,0,1,0
+SP,6,Branca,outono,1,0,0,1,0,0,0,0,0
+RJ,50,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,24,Nao informado,verao,0,1,0,0,0,0,1,0,1
+RJ,37,Branca,verao,1,1,1,1,1,0,0,0,1
+MG,37,Nao informado,outono,1,1,0,1,0,0,0,0,1
+RJ,37,Nao informado,inverno,1,0,0,0,0,1,0,0,0
+MG,37,Parda,verao,1,1,0,1,1,0,1,0,1
+SP,6,Parda,outono,1,0,0,0,1,0,0,0,0
+MG,6,Branca,outono,1,1,0,0,1,0,0,0,0
+SP,15,Branca,primavera,1,0,0,1,1,0,0,0,0
+RJ,15,Branca,inverno,1,1,0,1,1,0,0,0,0
+SP,24,Parda,verao,1,0,0,1,1,0,0,0,1
+SP,24,Branca,outono,1,0,1,1,1,1,0,0,0
+MG,50,Branca,outono,1,0,0,0,1,0,0,0,1
+MG,6,Branca,verao,1,0,0,1,1,0,0,0,1
+SP,50,Branca,outono,0,0,0,1,1,0,0,0,1
+SP,50,Branca,verao,1,1,1,0,0,0,0,0,0
+MG,15,Branca,primavera,1,0,0,0,1,0,0,0,0
+SP,6,Branca,primavera,1,0,0,0,1,0,0,0,0
+SP,15,Branca,outono,0,0,0,1,0,0,0,0,1
+SP,24,Branca,verao,1,1,0,1,1,1,1,0,0
+SP,24,Branca,inverno,1,0,0,1,0,0,0,0,1
+SP,37,Outra,outono,1,1,0,0,1,0,0,0,1
+RJ,24,Branca,verao,1,1,0,1,1,0,0,0,0
+SP,6,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,1,0,0,1,0,1,0,0,1
+SP,37,Branca,outono,0,0,1,1,1,0,0,0,1
+SP,15,Branca,outono,0,1,0,0,1,0,0,0,1
+SP,37,Nao informado,inverno,0,0,0,0,0,0,0,0,1
+SP,24,Nao informado,inverno,1,1,0,0,0,1,0,0,1
+SP,50,Parda,outono,1,1,1,0,1,0,0,0,1
+SP,37,Parda,outono,1,0,0,0,1,0,1,0,0
+SP,37,Branca,verao,0,0,1,0,0,0,0,0,0
+SP,37,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,50,Nao informado,primavera,0,1,1,0,0,0,0,0,0
+SP,50,Branca,verao,1,0,0,1,1,0,0,0,0
+SP,50,Branca,outono,1,0,1,0,1,0,0,0,0
+SP,24,Branca,verao,1,0,0,0,1,0,0,0,0
+SP,24,Parda,verao,0,1,1,1,0,0,0,0,0
+RJ,37,Nao informado,inverno,1,1,1,0,0,0,1,0,1
+SP,37,Parda,outono,0,0,0,0,0,0,0,1,0
+MG,24,Parda,outono,1,1,1,0,1,0,0,0,0
+RJ,37,Parda,outono,1,1,0,0,0,0,0,0,1
+SP,24,Nao informado,verao,0,1,1,0,0,1,0,0,0
+MG,24,Branca,outono,0,0,0,0,0,0,0,0,1
+SP,50,Nao informado,outono,1,0,1,1,0,0,1,0,0
+MG,37,Nao informado,outono,1,0,1,1,1,0,0,0,1
+RJ,24,Nao informado,verao,1,1,0,0,0,0,0,0,0
+SP,24,Branca,inverno,1,1,1,1,0,0,0,0,0
+RJ,24,Parda,primavera,0,0,0,0,0,0,0,0,1
+SP,50,Branca,verao,1,1,0,1,0,0,0,0,0
+SP,37,Branca,outono,1,0,0,0,1,0,0,0,0
+SP,50,Parda,verao,0,1,1,0,0,0,1,0,1
+MG,24,Parda,verao,1,0,0,1,0,0,0,0,1
+SP,6,Parda,verao,0,1,0,0,0,0,0,0,1
+SP,24,Branca,outono,1,0,0,1,1,0,0,0,1
+SP,24,Nao informado,verao,1,0,0,0,0,0,0,0,0
+SP,24,Branca,inverno,1,0,1,0,1,0,0,0,1
+MG,37,Branca,primavera,1,1,0,1,0,0,0,0,0
+RJ,37,Parda,inverno,0,0,0,0,0,0,0,0,1
+MG,24,Branca,verao,1,0,1,0,1,0,0,0,0
+SP,37,Parda,inverno,0,0,0,0,0,0,0,0,1
+RJ,50,Nao informado,outono,0,0,0,0,0,0,0,0,1
+SP,37,Branca,verao,0,1,1,0,0,0,0,0,1
+SP,6,Branca,outono,0,1,0,0,0,0,0,0,0
+SP,37,Nao informado,verao,0,1,0,0,0,0,0,0,0
+SP,37,Nao informado,verao,1,1,0,0,1,0,0,0,1
+SP,37,Outra,verao,1,1,1,0,1,0,0,0,1
+SP,6,Parda,inverno,1,0,0,0,1,0,0,0,0
+RJ,37,Nao informado,primavera,0,0,0,0,0,0,0,0,0
+SP,50,Parda,primavera,1,1,1,1,1,1,0,0,1
+SP,37,Branca,inverno,1,0,1,1,1,0,0,0,1
+SP,37,Branca,verao,0,0,0,0,0,0,0,0,1
+SP,37,Branca,outono,0,1,0,1,0,0,0,0,0
+RJ,37,Branca,primavera,0,0,0,0,0,0,0,1,0
+SP,24,Branca,inverno,1,0,0,1,1,1,0,0,0
+MG,24,Outra,verao,0,1,1,0,1,0,0,0,1
+SP,24,Branca,outono,1,0,0,0,1,0,0,0,1
+SP,24,Branca,outono,0,1,0,0,1,0,0,0,0
+SP,50,Branca,verao,1,1,1,1,1,1,0,0,1
+SP,6,Branca,inverno,0,0,0,0,0,0,0,0,1
+RJ,15,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,24,Branca,inverno,0,0,0,1,1,0,0,0,0
+SP,50,Branca,primavera,1,1,0,0,1,0,0,0,1
+SP,37,Outra,verao,0,1,1,0,0,1,0,0,1
+RJ,37,Nao informado,outono,1,1,1,1,1,1,1,0,1
+RJ,37,Branca,verao,1,1,1,1,0,0,0,0,1
+SP,6,Branca,verao,1,0,0,0,0,0,0,0,0
+RJ,37,Parda,outono,0,0,0,0,1,0,0,0,1
+RJ,50,Outra,primavera,1,0,1,1,1,0,1,0,0
+MG,24,Nao informado,primavera,0,0,0,0,0,0,0,0,1
+SP,50,Branca,verao,1,0,1,0,0,0,0,0,1
+RJ,15,Parda,inverno,1,0,1,0,1,0,0,0,0
+MG,24,Parda,verao,0,0,1,1,1,0,0,0,0
+SP,50,Branca,verao,1,0,1,0,0,0,0,0,1
+MG,24,Branca,primavera,1,0,0,1,1,0,0,0,0
+MG,6,Parda,verao,1,1,1,0,0,0,0,0,0
+RJ,15,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,15,Branca,inverno,1,1,1,1,1,0,0,0,1
+MG,37,Nao informado,verao,1,0,0,0,1,0,0,0,0
+SP,37,Outra,primavera,1,1,0,1,0,0,0,0,0
+MG,37,Parda,outono,1,1,0,0,1,0,0,0,1
+SP,37,Branca,verao,0,0,0,1,0,0,0,0,0
+SP,50,Branca,primavera,1,0,0,0,1,0,0,0,0
+MG,50,Outra,verao,1,1,1,0,0,0,0,0,1
+SP,24,Branca,primavera,1,0,0,0,1,0,0,0,1
+SP,6,Branca,primavera,1,0,0,0,0,0,0,0,1
+SP,50,Branca,verao,0,0,0,1,0,1,0,0,1
+SP,37,Parda,verao,0,0,0,0,1,0,0,0,1
+SP,6,Branca,verao,0,0,0,1,0,0,0,0,0
+MG,50,Branca,outono,1,0,0,0,1,1,0,0,1
+MG,6,Branca,primavera,1,0,1,1,1,0,0,0,0
+SP,6,Nao informado,primavera,1,1,0,0,1,0,0,0,0
+SP,24,Branca,primavera,1,0,1,0,1,0,0,0,0
+SP,15,Parda,outono,1,0,1,0,1,0,0,0,1
+SP,37,Parda,primavera,0,1,1,0,0,0,0,0,0
+MG,50,Parda,primavera,1,0,1,0,1,0,0,0,1
+SP,6,Branca,verao,0,0,1,0,1,0,0,0,1
+RJ,6,Nao informado,verao,0,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,0,0,0,0,1,0,0,0,0
+SP,24,Branca,verao,1,0,1,1,1,0,0,0,0
+SP,37,Outra,outono,1,0,0,0,1,0,0,0,1
+SP,37,Parda,verao,0,0,1,0,1,0,0,0,1
+SP,37,Nao informado,verao,1,0,0,1,1,0,0,0,1
+SP,50,Branca,verao,1,0,0,1,1,0,0,0,1
+SP,24,Branca,verao,1,0,0,0,0,0,0,0,1
+SP,15,Nao informado,primavera,1,1,0,0,1,0,0,0,0
+RJ,50,Parda,outono,0,0,0,0,1,0,0,0,1
+SP,15,Branca,primavera,0,1,0,1,0,0,0,0,0
+SP,50,Branca,inverno,1,1,1,1,0,1,0,0,0
+MG,50,Parda,verao,1,1,1,1,0,1,1,0,0
+SP,37,Branca,outono,1,1,1,0,0,0,0,0,0
+MG,50,Nao informado,verao,0,0,1,1,0,0,0,0,1
+SP,15,Parda,outono,1,0,1,0,0,0,0,0,0
+RJ,37,Parda,primavera,1,0,0,1,1,1,0,0,0
+MG,37,Parda,verao,1,1,1,0,1,0,0,0,1
+MG,15,Branca,outono,1,1,0,1,1,0,0,0,0
+SP,24,Outra,primavera,1,0,1,1,1,0,0,0,1
+RJ,50,Branca,outono,1,0,0,0,0,0,0,0,0
+RJ,24,Nao informado,outono,1,1,1,0,0,0,0,0,0
+SP,6,Parda,outono,1,1,0,0,0,0,0,0,0
+SP,24,Parda,inverno,0,0,1,1,1,1,0,0,1
+SP,37,Branca,inverno,0,1,0,1,0,1,0,0,0
+SP,37,Branca,outono,1,1,0,0,1,0,0,0,1
+RJ,6,Branca,verao,0,1,0,0,0,0,0,0,1
+RJ,24,Branca,outono,0,0,0,0,0,0,0,0,0
+SP,50,Branca,outono,1,0,1,1,1,0,0,0,1
+SP,24,Branca,verao,1,0,0,1,1,0,0,0,1
+RJ,50,Parda,primavera,1,0,1,0,1,0,0,0,1
+SP,37,Nao informado,primavera,1,0,0,0,0,0,0,0,0
+SP,37,Branca,outono,0,0,0,0,0,0,0,0,1
+MG,37,Outra,outono,1,0,0,0,1,0,0,0,1
+MG,50,Outra,inverno,1,0,1,0,0,0,0,0,1
+SP,37,Branca,outono,0,0,0,1,1,0,0,0,1
+SP,50,Branca,outono,0,0,0,1,1,0,1,0,0
+SP,50,Branca,inverno,0,0,0,1,1,0,0,0,0
+RJ,50,Nao informado,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,inverno,0,1,1,0,1,0,0,0,1
+RJ,37,Branca,inverno,0,0,0,0,0,0,0,0,0
+SP,37,Branca,primavera,1,1,0,0,0,0,0,0,0
+RJ,6,Branca,inverno,1,1,0,0,0,0,0,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+SP,6,Branca,verao,0,1,0,1,1,0,0,0,1
+MG,6,Branca,outono,1,1,1,1,1,0,0,0,0
+SP,50,Parda,primavera,1,0,1,1,1,1,1,0,0
+SP,37,Branca,verao,0,1,0,0,0,0,0,0,1
+RJ,50,Nao informado,outono,1,0,1,1,1,0,0,0,0
+SP,6,Branca,outono,1,1,0,1,1,0,0,0,1
+SP,24,Branca,primavera,1,0,1,0,0,0,0,0,0
+MG,50,Parda,primavera,1,0,0,0,1,0,0,0,0
+RJ,15,Nao informado,outono,0,0,0,0,0,0,0,0,0
+SP,37,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,6,Parda,verao,1,0,0,0,1,0,0,0,0
+SP,24,Nao informado,verao,1,0,1,0,1,1,0,0,0
+SP,37,Branca,primavera,1,0,0,1,0,0,0,0,1
+MG,50,Parda,outono,1,0,0,1,0,0,0,0,0
+RJ,37,Outra,primavera,1,0,1,0,0,0,0,0,0
+RJ,37,Branca,primavera,1,0,0,0,0,0,0,0,1
+RJ,37,Nao informado,verao,1,1,0,0,0,0,0,0,1
+MG,50,Parda,outono,1,1,1,1,1,0,0,0,0
+MG,37,Outra,inverno,1,0,0,1,0,0,0,0,0
+MG,24,Branca,outono,0,0,0,0,0,0,0,0,0
+RJ,50,Outra,outono,1,0,1,0,1,0,0,0,1
+SP,37,Branca,outono,0,0,1,1,0,0,0,0,1
+MG,50,Nao informado,verao,0,0,0,0,0,0,0,0,0
+RJ,6,Parda,outono,1,1,1,1,0,0,0,0,0
+RJ,15,Branca,verao,1,0,0,0,1,0,0,0,0
+MG,37,Branca,verao,0,1,1,0,0,0,0,0,1
+SP,24,Outra,verao,0,0,0,0,0,0,0,0,1
+RJ,37,Parda,verao,0,0,0,0,0,0,0,0,0
+MG,24,Nao informado,primavera,0,0,0,0,0,0,1,0,1
+SP,24,Branca,verao,1,0,1,0,0,0,0,0,1
+SP,24,Branca,verao,0,0,0,0,1,0,0,0,0
+SP,37,Branca,verao,0,1,1,1,1,0,0,0,0
+SP,50,Branca,verao,1,0,1,1,0,1,0,1,0
+RJ,37,Branca,verao,1,0,0,0,1,0,0,0,1
+RJ,37,Branca,verao,1,0,1,1,1,0,0,0,1
+MG,37,Branca,outono,1,0,1,1,1,0,0,0,0
+RJ,37,Branca,verao,1,1,1,1,1,0,1,0,0
+MG,24,Nao informado,verao,0,0,0,0,0,0,0,0,1
+MG,37,Branca,verao,0,0,1,0,0,1,0,0,1
+SP,24,Parda,verao,0,1,0,0,1,0,0,0,1
+SP,6,Parda,verao,1,0,0,0,1,0,0,0,1
+SP,37,Outra,outono,0,0,0,0,0,0,0,0,0
+SP,6,Branca,verao,1,1,0,0,1,0,0,0,0
